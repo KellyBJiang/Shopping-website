@@ -1,0 +1,1257 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=100&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6f05d3a3-74f5-4c1a-b909-1fc87ff2ea4c",
+        "Title": "The State Historical Museum (Moscow)",
+        "MediaUrl": "https://depts.washington.edu/silkroad/museums/gim/gimbldg1.jpg",
+        "SourceUrl": "https://depts.washington.edu/silkroad/museums/gim/gim.html",
+        "DisplayUrl": "https://depts.washington.edu/silkroad/museums/gim/gim.html",
+        "Width": "750",
+        "Height": "499",
+        "FileSize": "82786",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Md13ae65d7711facfe977e489db006898o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "12230"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=101&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4902eb38-e46b-4c3f-a075-637d3c873309",
+        "Title": "Architecture in Mississippi: From Prehistoric to 1900 | Mississippi ...",
+        "MediaUrl": "http://mshistorynow.mdah.state.ms.us/images/749.jpg",
+        "SourceUrl": "http://mshistorynow.mdah.state.ms.us/articles/327/architecture-in-mississippi-from-prehistoric-to-1900",
+        "DisplayUrl": "mshistorynow.mdah.state.ms.us/articles/327/architecture-in...",
+        "Width": "535",
+        "Height": "401",
+        "FileSize": "226913",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mb9a6670dab734edb474d4cbc5d976799o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "224",
+          "FileSize": "13285"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=102&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6c150f4b-3551-47e0-b090-e1dee2a7792c",
+        "Title": "Image Gallery - Bath's Historic Buildings & Architecture - Bath UK ...",
+        "MediaUrl": "http://www.bath.co.uk/wp-content/gallery/baths-historic-buildings-and-architecture/the-cross-bath.jpg",
+        "SourceUrl": "http://www.bath.co.uk/photo-gallery/image-gallery-baths-historic-buildings-architecture",
+        "DisplayUrl": "www.bath.co.uk/photo-gallery/image-gallery-baths-historic-buildings...",
+        "Width": "1024",
+        "Height": "638",
+        "FileSize": "207727",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M8732004b685d52510122306bab158228o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "186",
+          "FileSize": "12097"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=103&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f8e2e4af-c99d-4cf7-9afe-fa99859d43a8",
+        "Title": "Historic Architecture City Hall Montreal Quebec - Photo & Travel Idea ...",
+        "MediaUrl": "http://www.canada-photos.com/images/500/historic-architecture_2389-2312.jpg",
+        "SourceUrl": "http://www.canada-photos.com/picture/historic-architecture-city-hall-montreal-quebec-2312.htm",
+        "DisplayUrl": "www.canada-photos.com/picture/historic-architecture-city-hall...",
+        "Width": "500",
+        "Height": "332",
+        "FileSize": "137766",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mec61e2dc88e19749999c72f8ca0e93f6o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "12532"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=104&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "981499d1-3e5f-4a2f-9761-2efee1b12b95",
+        "Title": "Wallpaper castle, reflection, clouds, Chateau de Chenonceau ...",
+        "MediaUrl": "http://www.goodwp.com/images/201108/goodwp.com_19644.jpg",
+        "SourceUrl": "http://www.goodwp.com/world/19644-castle-reflection-clouds-chateau-de-chenonceau-chenonceaux-cher-river-france.html",
+        "DisplayUrl": "www.goodwp.com/world/19644-castle-reflection-clouds-chateau-de...",
+        "Width": "1920",
+        "Height": "1200",
+        "FileSize": "1329739",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mbcfabf5e531ffe668d529c9f80fd5b46o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "17541"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=105&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b076359a-f5e1-4a1d-9a37-5cbd022c0490",
+        "Title": "History of Islamic Architecture",
+        "MediaUrl": "http://www.historyforkids.org/learn/islam/architecture/pictures/kairouancols.jpg",
+        "SourceUrl": "http://iah211dspring2010.wikispaces.com/Group%204-4%20Islamic%20Art",
+        "DisplayUrl": "iah211dspring2010.wikispaces.com/Group 4-4 Islamic Art",
+        "Width": "250",
+        "Height": "327",
+        "FileSize": "13064",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M59a335a506872277f9ddd06b0541d5c0H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "229",
+          "Height": "300",
+          "FileSize": "9335"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=106&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "aa7f4e58-2b47-4c06-ab2c-8acc03298656",
+        "Title": "Texas Architecture: A Visual History - The University of Texas ...",
+        "MediaUrl": "http://www.lib.utexas.edu/exhibits/txarch/images/timeline_top.gif",
+        "SourceUrl": "http://www.lib.utexas.edu/exhibits/txarch/timeline.html",
+        "DisplayUrl": "www.lib.utexas.edu/exhibits/txarch/timeline.html",
+        "Width": "768",
+        "Height": "217",
+        "FileSize": "28185",
+        "ContentType": "gif",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M04e3da10b2c1232d37291f90a37c007do0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "480",
+          "Height": "135",
+          "FileSize": "8599"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=107&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "57cd527a-fd68-4087-985f-d91a4d5e47c8",
+        "Title": "History Of American Architecture Timeline | Preceden",
+        "MediaUrl": "http://0.tqn.com/d/architecture/1/0/N/K/frenchcreole-alvaro-prieto.jpg",
+        "SourceUrl": "http://preceden.com/timelines/19454-history-of-american-architecture",
+        "DisplayUrl": "preceden.com/timelines/19454-history-of-american-architecture",
+        "Width": "640",
+        "Height": "424",
+        "FileSize": "42157",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mf087e89b5eaafcd30d87c0a2c56e63e7o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "198",
+          "FileSize": "9028"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=108&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "83a57a9d-553b-4fb9-b8aa-118d51fcd90a",
+        "Title": "Roman Architecture | Exploring Our World and History, One Blog Post at ...",
+        "MediaUrl": "http://historyandhumanities.files.wordpress.com/2013/05/roman-window-architecture-i5.jpg",
+        "SourceUrl": "http://historyandhumanities.wordpress.com/2013/05/02/roman-architecture/",
+        "DisplayUrl": "historyandhumanities.wordpress.com/2013/05/02/roman-architecture",
+        "Width": "2100",
+        "Height": "1500",
+        "FileSize": "2619221",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mee7a80385861ef1bd84b17123f28ce00H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "214",
+          "FileSize": "11821"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=109&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9c4a90a2-2035-47b3-973f-46fb19cf1702",
+        "Title": "In the Mystical House of K.",
+        "MediaUrl": "http://2.bp.blogspot.com/-0DHFrIqhwho/UDvnd0Q41nI/AAAAAAAAAS8/TyZbW80f-Nw/s1600/Konark_Sub_Temple_Front_view.jpg",
+        "SourceUrl": "http://mysticalhouseofk.blogspot.com/2012/08/the-sun-temple-of-konark.html",
+        "DisplayUrl": "mysticalhouseofk.blogspot.com/2012/08/the-sun-temple-of-konark.html",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "194497",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M5e9be5c26297f8bf7f4e62050ae54404H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "10045"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=110&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e515ba03-bd47-425f-a92c-f040465dac30",
+        "Title": "Historic Mughal Architecture Stock Photo - Image: 3986040",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/historic-mughal-architecture-3986040.jpg",
+        "SourceUrl": "http://www.dreamstime.com/stock-photo-historic-mughal-architecture-image3986040",
+        "DisplayUrl": "www.dreamstime.com/stock-photo-historic-mughal-architecture...",
+        "Width": "1300",
+        "Height": "953",
+        "FileSize": "182786",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mec921d532dc6897e1658389e10b70156H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "219",
+          "FileSize": "16012"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=111&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "42c1ac8f-1a8c-4dcc-9c03-82093cd3034a",
+        "Title": "ART HISTORY - The Architecture of Gropius - Dieselpunks",
+        "MediaUrl": "http://api.ning.com/files/vMm07L4ot5bkkNPwwTSW-9Ury9nL*LgtBbVgKlWqvBLQCOOHxg9IUfQgUFf0SJ8e-BK0C6rEOCAhLHH7Y2V*jCmWAGMp5GXn/fagusshoefactory.jpg",
+        "SourceUrl": "http://www.dieselpunks.org/profiles/blogs/art-history-the-architecture",
+        "DisplayUrl": "www.dieselpunks.org/profiles/blogs/art-history-the-architecture",
+        "Width": "600",
+        "Height": "520",
+        "FileSize": "73496",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M8502c3eab7f6220274ed9bfcb2b728b0H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "260",
+          "FileSize": "17528"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=112&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "750fd2d4-0c41-4636-bcdb-014e25a786e2",
+        "Title": "Roman Architecture - Historic Rome Buildings - e-architect",
+        "MediaUrl": "http://www.e-architect.co.uk/images/jpgs/rome/rome_building_aw080217_695.jpg",
+        "SourceUrl": "http://www.e-architect.co.uk/roman-architecture",
+        "DisplayUrl": "www.e-architect.co.uk/roman-architecture",
+        "Width": "800",
+        "Height": "600",
+        "FileSize": "94033",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M0f11de33be08864d523ddfa298ebee6fH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "14458"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=113&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3b1b27d3-8b18-44ad-8717-091bae23be9f",
+        "Title": "Historic Architecture vs. Clean Energy - NYTimes.com",
+        "MediaUrl": "http://graphics8.nytimes.com/images/blogs/greeninc/mtvernon.jpeg",
+        "SourceUrl": "http://green.blogs.nytimes.com/2009/05/27/historic-architecture-vs-clean-energy/",
+        "DisplayUrl": "green.blogs.nytimes.com/2009/05/27/historic-architecture-vs-clean...",
+        "Width": "480",
+        "Height": "286",
+        "FileSize": "79999",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M7c723f98c47ae6b81c9b64d97738abdbo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "178",
+          "FileSize": "10749"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=114&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "587795ae-8fb1-4bd6-b77e-fcf092e66cfe",
+        "Title": "... : the olympic swimming pool with respect for historic architecture",
+        "MediaUrl": "http://media-cdn.tripadvisor.com/media/photo-s/06/28/0e/35/grecotel-amirandes.jpg",
+        "SourceUrl": "http://www.tripadvisor.com/LocationPhotoDirectLink-g655745-d656824-i103288373-Grecotel_Amirandes-Gouves_Crete.html",
+        "DisplayUrl": "www.tripadvisor.com/LocationPhotoDirectLink-g655745-d656824...",
+        "Width": "550",
+        "Height": "413",
+        "FileSize": "53669",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M6d2fcd39c5079e204aa8f5982562af74o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "10653"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=115&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0bf7f4b8-ca92-414a-bb1e-566f9406362b",
+        "Title": "... Colonial | Modern Interior | Historic Architecture | Home Renovation",
+        "MediaUrl": "http://interiorsbystudiom.com/wp-content/uploads/2014/06/32.jpg",
+        "SourceUrl": "http://interiorsbystudiom.com/spanish-colonial-modern-interior-historic-architecture-home-renovation/",
+        "DisplayUrl": "interiorsbystudiom.com/spanish-colonial-modern-interior-historic...",
+        "Width": "1000",
+        "Height": "1432",
+        "FileSize": "690201",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mf4a66fe404182129341cd96fefd5b601o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "209",
+          "Height": "300",
+          "FileSize": "18016"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=116&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "93d43f1b-a8cb-4633-a4bc-7104413c25f3",
+        "Title": "Description Petra Jordan BW 36.JPG",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/a/a5/Petra_Jordan_BW_36.JPG",
+        "SourceUrl": "http://commons.wikimedia.org/wiki/File:Petra_Jordan_BW_36.JPG",
+        "DisplayUrl": "commons.wikimedia.org/wiki/File:Petra_Jordan_BW_36.JPG",
+        "Width": "3722",
+        "Height": "2543",
+        "FileSize": "4526162",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M04a6e44efa4c115b22a51a0b3f70c161o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "204",
+          "FileSize": "13407"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=117&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b6b55046-1d3c-49ce-814a-83f2dfdc7b05",
+        "Title": "... Architecture: Periods History Architecture Romanesque Architecture",
+        "MediaUrl": "http://www.bc.edu/bc_org/avp/cas/fnart/arch/romanesque/paray02.jpg",
+        "SourceUrl": "http://network-architectures.blogspot.com/2013/07/periods-history-architecture-romanesque.html",
+        "DisplayUrl": "network-architectures.blogspot.com/2013/07/periods-history...",
+        "Width": "413",
+        "Height": "478",
+        "FileSize": "51585",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mc3a1f6b9449058ca917e0fd7e0fc5e5bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "259",
+          "Height": "300",
+          "FileSize": "17040"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=118&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f308b325-e5ee-4a36-9943-b83675a9530e",
+        "Title": "Historic Architecture In Oradea Stock Photo - Image: 60740674",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/historic-architecture-oradea-romania-europe-60740674.jpg",
+        "SourceUrl": "http://www.dreamstime.com/stock-photo-historic-architecture-oradea-romania-europe-image60740674",
+        "DisplayUrl": "www.dreamstime.com/stock-photo-historic-architecture-oradea-romania...",
+        "Width": "1300",
+        "Height": "957",
+        "FileSize": "250912",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mecdb51603f5653434af2c8ff5d7d8a73o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "220",
+          "FileSize": "19838"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=119&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "40b43cc3-f5a3-4b9c-8cf0-aa20ea1d4eff",
+        "Title": "Description Persepolis recreated.jpg",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/e/e1/Persepolis_recreated.jpg",
+        "SourceUrl": "http://commons.wikimedia.org/wiki/File:Persepolis_recreated.jpg",
+        "DisplayUrl": "commons.wikimedia.org/wiki/File:Persepolis_recreated.jpg",
+        "Width": "597",
+        "Height": "606",
+        "FileSize": "125206",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M1e72ed59b973923d502cf43d21316846o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "295",
+          "Height": "300",
+          "FileSize": "15021"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=120&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4fb658ce-ddfe-43c1-8a00-ceb4912da5bf",
+        "Title": "Saint Peter's Basilica, Rome: History, Architecture",
+        "MediaUrl": "http://www.visual-arts-cork.com/images-applied-art/st-peters-renaissance-style.jpg",
+        "SourceUrl": "http://www.visual-arts-cork.com/history-of-art/saint-peters-basilica.htm",
+        "DisplayUrl": "www.visual-arts-cork.com/history-of-art/saint-peters-basilica.htm",
+        "Width": "200",
+        "Height": "200",
+        "FileSize": "13610",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M0f3529c5506923605d14fd0e8590a488o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "200",
+          "Height": "200",
+          "FileSize": "9617"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=121&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f39e17c7-b11b-4e06-8adb-316171664158",
+        "Title": "File:Mexican Architecture.jpg - Wikimedia Commons",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/8/87/Mexican_Architecture.jpg",
+        "SourceUrl": "http://commons.wikimedia.org/wiki/File:Mexican_Architecture.jpg",
+        "DisplayUrl": "commons.wikimedia.org/wiki/File:Mexican_Architecture.jpg",
+        "Width": "2592",
+        "Height": "1944",
+        "FileSize": "699631",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mb8f8625c6455f7f40482ce985ef2d8b8o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "11532"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=122&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a9f643a9-5a0f-41c5-99fb-2bec75a27e10",
+        "Title": "... must maintain the town s historic character as defined by the historic",
+        "MediaUrl": "http://www.idesignarch.com/wp-content/uploads/Redesign-Historic-House-Concord_1.jpg",
+        "SourceUrl": "http://www.idesignarch.com/redesigning-a-1890s-house-in-massachusetts/",
+        "DisplayUrl": "www.idesignarch.com/redesigning-a-1890s-house-in-massachusetts",
+        "Width": "1280",
+        "Height": "853",
+        "FileSize": "350482",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mb5087350998d88117db23f855aa8ff10H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "17208"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=123&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5303c62d-d1ad-4482-962f-b9a984f4f135",
+        "Title": "History: Greek Architecture",
+        "MediaUrl": "http://1.bp.blogspot.com/_DWXDXaxyh1o/TBGMQN796kI/AAAAAAAAAB8/D1z5YCz7UfA/s1600/Picture5.jpg",
+        "SourceUrl": "http://rav-historyofwesternarts.blogspot.com/2010/06/greek-architecture.html",
+        "DisplayUrl": "rav-historyofwesternarts.blogspot.com/2010/06/greek-architecture.html",
+        "Width": "1209",
+        "Height": "839",
+        "FileSize": "216398",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M05b8fdb2ee00b8988b790493046452a3H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "208",
+          "FileSize": "15819"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=124&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7029de01-0714-4e1e-9dd0-ec8464401b12",
+        "Title": "Ancient History Ancient Architecture",
+        "MediaUrl": "http://images2.fanpop.com/image/photos/9200000/Ancient-Architecture-ancient-history-9232024-800-600.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/ancient-history/images/9232024/title/ancient-architecture-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/ancient-history/images/9232024/title/ancient...",
+        "Width": "800",
+        "Height": "600",
+        "FileSize": "162553",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mb3c43b398b7f2faf85b26229d59a1fd0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "19932"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=125&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d60ad8c2-6027-4c8f-a015-8a77d1349ae0",
+        "Title": "... Greek Architecture | Department of the History of Art and Architecture",
+        "MediaUrl": "http://arthistory.uoregon.edu/sites/arthistory.uoregon.edu/files/images/courses/arh427-527greekarch.jpg",
+        "SourceUrl": "http://arthistory.uoregon.edu/427527-greek-architecture",
+        "DisplayUrl": "arthistory.uoregon.edu/427527-greek-architecture",
+        "Width": "432",
+        "Height": "308",
+        "FileSize": "55827",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M0778e12429b52d770dd83b1a10831c7fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "213",
+          "FileSize": "11037"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=126&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6daffd8c-5e4d-4a1e-8504-0103f304ac1a",
+        "Title": "Ancient History images Ancient Architecture wallpaper photos (9232203)",
+        "MediaUrl": "http://images2.fanpop.com/image/photos/9200000/Ancient-Architecture-ancient-history-9232203-1280-800.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/ancient-history/images/9232203/title/ancient-architecture-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/ancient-history/images/9232203/title/ancient...",
+        "Width": "1280",
+        "Height": "800",
+        "FileSize": "143992",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M23c10a6f9849adda137aaec4ba603600H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "6512"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=127&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "57c58be8-c67e-4cd8-92f0-568160ac275e",
+        "Title": "Spaulding-Paolozzi-Center-by-Allied-Works-Architecture03",
+        "MediaUrl": "https://mpsch.files.wordpress.com/2014/08/spaulding-paolozzi-center-by-allied-works-architecture03.jpg",
+        "SourceUrl": "https://mpsch.wordpress.com/2014/08/25/the-post-courier-bold-buildings-how-to-integrate-new-architecture-into-historic-urban-landscapes/",
+        "DisplayUrl": "https://mpsch.wordpress.com/2014/08/25/the-post-courier-bold...",
+        "Width": "1600",
+        "Height": "948",
+        "FileSize": "113004",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Meac052e1865f49aaa83fb7954670e86bo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "177",
+          "FileSize": "7368"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=128&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1b469f99-e13a-4761-947e-be8d6e873baf",
+        "Title": "... architecture european architecture history of architecture 1 comment",
+        "MediaUrl": "https://jennyp12.files.wordpress.com/2010/05/londra_67_modern_architecture.jpg",
+        "SourceUrl": "https://jennyp12.wordpress.com/category/history-of-architecture/",
+        "DisplayUrl": "https://jennyp12.wordpress.com/category/history-of-architecture",
+        "Width": "800",
+        "Height": "600",
+        "FileSize": "27063",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M904a76a7acf29a43ca9a840ef1b2defbo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "10509"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=129&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7224f7a3-ef6b-46a0-9616-f4bc8a459798",
+        "Title": "Romancing History: Georgian Architecture - Pollok House, Glasgow",
+        "MediaUrl": "http://1.bp.blogspot.com/-i5Aa8GtcVis/Tc2B3KObDpI/AAAAAAAAAT0/a12Qe--vzKQ/s1600/Rear+of+Pollock+House.jpg",
+        "SourceUrl": "http://romygemmell.blogspot.com/2011/05/georgian-architecture-pollok-house.html",
+        "DisplayUrl": "romygemmell.blogspot.com/2011/05/georgian-architecture-pollok-house...",
+        "Width": "1600",
+        "Height": "1193",
+        "FileSize": "219160",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M3372b684869a96c03fd0613b6d4eb9d8o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "223",
+          "FileSize": "10575"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=130&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7763f23a-dc4f-4b46-b1a0-83169b5109cf",
+        "Title": "... architecture actually heightens the experience of historic buildings",
+        "MediaUrl": "http://spfaust.files.wordpress.com/2011/09/copenhagen-architecture-1-1.jpg",
+        "SourceUrl": "http://spfaust.wordpress.com/2011/09/17/copenhagen-land-of-clean-architecure/",
+        "DisplayUrl": "spfaust.wordpress.com/2011/09/17/copenhagen-land-of-clean-architecure",
+        "Width": "1100",
+        "Height": "837",
+        "FileSize": "196631",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M17dfd2b3696566f5bd85b2ba9ba29eb0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "228",
+          "FileSize": "7578"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=131&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "85aa2e59-46d5-45df-b5c8-9b0168cda48d",
+        "Title": "Architecture History 5 - Santa Maria di Fiori by ronat1 on DeviantArt",
+        "MediaUrl": "http://th09.deviantart.net/fs71/PRE/f/2012/080/7/9/architecture_history_5___santa_maria_di_fiori_by_ronat1-d4tiu9f.jpg",
+        "SourceUrl": "http://ronat1.deviantart.com/art/Architecture-History-5-Santa-Maria-di-Fiori-291452595",
+        "DisplayUrl": "ronat1.deviantart.com/art/Architecture-History-5-Santa-Maria-di...",
+        "Width": "1131",
+        "Height": "707",
+        "FileSize": "169879",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Md1b78d507dbc449ab59a1c2aa713fd40o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "9579"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=132&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e27351e6-b1a9-432c-ac65-df3d44e90c69",
+        "Title": "modern architecture with bauhaus inspired elements modern architecture ...",
+        "MediaUrl": "http://4.bp.blogspot.com/-IJ98iUo9jME/UK0iToQiYZI/AAAAAAAAKFA/L2bRr118Hrw/s640/Modern-Architecture.jpg",
+        "SourceUrl": "http://www.architectweekly.com/2012/12/why-was-bauhaus-style-so-important.html",
+        "DisplayUrl": "www.architectweekly.com/2012/12/why-was-bauhaus-style-so-important...",
+        "Width": "630",
+        "Height": "448",
+        "FileSize": "38135",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M2842cca314f66ea516865bca8da33cdaH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "213",
+          "FileSize": "6936"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=133&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "10f3c1cb-d77d-45bb-b963-d36a6b555b81",
+        "Title": "Ancient History Ancient Architecture",
+        "MediaUrl": "http://images2.fanpop.com/image/photos/9200000/Ancient-Architecture-ancient-history-9231993-1280-800.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/ancient-history/images/9231993/title/ancient-architecture-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/ancient-history/images/9231993/title/ancient...",
+        "Width": "1280",
+        "Height": "800",
+        "FileSize": "345478",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M2f6dc6124e26d46a3b87ac6f3733ec8eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "20456"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=134&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7664bfb6-36ac-4a52-91dc-f75e0f0b1606",
+        "Title": "Historic Preservation Heritage Tour: Craftsman Architecture",
+        "MediaUrl": "http://www.historicspokane.org/HeritageTours/images/craftsman/History%201.jpg",
+        "SourceUrl": "http://www.historicspokane.org/HeritageTours/craftsman/craftsman-history.html",
+        "DisplayUrl": "www.historicspokane.org/HeritageTours/craftsman/craftsman-history.html",
+        "Width": "1000",
+        "Height": "447",
+        "FileSize": "113346",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mffc859922133922166e48abbfb73dcb5o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "134",
+          "FileSize": "9750"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=135&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "cc5c25a6-36aa-443c-96cb-b913e9dff442",
+        "Title": "... Architecture Changed, 1750-1814 on the evolving material culture of",
+        "MediaUrl": "http://newyorkhistoryblog.org/wp-content/uploads/2014/02/313556_10150319313123348_471487521_n.jpg",
+        "SourceUrl": "http://newyorkhistoryblog.org/tags/mohawk-river",
+        "DisplayUrl": "newyorkhistoryblog.org/tags/mohawk-river",
+        "Width": "575",
+        "Height": "478",
+        "FileSize": "53669",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Ma8aa66d84b5a8005747c7de626621f2ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "249",
+          "FileSize": "13024"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=136&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "cbd19559-1bed-4e35-8433-20b08ef9ea13",
+        "Title": "Historic Architecture In Oradea Stock Photo - Image: 59982234",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/historic-architecture-oradea-romania-europe-59982234.jpg",
+        "SourceUrl": "http://dreamstime.com/stock-photo-historic-architecture-oradea-romania-europe-image59982234",
+        "DisplayUrl": "dreamstime.com/stock-photo-historic-architecture-oradea-romania...",
+        "Width": "1300",
+        "Height": "957",
+        "FileSize": "198143",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Md77b9354ec38fb82d03ed826da5205b1o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "220",
+          "FileSize": "16267"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=137&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a536f7f5-474c-46cb-b2d0-66d36e17aa1f",
+        "Title": "Social History of Indian Architecture",
+        "MediaUrl": "http://www.exoticindia.com/books/a_social_history_of_indian_architecture_ide504.jpg",
+        "SourceUrl": "http://www.exoticindiaart.com/book/details/social-history-of-indian-architecture-IDE504/",
+        "DisplayUrl": "www.exoticindiaart.com/book/details/social-history-of-indian...",
+        "Width": "341",
+        "Height": "450",
+        "FileSize": "51946",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M1936835dc6d7699fb66b0ff119723271o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "227",
+          "Height": "300",
+          "FileSize": "17954"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=138&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "28e9dc22-d379-4497-a359-e6b57f308975",
+        "Title": "Famous Hindu Akshardham temple in South Delhi",
+        "MediaUrl": "http://www.crystalinks.com/india_architecture.jpg",
+        "SourceUrl": "http://www.crystalinks.com/indiarchitecture.html",
+        "DisplayUrl": "www.crystalinks.com/indiarchitecture.html",
+        "Width": "699",
+        "Height": "450",
+        "FileSize": "46652",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mcd23a166b76d5c7c886459e106b2ac6bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "193",
+          "FileSize": "13273"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=139&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "18f51476-7d8c-4ebe-a0da-42d4dcc23e7f",
+        "Title": "which would otherwise seriously weaken the vault walls and cause them ...",
+        "MediaUrl": "http://fourriverscharter.org/projects/Inventions/images/gothic_cathedrals5.jpg",
+        "SourceUrl": "http://fourriverscharter.org/projects/Inventions/pages/europe_gothiccathedrals.htm",
+        "DisplayUrl": "fourriverscharter.org/projects/Inventions/pages/europe...",
+        "Width": "427",
+        "Height": "400",
+        "FileSize": "40277",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Me890118277fb8138a2b7d1331e430b3dH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "281",
+          "FileSize": "21660"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=140&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a1142673-a922-49ff-b7f3-8be59ee21a6a",
+        "Title": "Petit Trianon, 1761–1764; Versailles, France; Petit Trianon by Ange ...",
+        "MediaUrl": "https://andrewsdesignhistoryblog.files.wordpress.com/2012/06/architecture.jpg",
+        "SourceUrl": "https://andrewsdesignhistoryblog.wordpress.com/2012/06/05/french-neoclassical-louis-xvi/",
+        "DisplayUrl": "https://andrewsdesignhistoryblog.wordpress.com/2012/06/05/french...",
+        "Width": "1143",
+        "Height": "558",
+        "FileSize": "108813",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M943044a3bd048802bddb3b57f71e99f7o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "146",
+          "FileSize": "7371"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=141&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "950fbe84-29a5-433c-9d37-d61b36ad1eeb",
+        "Title": "Home » Architecture » Palace of Versailles – The Most Stupendous ...",
+        "MediaUrl": "http://planetden.com/wp-content/uploads/2014/02/Palace-of-Versailles.jpg",
+        "SourceUrl": "http://planetden.com/architecture/palace-versailles-stupendous-construction",
+        "DisplayUrl": "planetden.com/architecture/palace-versailles-stupendous-construction",
+        "Width": "1130",
+        "Height": "756",
+        "FileSize": "957122",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M1783c085855e3bd21cfe7c9576aeca60H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "29531"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=142&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ec7b08ae-450d-4076-95c4-8a4bebb12125",
+        "Title": "Energy efficiency of historic buildings in Europe | INTERNATIONAL ...",
+        "MediaUrl": "http://www.uia.archi/sites/default/files/budapest_parliament_0.jpg",
+        "SourceUrl": "http://www.uia.archi/en/exercer/nouvelles/7352",
+        "DisplayUrl": "www.uia.archi/en/exercer/nouvelles/7352",
+        "Width": "1024",
+        "Height": "759",
+        "FileSize": "216705",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M971ce662c7b9640eef0c52f908d1d70co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "222",
+          "FileSize": "10166"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=143&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f50258c2-ac6e-4c06-a077-87f7492bbb9f",
+        "Title": "History of Architecture: Introduction",
+        "MediaUrl": "http://www.gutenberg.org/files/26319/26319-h/images/frontis.jpg",
+        "SourceUrl": "http://www.gutenberg.org/files/26319/26319-h/26319-h.htm",
+        "DisplayUrl": "www.gutenberg.org/files/26319/26319-h/26319-h.htm",
+        "Width": "472",
+        "Height": "281",
+        "FileSize": "33009",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M0269ffa4935ab7edad4651ba5ac8f36ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "178",
+          "FileSize": "7185"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=144&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7a4f9d2a-e0bb-41b7-af37-cbc426569554",
+        "Title": "History and architecture | Natural History Museum",
+        "MediaUrl": "http://www.nhm.ac.uk/content/dam/nhmwww/about-us/history-architecture/dippy-753x435.jpg",
+        "SourceUrl": "http://www.nhm.ac.uk/about-us/history-and-architecture.html",
+        "DisplayUrl": "www.nhm.ac.uk/about-us/history-and-architecture.html",
+        "Width": "753",
+        "Height": "435",
+        "FileSize": "116919",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M4f4d12fbeba97165200c2f2b39a15396o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "173",
+          "FileSize": "14194"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=145&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "bcc77926-4b16-466d-9ca8-d5d22555bbc3",
+        "Title": "Leave a Reply Cancel reply",
+        "MediaUrl": "http://simotron.files.wordpress.com/2012/12/damupstream.jpg",
+        "SourceUrl": "http://simotron.wordpress.com/2012/12/18/hoover-dam-under-construction/",
+        "DisplayUrl": "simotron.wordpress.com/2012/12/18/hoover-dam-under-construction",
+        "Width": "1600",
+        "Height": "1280",
+        "FileSize": "355288",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M1e8da55139d3a15e2b129176c48bc4ebH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "240",
+          "FileSize": "18613"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=146&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c4928415-3ce6-4202-a007-8aaebd26b444",
+        "Title": "Himeji Castle, Tour the Historic Building in Japan | World Tourism ...",
+        "MediaUrl": "http://www.worldtourismplace.com/wp-content/uploads/2011/10/Himeji-Castle-Historic-Buildings-500x335.jpg",
+        "SourceUrl": "http://www.worldtourismplace.com/himeji-castle-tour-the-historic-building-in-japan/",
+        "DisplayUrl": "www.worldtourismplace.com/himeji-castle-tour-the-historic-building...",
+        "Width": "500",
+        "Height": "335",
+        "FileSize": "56175",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M99cb313c382bf69408959656db6ae1d1o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "201",
+          "FileSize": "11773"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=147&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "88ec181f-13fd-4634-8d7d-a0abeca25f75",
+        "Title": "The Roman Forum - Ancient Rome - Quatr.us",
+        "MediaUrl": "http://www.historyforkids.org/learn/romans/architecture/pictures/generalforum.jpg",
+        "SourceUrl": "http://www.historyforkids.org/learn/romans/architecture/forum.htm",
+        "DisplayUrl": "www.historyforkids.org/learn/romans/architecture/forum.htm",
+        "Width": "1536",
+        "Height": "1024",
+        "FileSize": "739625",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M900092a953c0f954258183820d5f2a34H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "15139"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=148&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8ae7e5d2-e661-4be0-989e-27d9ca4ef0d8",
+        "Title": "File:Tiruvannamalai Temple.jpg - Wikipedia, the free encyclopedia",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/e/ef/Tiruvannamalai_Temple.jpg",
+        "SourceUrl": "http://en.wikipedia.org/wiki/file:tiruvannamalai_temple.jpg",
+        "DisplayUrl": "en.wikipedia.org/wiki/file:tiruvannamalai_temple.jpg",
+        "Width": "2027",
+        "Height": "1520",
+        "FileSize": "420213",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M544bdc8eceaad975373022b7b13a0c0ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "224",
+          "FileSize": "15503"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history Architecture Photos Photos'&$skip=149&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d0d34f7b-d18c-420f-a1c3-4e9c26e935d5",
+        "Title": "The Re-Creation of the European City, Architect - e-architect",
+        "MediaUrl": "http://www.e-architect.co.uk/images/jpgs/concept/recreation_s090211_1.jpg",
+        "SourceUrl": "http://www.e-architect.co.uk/concept/recreation-european-city",
+        "DisplayUrl": "www.e-architect.co.uk/concept/recreation-european-city",
+        "Width": "900",
+        "Height": "548",
+        "FileSize": "113977",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mbc18ab5a0cbfb2a0c0911a1873bb0105o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "182",
+          "FileSize": "15200"
+        }
+      }
+    ],
+    "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='history%20Architecture%20Photos%20Photos'&$skip=150&$top=50"
+  }
+}

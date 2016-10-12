@@ -1,0 +1,27 @@
+2
+Nikon D7100 24.1 MP DX-Format CMOS Digital SLR with 18-140mm f/3.5-5.6G ED VR Auto Focus-S DX NIKKOR Zoom Lens
+3
+Nikon D40 6.1MP Digital SLR Camera Kit with 18-55mm f/3.5-5.6G ED II Auto Focus-S DX Zoom-Nikkor Lens
+4
+Nikon D3S 12.1 MP CMOS Digital SLR Camera with 3.0-Inch LCD and 24fps 720p HD Video Capability (Body Only)
+5
+Canon EOS-1D X 18.1MP Full Frame CMOS Digital SLR Camera (Discontinued by Manufacturer)
+6
+Canon EOS 5D Mark III 22.3 MP Full Frame CMOS with 1080p Full-HD Video Mode Digital SLR Camera 
+7
+Olympus Evolt E620 12.3MP DSLR with IS, 2.7-inch Swivel LCD with 14-42mm f/3.5-5.6 and and 40-150mm f/4.0-5.6 ED Zuiko Lenses
+8
+Sony Alpha SLT-A99V Full-Frame SLR Digital Camera with 3-Inch LED 
+9
+Fujifilm X-T2 Mirrorless Digital Camera with 18-55mm F2.8-4.0 R LM OIS Lens
+10
+Olympus OM-D E-M5 Mark II 
+12
+Canon EOS Rebel T5 Digital SLR Camera Kit with EF-S 18-55mm IS II Lens
+13
+Canon Rebel XTi DSLR Camera with EF-S 18-55mm f/3.5-5.6 Lens 
+14
+Nikon D60 10.2MP Digital SLR Camera Black Gold Special Edition with 18-55mm f/3.5-5.6G AF-S DX VR Nikkor Zoom Lens 
+
+
+update cameras set dscp = 'Nikon D60 10.2MP Digital SLR Camera Black Gold Special Edition with 18-55mm f/3.5-5.6G AF-S DX VR Nikkor Zoom Lens' where id_camera = 14;

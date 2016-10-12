@@ -1,0 +1,1257 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=0&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6bd3ad8c-c44f-440c-8474-ad99dc225620",
+        "Title": "happy-teenagers_2403313b.jpg",
+        "MediaUrl": "http://i.telegraph.co.uk/multimedia/archive/02403/happy-teenagers_2403313b.jpg",
+        "SourceUrl": "http://www.telegraph.co.uk/health/healthnews/9688435/Happier-teenagers-earn-higher-wages.html",
+        "DisplayUrl": "www.telegraph.co.uk/health/healthnews/9688435/Happier-teenagers...",
+        "Width": "620",
+        "Height": "387",
+        "FileSize": "39683",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M4faacb90ffc0fac7bbbf9128032df61do0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "9231"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=1&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "91762164-195a-4a97-94cc-cf705d0ca00a",
+        "Title": "Happy-Teenagers",
+        "MediaUrl": "http://www.macsadventure.com/walking-holidays/wp-content/uploads/2013/06/Happy-Teenagers.jpg",
+        "SourceUrl": "http://www.macsadventure.com/walking-holidays/how-to-convince-your-teenagers-to-join-your-activity-trip/",
+        "DisplayUrl": "www.macsadventure.com/walking-holidays/how-to-convince-your...",
+        "Width": "1000",
+        "Height": "667",
+        "FileSize": "629494",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M07595e1772824f381fc0c3de2c3ce064o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "11033"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=2&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "32d1eeae-38fb-4739-9c3a-3dfb5cdf7c1a",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://1.bp.blogspot.com/-7sd4tM97MAU/UGe2ziO0UlI/AAAAAAAAALE/2IfF5r2R9HU/s1600/Happy+Teens.jpg",
+        "SourceUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers&FORM=RESTAB",
+        "DisplayUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers...",
+        "Width": "864",
+        "Height": "575",
+        "FileSize": "431623",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M06fecaf44b491afd3e6b9a88ac35c176H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "12559"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=3&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ea445cb0-bdc6-4103-98ee-3a40a5bbd291",
+        "Title": "Happy Teenagers happy teenagers - extollo",
+        "MediaUrl": "http://extollo.com/wp-content/uploads/shutterstock_61424086.jpg",
+        "SourceUrl": "http://imgarcade.com/1/happy-teenagers/",
+        "DisplayUrl": "imgarcade.com/1/happy-teenagers",
+        "Width": "1000",
+        "Height": "667",
+        "FileSize": "851521",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M6675db72bb025a3c8fffe9412727fb12H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "16931"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=4&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5740a5ad-3237-419b-a5d9-046c6eae1d3f",
+        "Title": "Happy teens",
+        "MediaUrl": "http://collaborativefamilylawsandiegoblog.com/wp-content/uploads/2013/03/happy-teens-xs.jpg",
+        "SourceUrl": "http://collaborativefamilylawsandiegoblog.com/what-divorcing-parents-must-do-when-spring-break-and-teenagers-mix/",
+        "DisplayUrl": "collaborativefamilylawsandiegoblog.com/what-divorcing-parents-must...",
+        "Width": "547",
+        "Height": "365",
+        "FileSize": "95596",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mbcb1d5bf2f0655a3f1054b36a306a956o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "11208"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=5&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b594acab-09df-4235-8d6b-23dd263fd278",
+        "Title": "Teenage rebellion | How To Parent A Teen",
+        "MediaUrl": "https://howtoparentateen.files.wordpress.com/2012/05/group-of-teens-happy-on-beach.jpg",
+        "SourceUrl": "https://howtoparentateen.wordpress.com/category/teenage-rebellion-2",
+        "DisplayUrl": "https://howtoparentateen.wordpress.com/category/teenage-rebellion-2",
+        "Width": "900",
+        "Height": "600",
+        "FileSize": "613336",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mee1d4d839d79ee56970c753302edae9do0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "14642"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=6&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "cd5e66cd-c47d-43fa-9578-9d9581b2528e",
+        "Title": "Teenagers With Hair Loss: What Can They Do?",
+        "MediaUrl": "http://www.belgraviacentre.com/wp-content/uploads/2013/05/bigstock_Three_Young_Teenagers_2429792.jpg",
+        "SourceUrl": "http://www.belgraviacentre.com/blog/teenagers-with-hair-loss-what-can-they-do/",
+        "DisplayUrl": "www.belgraviacentre.com/blog/teenagers-with-hair-loss-what-can-they-do",
+        "Width": "900",
+        "Height": "599",
+        "FileSize": "541562",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M5b04114bcff4ea7877099b42bb1e5945H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "12816"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=7&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e29f87e2-9c21-47b3-be51-04236998f3b4",
+        "Title": "... sports) when you are an active teenager who eats a well balanced diet",
+        "MediaUrl": "http://4.bp.blogspot.com/-VBR3TYn_Xhw/TcJSusHNKxI/AAAAAAAABpE/PcozuJbA2RY/s1600/happy-teens.jpg",
+        "SourceUrl": "http://lf2011a930spring6.blogspot.com/",
+        "DisplayUrl": "lf2011a930spring6.blogspot.com",
+        "Width": "600",
+        "Height": "402",
+        "FileSize": "238803",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Me755d4d06585abcd8927a41de8422823H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "201",
+          "FileSize": "13961"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=8&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f16a84da-0702-45e6-86d8-c3e68bfb282c",
+        "Title": "Group of happy teenagers",
+        "MediaUrl": "http://iamempowered.com/files/2010/02/on-the-groung-lg.jpg",
+        "SourceUrl": "http://iamempowered.com/about-national-urban-league/ground",
+        "DisplayUrl": "iamempowered.com/about-national-urban-league/ground",
+        "Width": "568",
+        "Height": "338",
+        "FileSize": "67062",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M82080fa3d98f2cd0817bb88b292a8af1o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "178",
+          "FileSize": "15004"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=9&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f8aa326d-95bc-42a1-8667-ccaa25e5923c",
+        "Title": "healthy teenager is a happy teenager -- ScienceDaily",
+        "MediaUrl": "http://images.sciencedaily.com/2012/03/120302082911-large.jpg",
+        "SourceUrl": "http://www.sciencedaily.com/releases/2012/03/120302082911.htm",
+        "DisplayUrl": "www.sciencedaily.com/releases/2012/03/120302082911.htm",
+        "Width": "502",
+        "Height": "350",
+        "FileSize": "32926",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Me56157c4d6b0cb5fe4976ccfb28aec4co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "209",
+          "FileSize": "10606"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=10&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "889246ef-1e90-422a-aba4-038cf38c6471",
+        "Title": "Happy Teens",
+        "MediaUrl": "http://studentcareercoach.files.wordpress.com/2012/06/bigstock_portrait_of_happy_teens_lookin_13855142.jpg",
+        "SourceUrl": "http://studentcareercoach.wordpress.com/2012/06/08/parents-guide-to-career-exploration-and-planning/",
+        "DisplayUrl": "studentcareercoach.wordpress.com/2012/06/08/parents-guide-to-career...",
+        "Width": "1600",
+        "Height": "1067",
+        "FileSize": "1481372",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M872298b57a11822835b658f61a6e891aH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "15968"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=11&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "cb61d941-1b89-416f-a776-48d8f11fd4ae",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://jefflipshatz.com.au/wp-content/uploads/2013/12/Happy-smiling-teens.jpg",
+        "SourceUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers&FORM=RESTAB",
+        "DisplayUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers...",
+        "Width": "1698",
+        "Height": "1131",
+        "FileSize": "2086972",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M49ea4c8a32f4339cc4b93de8a581299fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "11389"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=12&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "597b41f4-15f3-45bf-ada3-e8411bbaec3b",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://www.christysangels.com.au/wp-content/uploads/2015/01/Happy-Teens.jpg",
+        "SourceUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form=restab",
+        "DisplayUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form...",
+        "Width": "1000",
+        "Height": "637",
+        "FileSize": "278012",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M3fbd01d9f65e9992e11fdb32e5a12263o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "191",
+          "FileSize": "8046"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=13&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "469ef567-da3e-4685-980f-3cb17c4728a2",
+        "Title": "happy-teens",
+        "MediaUrl": "http://www.thesocialnewspaper.com/wp-content/uploads/2013/04/happy-teens.jpg",
+        "SourceUrl": "http://www.thesocialnewspaper.com/tips-for-keeping-teenagers-happy-on-vacation/",
+        "DisplayUrl": "www.thesocialnewspaper.com/tips-for-keeping-teenagers-happy-on...",
+        "Width": "1600",
+        "Height": "1067",
+        "FileSize": "1826005",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M2d1483f4b4dc1f06b44c10a57b9fee00H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "11818"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=14&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "06b60ed5-93ec-4e95-92c8-a37118a3a328",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://allthingscruise.com/wp-content/uploads/HappyTeens1.jpg",
+        "SourceUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form=restab",
+        "DisplayUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form...",
+        "Width": "426",
+        "Height": "280",
+        "FileSize": "21007",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M600ab00c7773566ee0b92c382c330bc2H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "197",
+          "FileSize": "9680"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=15&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e3fdd8a1-c4bd-4234-8018-9aa11ad0f533",
+        "Title": "bigstock-Happy-teenagers-friends-lying-52386151.jpg",
+        "MediaUrl": "http://www.drgregoryjantz.com/wp-content/uploads/2015/05/bigstock-Happy-teenagers-friends-lying-52386151.jpg",
+        "SourceUrl": "http://www.drgregoryjantz.com/raising-a-happy-healthy-teen/",
+        "DisplayUrl": "www.drgregoryjantz.com/raising-a-happy-healthy-teen",
+        "Width": "1600",
+        "Height": "1067",
+        "FileSize": "1542302",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M1f4081a39eb044a829c0099a77efa30eo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "10597"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=16&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4bfe6fff-6480-41fb-9a3a-46fff3681075",
+        "Title": "Giving a permit to everything your kid asks",
+        "MediaUrl": "http://mamabee.com/wp-content/uploads/2015/03/423.jpg",
+        "SourceUrl": "http://mamabee.com/9-constant-mistakes-parents-make-with-teens/",
+        "DisplayUrl": "mamabee.com/9-constant-mistakes-parents-make-with-teens",
+        "Width": "1200",
+        "Height": "675",
+        "FileSize": "129027",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Ma992cfe3d4dc068a7e1ef50dfa58677do0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "168",
+          "FileSize": "10905"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=17&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9ae13721-1e1a-41f2-90f4-83e136b8f247",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://www.stressstrainer.com.au/wp-content/uploads/2013/11/happy-teenagers1.jpg",
+        "SourceUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form=restab",
+        "DisplayUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form...",
+        "Width": "1600",
+        "Height": "637",
+        "FileSize": "336970",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M9657bf737a4cab27dfccd9849c0c6945o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "119",
+          "FileSize": "8853"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=18&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "133519e6-c213-4098-bd11-7c318e2e65af",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://static5.depositphotos.com/1000619/427/i/950/depositphotos_4279853-Happy-teenagers.jpg",
+        "SourceUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers&FORM=RESTAB",
+        "DisplayUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers...",
+        "Width": "1023",
+        "Height": "695",
+        "FileSize": "273818",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M93ad7ea483909c81ed0d8919318abd07H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "203",
+          "FileSize": "13464"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=19&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5818f0e9-4218-4087-aea8-6b56e3a3da43",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://www.drjawidkhan.com/wp-content/uploads/2011/04/happy-teens-1.jpg",
+        "SourceUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form=restab",
+        "DisplayUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form...",
+        "Width": "852",
+        "Height": "947",
+        "FileSize": "539885",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M86250510d9e2cef1589e0695c9c712ebo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "269",
+          "Height": "300",
+          "FileSize": "20139"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=20&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "467852ac-397b-4cb1-956e-118bc58bae10",
+        "Title": "Innovating Drug Abuse Prevention | Jon Sundt",
+        "MediaUrl": "http://i.huffpost.com/gen/1466345/thumbs/o-HAPPY-TEENS-SOCCER-facebook.jpg",
+        "SourceUrl": "http://www.huffingtonpost.com/jon-sundt/innovating-drug-abuse-prevention_b_4277091.html",
+        "DisplayUrl": "www.huffingtonpost.com/jon-sundt/innovating-drug-abuse-prevention_b...",
+        "Width": "2000",
+        "Height": "1000",
+        "FileSize": "340671",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Md12c63a369a35c7866f141eadc4fef5fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "150",
+          "FileSize": "8838"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=21&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7d54e76f-7005-404e-90ac-08b767980d37",
+        "Title": "Happy Teenagers Stock Photo - Image: 2865550",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/happy-teenagers-2865550.jpg",
+        "SourceUrl": "http://dreamstime.com/stock-photo-happy-teenagers-image2865550",
+        "DisplayUrl": "dreamstime.com/stock-photo-happy-teenagers-image2865550",
+        "Width": "1300",
+        "Height": "930",
+        "FileSize": "267388",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M6c3bc90f9930fa24eccb800175f2423co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "214",
+          "FileSize": "11159"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=22&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "89b82bee-787e-455a-8d5d-924934e213bf",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://i1.wp.com/thumbs.dreamstime.com/z/group-happy-teenagers-29396183.jpg",
+        "SourceUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers&FORM=RESTAB",
+        "DisplayUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers...",
+        "Width": "1300",
+        "Height": "950",
+        "FileSize": "270774",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M493a3d9183005b46e71e3de2fbde91aeo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "219",
+          "FileSize": "13514"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=23&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "664b5d04-7bff-4c05-bce4-576d6eb51bb7",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://static6.depositphotos.com/1001435/630/i/950/depositphotos_6302845-Happy-teenager.jpg",
+        "SourceUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form=restab",
+        "DisplayUrl": "https://windowssearch-exp.com/images/search?q=happy+teenagers&form...",
+        "Width": "682",
+        "Height": "1023",
+        "FileSize": "162674",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M5ba49cab856cadbb8dbc91f161f5befao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "200",
+          "Height": "300",
+          "FileSize": "6974"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=24&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "37ed3585-a6f4-4d94-a6a0-0051980f6513",
+        "Title": "Group Of Happy Teenagers Stock Photos - Image: 29396363",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/group-happy-teenagers-29396363.jpg",
+        "SourceUrl": "http://www.dreamstime.com/stock-photos-group-happy-teenagers-image29396363",
+        "DisplayUrl": "www.dreamstime.com/stock-photos-group-happy-teenagers-image29396363",
+        "Width": "1300",
+        "Height": "1086",
+        "FileSize": "123558",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M9402a7faa03cd8f836bf2839606ad8f1o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "250",
+          "FileSize": "11368"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=25&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d57032d5-75d2-4be6-8b13-b81d9ec755d4",
+        "Title": "How to Really Be Happy | Master Charles Cannon",
+        "MediaUrl": "http://i.huffpost.com/gen/1579749/thumbs/o-TEENAGER-HAPPY-facebook.jpg",
+        "SourceUrl": "http://www.huffingtonpost.com/master-charles-cannon/how-to-really-be-happy_b_4726774.html",
+        "DisplayUrl": "www.huffingtonpost.com/master-charles-cannon/how-to-really-be-happy...",
+        "Width": "2000",
+        "Height": "1000",
+        "FileSize": "220924",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mef20706ab0889cb841b0fdbb1d752b41o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "150",
+          "FileSize": "4079"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=26&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "dd4b7fae-3d15-4d36-9735-a27c11adb05e",
+        "Title": "Circle Of Happy Teenagers Royalty Free Stock Photo - Image: 31768935",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/circle-happy-teenagers-smiling-teenage-school-friends-lying-grass-31768935.jpg",
+        "SourceUrl": "http://www.dreamstime.com/royalty-free-stock-photo-circle-happy-teenagers-smiling-teenage-school-friends-lying-grass-image31768935",
+        "DisplayUrl": "www.dreamstime.com/royalty-free-stock-photo-circle-happy-teenagers...",
+        "Width": "1300",
+        "Height": "1132",
+        "FileSize": "246771",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M026ef5fe6b63f9fa8eb0955c420d89e4H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "261",
+          "FileSize": "23003"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=27&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "05c992df-034e-4077-b852-0ddbe93d6f55",
+        "Title": "Happy teens `likely to have higher income` later in life | TopNews",
+        "MediaUrl": "http://topnews.in/health/files/Happy-teens.jpg",
+        "SourceUrl": "http://www.topnews.in/health/happy-teens-likely-have-higher-income-later-life-215358",
+        "DisplayUrl": "www.topnews.in/health/happy-teens-likely-have-higher-income-later...",
+        "Width": "698",
+        "Height": "688",
+        "FileSize": "560528",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Ma28fa2c05503553560d5520ec148b5aaH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "295",
+          "FileSize": "15479"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=28&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ec9511b3-1316-4fd9-8bcf-5c32d2bc91f2",
+        "Title": "will know that I am an adult when I can live on my own, when I am ...",
+        "MediaUrl": "http://1.bp.blogspot.com/-JzgOOyPgNQA/ULirCxPlNHI/AAAAAAAAFqo/KsJ7NeazIk4/s1600/happy-teenage-boy.gif",
+        "SourceUrl": "http://seeker-kianhin.blogspot.com/2012/12/how-do-you-know-youre-adult.html",
+        "DisplayUrl": "seeker-kianhin.blogspot.com/2012/12/how-do-you-know-youre-adult.html",
+        "Width": "1600",
+        "Height": "1120",
+        "FileSize": "1287898",
+        "ContentType": "gif",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M38c057401f849da53fa58c70585453d3H1&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "210",
+          "FileSize": "6524"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=29&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e020c2de-bda3-4c00-9794-a62c0eb7def4",
+        "Title": "Happy Teens Become Healthy Adults | Teens, Positive Outlook & Overall ...",
+        "MediaUrl": "http://i.livescience.com/images/i/000/018/126/i02/happy-teens.jpg?1311097763",
+        "SourceUrl": "http://www.livescience.com/15116-happy-teens-healthy-adults.html",
+        "DisplayUrl": "www.livescience.com/15116-happy-teens-healthy-adults.html",
+        "Width": "575",
+        "Height": "385",
+        "FileSize": "248860",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M9bf17aa889fb1439ef1b4f96d687999eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "10626"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=30&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ed8fa5bf-dc13-432e-befd-a31a24834022",
+        "Title": "Ethnic Group of happy teenage friends outside",
+        "MediaUrl": "http://www.mbstoday.org/wp-content/uploads/2014/01/Fotolia_42922015_L.jpg",
+        "SourceUrl": "http://www.mbstoday.org/walking-with-our-youth/",
+        "DisplayUrl": "www.mbstoday.org/walking-with-our-youth",
+        "Width": "3948",
+        "Height": "1887",
+        "FileSize": "2444464",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mb09642b5e82bc745c587605e143a41f1o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "143",
+          "FileSize": "12589"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=31&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9d457b1d-0f6b-4e9f-80f8-c5bc6f38d312",
+        "Title": "Happy-teenagers-pose-for-2.jpg",
+        "MediaUrl": "http://1.bp.blogspot.com/-JxTaZrW0w4E/UK1dAcCxDUI/AAAAAAAAOZc/bIkral9JYQs/s1600/Happy-teenagers-pose-for-2.jpg",
+        "SourceUrl": "http://vaishnava.me/iskcon-organization/vedic-views-on-world-news/2012/11/happy-teens-earn-more-as-adults",
+        "DisplayUrl": "vaishnava.me/iskcon-organization/vedic-views-on-world-news/2012/11...",
+        "Width": "343",
+        "Height": "263",
+        "FileSize": "33586",
+        "ContentType": "gif",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M1384914089e9f7b8f7251326c7484c25o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "230",
+          "FileSize": "18377"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=32&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "bd57acfa-31b5-4e5d-8067-998cc14ba807",
+        "Title": "happy teenager is a healthy teenager - InfoBarrel Images",
+        "MediaUrl": "http://www.infobarrel.com/media/image/110752.jpg",
+        "SourceUrl": "http://www.infobarrel.com/Media/A_happy_teenager_is_a_healthy_teenager",
+        "DisplayUrl": "www.infobarrel.com/Media/A_happy_teenager_is_a_healthy_teenager",
+        "Width": "480",
+        "Height": "320",
+        "FileSize": "95989",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M011274202fa0bdc980317eb7e3bc2801o2&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "5189"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=33&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7241ec94-f110-4ea5-b0b5-2aac852ef728",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://www.ymcacalgary.org/wp-content/uploads/Happy-teens-in-circle-looking-up_60414130-667x700.jpg",
+        "SourceUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers&FORM=RESTAB",
+        "DisplayUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers...",
+        "Width": "667",
+        "Height": "700",
+        "FileSize": "91966",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M5ba8d7eb414ed7ea4973bd4a63444c3fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "285",
+          "Height": "300",
+          "FileSize": "13905"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=34&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1dae95f8-68cf-4cd7-b179-367847e4b7cf",
+        "Title": "Launching a Start-Up? It’s All Business at Exploration Summer ...",
+        "MediaUrl": "http://networkingstar.com/wp-content/uploads/2011/01/teenagers-kids.jpg",
+        "SourceUrl": "http://networkingstar.com/articles/industry-news/launching-a-start-up-its-all-business-at-exploration-summer-programs/",
+        "DisplayUrl": "networkingstar.com/articles/industry-news/launching-a-start-up-its...",
+        "Width": "1000",
+        "Height": "669",
+        "FileSize": "803393",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M382e81d1a6078082e4275dee24d035bcH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "11959"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=35&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8aa3b330-b191-4912-b8bd-b1668474c85e",
+        "Title": "Happy teenager - thumbs up Royalty Free Stock Photo",
+        "MediaUrl": "http://thumbs.dreamstime.com/t/happy-teenager-thumbs-up-19966845.jpg",
+        "SourceUrl": "http://dreamstime.com/stock-photography-african-business-man-letter-looking-camera-attractive-businessman-tie-dark-suit-his-office-message-his-hand-image35005912",
+        "DisplayUrl": "dreamstime.com/stock-photography-african-business-man-letter...",
+        "Width": "240",
+        "Height": "160",
+        "FileSize": "9617",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M50f07d6ac12426a743d64d7f71ad6d58o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "240",
+          "Height": "160",
+          "FileSize": "3960"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=36&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "eb10dee2-9f1e-4b0c-8b9c-8963b4c3dab1",
+        "Title": "Happy Teens Related Keywords & Suggestions - Happy Teens Long Tail ...",
+        "MediaUrl": "http://school.familyeducation.com/images/Level4_Health_Happy_Teens.jpg",
+        "SourceUrl": "http://www.suggestkeyword.com/aGFwcHkgdGVlbnM/",
+        "DisplayUrl": "www.suggestkeyword.com/aGFwcHkgdGVlbnM",
+        "Width": "286",
+        "Height": "217",
+        "FileSize": "45110",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M105a0174704622d2599a3c7172dffb81H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "286",
+          "Height": "217",
+          "FileSize": "11562"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=37&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "491fb3ea-39f0-4d10-812f-24cdcedf4994",
+        "Title": "Happy Teenagers Royalty Free Stock Photos - Image: 26685078",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/happy-teenagers-26685078.jpg",
+        "SourceUrl": "http://dreamstime.com/royalty-free-stock-photos-happy-teenagers-image26685078",
+        "DisplayUrl": "dreamstime.com/royalty-free-stock-photos-happy-teenagers-image26685078",
+        "Width": "1300",
+        "Height": "957",
+        "FileSize": "129684",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M24b944d5dfc9bb31b6476ce089d87402o2&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "220",
+          "FileSize": "10810"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=38&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0480291e-b9ad-49b3-bc5b-6ac34dbb4eba",
+        "Title": "Happy teenagers enjoying themselves at school.",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/teen-fun-happy-teenagers-enjoying-themselves-school-33940780.jpg",
+        "SourceUrl": "http://dreamstime.com/stock-photo-teen-fun-happy-teenagers-enjoying-themselves-school-image33940780",
+        "DisplayUrl": "dreamstime.com/stock-photo-teen-fun-happy-teenagers-enjoying...",
+        "Width": "1300",
+        "Height": "957",
+        "FileSize": "110546",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M1c75954ccb6de176b7572ab252a6670co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "220",
+          "FileSize": "12732"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=39&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "93430ac4-24a4-490c-b5f7-ec47fe0b739c",
+        "Title": "Happy Teenagers – it’s no laughing matter",
+        "MediaUrl": "http://www.inloughborough.com/newsimages/main223.jpg",
+        "SourceUrl": "http://www.inloughborough.com/news/099802/Happy%20Teenagers%20%20its%20no%20laughing%20matter",
+        "DisplayUrl": "www.inloughborough.com/news/099802/Happy Teenagers  its no laughing...",
+        "Width": "500",
+        "Height": "375",
+        "FileSize": "37550",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Md6a9702d3c3f8cbaf075ff818803e84bo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "12010"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=40&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3258c109-ed57-44f5-a165-3930f3cbe13c",
+        "Title": "Happy Teenagers Royalty Free Stock Images - Image: 12173919",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/happy-teenagers-12173919.jpg",
+        "SourceUrl": "http://dreamstime.com/royalty-free-stock-images-happy-teenagers-image12173919",
+        "DisplayUrl": "dreamstime.com/royalty-free-stock-images-happy-teenagers-image12173919",
+        "Width": "1300",
+        "Height": "957",
+        "FileSize": "87446",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Ma5e000b33a75fb7db18c108c3cb80e8bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "220",
+          "FileSize": "9303"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=41&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "bd7f9ef8-7c64-4ae4-a97d-073f42136587",
+        "Title": "teen",
+        "MediaUrl": "http://ted.coe.wayne.edu/sse/wq/McNeff/happy_teenager.jpg",
+        "SourceUrl": "http://ted.coe.wayne.edu/sse/wq/McNeff/Task.html",
+        "DisplayUrl": "ted.coe.wayne.edu/sse/wq/McNeff/Task.html",
+        "Width": "305",
+        "Height": "375",
+        "FileSize": "33096",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M6223fa2d63f84195b94e119c5da00fd9o2&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "244",
+          "Height": "300",
+          "FileSize": "11943"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=42&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "18554628-2e56-49b1-b759-991226107910",
+        "Title": "Happy Teenagers - Bing images",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/happy-teens-23040081.jpg",
+        "SourceUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers&FORM=RESTAB",
+        "DisplayUrl": "https://www.windowssearch-exp.com/images/search?q=Happy+Teenagers...",
+        "Width": "1300",
+        "Height": "957",
+        "FileSize": "122446",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M42438732b3ef9097d91392813d0e5024o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "220",
+          "FileSize": "11914"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=43&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "bf76043b-2d61-429c-a52f-176dc4b63c8d",
+        "Title": "Happy Teenagers Jumping Happy-teen-jumpers-group-teens ...",
+        "MediaUrl": "http://thumbs.dreamstime.com/x/happy-teen-jumpers-group-teens-jumping-blue-sky-above-green-grass-34466116.jpg",
+        "SourceUrl": "http://imgarcade.com/1/happy-teenagers-jumping/",
+        "DisplayUrl": "imgarcade.com/1/happy-teenagers-jumping",
+        "Width": "400",
+        "Height": "356",
+        "FileSize": "68546",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M3c7efe54a280a49ec7d945a91ca3f4f0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "267",
+          "FileSize": "26425"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=44&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0cbcb23c-bae8-413b-a6fa-3495fca50085",
+        "Title": "Being Young, Happy and Wise: An Entry From an Almost 20-Something ...",
+        "MediaUrl": "http://i.huffpost.com/gen/1621365/thumbs/o-HAPPY-BEACH-facebook.jpg",
+        "SourceUrl": "http://www.huffingtonpost.com/tywan-wade/calling-all-teens-being-y_b_4856395.html",
+        "DisplayUrl": "www.huffingtonpost.com/tywan-wade/calling-all-teens-being-y_b...",
+        "Width": "2000",
+        "Height": "1000",
+        "FileSize": "532510",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mc62534f8eb279175887d429058209b01o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "150",
+          "FileSize": "12078"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=45&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "2d691365-2311-4bef-bd20-a07932f2c27f",
+        "Title": "family-with-happy-teens",
+        "MediaUrl": "http://operationparent.org/wp-content/uploads/2014/11/family-with-happy-teens.jpg",
+        "SourceUrl": "http://operationparent.org/tag/teenagers/",
+        "DisplayUrl": "operationparent.org/tag/teenagers",
+        "Width": "1198",
+        "Height": "799",
+        "FileSize": "802607",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M023ff5b3ff02778963a306f34abbf62do0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "480",
+          "Height": "320",
+          "FileSize": "28833"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=46&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "551d739f-927f-4189-9106-faf596c7b102",
+        "Title": "happy teenagers",
+        "MediaUrl": "http://i.huffpost.com/gen/2395522/thumbs/o-HAPPY-TEENAGERS-570.jpg?6",
+        "SourceUrl": "http://www.huffingtonpost.com/2014/12/17/best-charities-2014_n_6329792.html",
+        "DisplayUrl": "www.huffingtonpost.com/2014/12/17/best-charities-2014_n_6329792.html",
+        "Width": "570",
+        "Height": "380",
+        "FileSize": "65223",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M7e926a595f54816ffe5f50e21fd96ae6o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "9692"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=47&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6068d57b-27b0-4b12-8e7e-0b782e332c98",
+        "Title": "Happy teenager — Stock Photo © sabphoto #1331538",
+        "MediaUrl": "http://static3.depositphotos.com/1001435/133/i/950/depositphotos_1331538-Happy-teenager.jpg",
+        "SourceUrl": "http://depositphotos.com/1331538/stock-photo-happy-teenager.html",
+        "DisplayUrl": "depositphotos.com/1331538/stock-photo-happy-teenager.html",
+        "Width": "1023",
+        "Height": "682",
+        "FileSize": "121971",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M6d7002335fb6c22827100ff60cf7adc3o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "5931"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=48&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0e6d4901-5987-4c38-a877-aa2bb896bdb5",
+        "Title": "Happy Teenagers Happy teenagers pose for a",
+        "MediaUrl": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/11/19/1353355064844/Happy-teenagers-pose-for--012.jpg",
+        "SourceUrl": "http://imgarcade.com/1/happy-teenagers/",
+        "DisplayUrl": "imgarcade.com/1/happy-teenagers",
+        "Width": "460",
+        "Height": "276",
+        "FileSize": "35305",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M434a663a534c6836b11297e767a68b1bo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "180",
+          "FileSize": "12250"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy Teenagers'&$skip=49&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b85debec-594a-43b7-b224-6c313774e2a5",
+        "Title": "Scientific Study Proves Blogging Therapeutic for Teens",
+        "MediaUrl": "http://scitechdaily.com/images/happy-teen-blogging.jpg",
+        "SourceUrl": "http://scitechdaily.com/scientific-study-proves-blogging-therapeutic-for-teens/",
+        "DisplayUrl": "scitechdaily.com/scientific-study-proves-blogging-therapeutic-for...",
+        "Width": "544",
+        "Height": "300",
+        "FileSize": "74877",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mba1255b4b67c731d5d1ac435dada4181H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "165",
+          "FileSize": "8438"
+        }
+      }
+    ],
+    "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Happy%20Teenagers'&$skip=50&$top=50"
+  }
+}

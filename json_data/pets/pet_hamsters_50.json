@@ -1,0 +1,1257 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=10&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "79b8155f-eabb-402f-9c7a-447046b4a532",
+        "Title": "Hamsters make ideal pets for young and old alike and are an ideal pet ...",
+        "MediaUrl": "http://www.hamsters.co.uk/hamsters_images/hamster_000002565264.jpg",
+        "SourceUrl": "http://hamsters.co.uk/hamsters_pets.htm",
+        "DisplayUrl": "hamsters.co.uk/hamsters_pets.htm",
+        "Width": "300",
+        "Height": "298",
+        "FileSize": "19496",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M7e523717620e872898009fc282b43bafo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "298",
+          "FileSize": "6947"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=11&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "815edc6e-e02b-4669-88dd-6e7468a3a2b6",
+        "Title": "Can’t decide on which small animal is the best fit for your family ...",
+        "MediaUrl": "https://face4pets.files.wordpress.com/2014/10/hamster.jpg",
+        "SourceUrl": "https://face4pets.wordpress.com/2014/10/03/is-it-time-for-your-childs-first-pet/",
+        "DisplayUrl": "https://face4pets.wordpress.com/2014/10/03/is-it-time-for-your...",
+        "Width": "1280",
+        "Height": "961",
+        "FileSize": "197597",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mef47f7bc1596741520479cb330e86354o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "8128"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=12&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4279627b-033f-4516-8cda-738d7b3b6e67",
+        "Title": "Pet Hamsters Care, Food, Habitat and Tubes",
+        "MediaUrl": "http://www.cool-small-pets.com/image-files/pet_hamster.jpg",
+        "SourceUrl": "http://www.cool-small-pets.com/pet-hamsters.html",
+        "DisplayUrl": "www.cool-small-pets.com/pet-hamsters.html",
+        "Width": "351",
+        "Height": "349",
+        "FileSize": "16933",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M45cb5cdcd5b7e7e55caa5eb236396f3aH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "298",
+          "FileSize": "5859"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=13&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "937e59fe-5f9b-4335-9198-4ff63bd58a89",
+        "Title": "Hamster Health | Celebration Veterinary Hospital",
+        "MediaUrl": "http://www.celebrationvet.com/wp-content/uploads/2013/11/hamster.jpg",
+        "SourceUrl": "http://www.celebrationvet.com/2013/11/15/hamster-health/",
+        "DisplayUrl": "www.celebrationvet.com/2013/11/15/hamster-health",
+        "Width": "695",
+        "Height": "523",
+        "FileSize": "350152",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mce32f65c4587acd2c00cd0c7e67d3151H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "6612"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=14&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "64260c4e-d661-4b2f-beb3-180388355cd1",
+        "Title": "Pics Photos - Hamsters As Pets Is A Hamster The Right Pet For You ...",
+        "MediaUrl": "http://wfiles.brothersoft.com/p/pet-hamster_92701-1024x768.jpg",
+        "SourceUrl": "http://funny-pictures.picphotos.net/hamsters-as-pets-is-a-hamster-the-right-pet-for-you-chinese-dwarf/adsensepublishing.com*hamsterfacts*files*2012*04*chinese-dwarf-hamsters.jpg",
+        "DisplayUrl": "funny-pictures.picphotos.net/hamsters-as-pets-is-a-hamster-the...",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "84345",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M99ec1746bda436121bb61f21d76359b8H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "5392"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=15&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "782248ca-4a76-4b2d-8d3a-489e608ee799",
+        "Title": "Animals Pictures Gallery: Cute Pet Hamsters",
+        "MediaUrl": "http://digital-photography-school.com/wp-content/uploads/2007/07/pet-hamster.jpg",
+        "SourceUrl": "http://animalspicturesgallery.blogspot.com/2009/10/cute-pet-hamsters.html",
+        "DisplayUrl": "animalspicturesgallery.blogspot.com/2009/10/cute-pet-hamsters.html",
+        "Width": "300",
+        "Height": "333",
+        "FileSize": "102801",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M634bff9d59cfc1f237c7ed2aacfad045H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "270",
+          "Height": "300",
+          "FileSize": "6591"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=16&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a1952552-3273-4654-be05-d517ebf98431",
+        "Title": "Your First Hamster | Percy's Pets",
+        "MediaUrl": "http://www.percyspets.co.uk/wp-content/uploads/2012/10/first-hamster.jpg",
+        "SourceUrl": "http://www.percyspets.co.uk/65/your-first-hamster.html",
+        "DisplayUrl": "www.percyspets.co.uk/65/your-first-hamster.html",
+        "Width": "346",
+        "Height": "346",
+        "FileSize": "46044",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M62bfea2120f2064aa45950838089a054o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "5193"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=17&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "fc75eaa6-a62e-47f8-aca2-ad5f092344b1",
+        "Title": "My cute pet hamster My cute pet hamster",
+        "MediaUrl": "http://media1.onsugar.com/files/2011/03/13/3/827/8270311/daebab954c9ec198_My_cute_pet_hamster_picture_1_.jpg",
+        "SourceUrl": "http://funnyanimals.onsugar.com/My-cute-pet-hamster-15323136?page=0,0,0",
+        "DisplayUrl": "funnyanimals.onsugar.com/My-cute-pet-hamster-15323136?page=0,0,0",
+        "Width": "570",
+        "Height": "380",
+        "FileSize": "36243",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M181555a1d105f683a890ccf71fe086fao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "3287"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=18&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d7b5b315-2dd0-4fb2-9ff2-bb0dc5bd42a8",
+        "Title": "Pet Hamster Care, Information, Facts & Pictures",
+        "MediaUrl": "http://pethamstercare.com/wp-content/uploads/2009/10/hamsters1.jpg",
+        "SourceUrl": "http://pethamstercare.com/",
+        "DisplayUrl": "pethamstercare.com",
+        "Width": "250",
+        "Height": "259",
+        "FileSize": "19170",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M02f5d02577e430198bf18992b82d52acH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "250",
+          "Height": "259",
+          "FileSize": "4647"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=19&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b94c7f10-f7d8-4eae-ac7f-c926751ad16e",
+        "Title": "Pet Hamsters",
+        "MediaUrl": "http://www.hamsters.co.uk/hamsters_images/syrian-hamster_000008437184.jpg",
+        "SourceUrl": "http://www.hamsters.co.uk/",
+        "DisplayUrl": "www.hamsters.co.uk",
+        "Width": "300",
+        "Height": "338",
+        "FileSize": "25413",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mb07f60f62ea54873521fac8125891a29o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "266",
+          "Height": "300",
+          "FileSize": "6605"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=20&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f0ec4c72-aa51-4e48-872d-cd51acc71265",
+        "Title": "Pet Hamsters - Pets for Kids | Pets For Kids",
+        "MediaUrl": "http://www.pets-for-kids.com/wp-content/gallery/post-images/mp900427605.jpg",
+        "SourceUrl": "http://www.pets-for-kids.com/the-top-10-pets-for-kids/hamsters/",
+        "DisplayUrl": "www.pets-for-kids.com/the-top-10-pets-for-kids/hamsters",
+        "Width": "1016",
+        "Height": "1024",
+        "FileSize": "228250",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Me494d4215a16247d18a6d3587c40d3f7o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "297",
+          "Height": "300",
+          "FileSize": "9598"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=21&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f937e3a1-2236-4984-a04b-a95e78f48f11",
+        "Title": "Hamsters as Pets | Information and facts about Hamster Care and ...",
+        "MediaUrl": "http://hamstersaspets.co.uk/wp-content/uploads/2015/03/Hamster-777x437.jpg",
+        "SourceUrl": "http://hamstersaspets.co.uk/",
+        "DisplayUrl": "hamstersaspets.co.uk",
+        "Width": "777",
+        "Height": "437",
+        "FileSize": "107504",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M3027260387f0140a1b05470bb1e9f724o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "168",
+          "FileSize": "6300"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=22&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a5526054-4860-4162-9b7e-2703c730fa1e",
+        "Title": "... hamster, how to select a healthy hamster and preparing to bring it",
+        "MediaUrl": "http://petwebsite.com/hamsters/hamsters_images/syrian-hamster.jpg",
+        "SourceUrl": "http://www.petwebsite.com/hamsters.asp",
+        "DisplayUrl": "www.petwebsite.com/hamsters.asp",
+        "Width": "300",
+        "Height": "280",
+        "FileSize": "25384",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M69f42aeb8dd09a60a525cc0e8a9ca74eo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "280",
+          "FileSize": "9032"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=23&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e5c4cef0-4207-4752-b6cf-adfb9c768d94",
+        "Title": "Most Popular Types of Pet Hamsters | YOUR-MEDIA",
+        "MediaUrl": "https://lh4.googleusercontent.com/-Y-fa6tjvxzo/TYAbmgOt1rI/AAAAAAAAAUc/-xiQP7RrCWg/s1600/5+Most+Popular+Types+of+Pet+Hamsters.jpg",
+        "SourceUrl": "http://kingnewsmedia.blogspot.com/2011/03/5-most-popular-types-of-pet-hamsters.html",
+        "DisplayUrl": "kingnewsmedia.blogspot.com/2011/03/5-most-popular-types-of-pet...",
+        "Width": "500",
+        "Height": "500",
+        "FileSize": "155585",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M9f5d77796cd560b132ff4089d5591b20o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "9138"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=24&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1402dca4-5c8b-45fd-a140-b5a9cf6acd4a",
+        "Title": "to Corona | Corona Metro | The Ultimate Pet Shop in India | Pet ...",
+        "MediaUrl": "http://www.coronadog.com/images/img0037.png",
+        "SourceUrl": "http://www.coronadog.com/small_pets.php",
+        "DisplayUrl": "www.coronadog.com/small_pets.php",
+        "Width": "414",
+        "Height": "314",
+        "FileSize": "137278",
+        "ContentType": "png",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M56abcf84d5592234cdc2976b3ec69937o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "227",
+          "FileSize": "4358"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=25&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5e03897d-5b3d-480c-9b1f-b6f12267ab83",
+        "Title": "Hamsters : Dwarf Roborovski Hamster",
+        "MediaUrl": "http://www.petwebsite.com/hamsters/hamsters_images/roborovski-1.jpg",
+        "SourceUrl": "http://www.petwebsite.com/hamsters/roborovski_hamsters.asp",
+        "DisplayUrl": "www.petwebsite.com/hamsters/roborovski_hamsters.asp",
+        "Width": "300",
+        "Height": "223",
+        "FileSize": "36255",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M8798a40209807b58e421ec43099e91a2o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "223",
+          "FileSize": "5389"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=26&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e5f7120b-3a5c-4ec1-a783-22b817f8174d",
+        "Title": "... hamsters wallpapers, Lovely hamsters pictures, Lovely hamsters studio",
+        "MediaUrl": "http://www.wallcoo.net/animal/mouse/images/%5Bwallcoo_com%5D_lovely_pet_Hamster_Picture_1da033081s.jpg",
+        "SourceUrl": "http://www.wallcoo.net/animal/mouse/html/wallpaper4.html",
+        "DisplayUrl": "www.wallcoo.net/animal/mouse/html/wallpaper4.html",
+        "Width": "700",
+        "Height": "525",
+        "FileSize": "47101",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M3d540773fdb7a4ed2585130bcf363982o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "6385"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=27&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "04d4ce47-10d4-423f-966f-7590eab81213",
+        "Title": "Hamsters As Pets – Is A Hamster The Right Pet For You? Chinese Dwarf ...",
+        "MediaUrl": "http://adsensepublishing.com/hamsterfacts/files/2012/04/hamsters-as-pets.jpg",
+        "SourceUrl": "http://hamsterfacts.org/hamsters-as-pets/",
+        "DisplayUrl": "hamsterfacts.org/hamsters-as-pets",
+        "Width": "326",
+        "Height": "280",
+        "FileSize": "22997",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M859bda040acf0354db697bdb0ff9b076H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "257",
+          "FileSize": "5410"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=28&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e16cdcaa-39c3-45ad-a48f-d85d14f8938b",
+        "Title": "Pet advice: toys for cats, taming a hamster and dogs with sound ...",
+        "MediaUrl": "http://i.telegraph.co.uk/multimedia/archive/01293/Hamster_1293095c.jpg",
+        "SourceUrl": "http://www.telegraph.co.uk/women/mother-tongue/4579291/Pet-advice-toys-for-cats-taming-a-hamster-and-dogs-with-sound-phobias.html",
+        "DisplayUrl": "www.telegraph.co.uk/women/mother-tongue/4579291/Pet-advice-toys-for...",
+        "Width": "460",
+        "Height": "288",
+        "FileSize": "8839",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M45f968c4c2891960a10b2d05f4c0929fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "3940"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=29&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3c763806-f164-4cd8-bacb-2bdb390d0832",
+        "Title": "Should you get a hamster as a pet? - Las Vegas Dog Walking and Pet ...",
+        "MediaUrl": "http://petsittersoflasvegas.com/wp-content/uploads/2014/10/hamster-he.jpg",
+        "SourceUrl": "https://petsittersoflasvegas.com/get-hamster-pet/",
+        "DisplayUrl": "https://petsittersoflasvegas.com/get-hamster-pet",
+        "Width": "480",
+        "Height": "243",
+        "FileSize": "34688",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mea2c96070ecd57a35bfab36c04c9c4c8o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "151",
+          "FileSize": "4346"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=30&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "24841f6e-c340-454f-89c8-93cdbee6c526",
+        "Title": "Mimicry Pet Hamster - The Green Head",
+        "MediaUrl": "http://www.thegreenhead.com/imgs/mimicry-pet-hamster-3.jpg",
+        "SourceUrl": "http://www.thegreenhead.com/2013/03/mimicry-pet-hamster.php",
+        "DisplayUrl": "www.thegreenhead.com/2013/03/mimicry-pet-hamster.php",
+        "Width": "1200",
+        "Height": "1200",
+        "FileSize": "258181",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M2b32071c8aac3abcc4462984ef012e50H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "9421"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=31&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b5229a9e-e697-43ef-8c87-843b75f4f491",
+        "Title": "hamsters have become increasingly popular as a household pet hamsters ...",
+        "MediaUrl": "https://petcoupon.files.wordpress.com/2011/11/cute_hamster.jpg",
+        "SourceUrl": "https://petcoupon.wordpress.com/tag/hamster/",
+        "DisplayUrl": "https://petcoupon.wordpress.com/tag/hamster",
+        "Width": "336",
+        "Height": "252",
+        "FileSize": "16103",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M5b758a44b7a23b0aa028dc32ae4b1a7eo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "9542"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=32&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "94ee84ed-5246-4cb6-8b6d-49fdde02172a",
+        "Title": "My Hamster Rocks! Things to Remember When Keeping a Hamster - Pets ...",
+        "MediaUrl": "http://www.petsgroomingprices.com/wp-content/uploads/2015/02/hamster-cute.jpg",
+        "SourceUrl": "http://www.petsgroomingprices.com/my-hamster-rocks-things-to-remember-when-keeping-a-hamster/",
+        "DisplayUrl": "www.petsgroomingprices.com/my-hamster-rocks-things-to-remember-when...",
+        "Width": "1366",
+        "Height": "768",
+        "FileSize": "134363",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M0ddce763aa6bfd04ad87e8628b797809o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "168",
+          "FileSize": "5625"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=33&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "54151b7c-7f74-4e6f-9c0e-1a9a5982800f",
+        "Title": "Choosing a pet hamster",
+        "MediaUrl": "http://www.petinfoclub.com/Images/Dwarf%20hamster%20climbing%20shutterstock_24033391.jpg",
+        "SourceUrl": "http://www.petinfoclub.com/Small_Pets/Know_your_pet/Choosing_a_pet_hamster.aspx",
+        "DisplayUrl": "www.petinfoclub.com/Small_Pets/Know_your_pet/Choosing_a_pet_hamster...",
+        "Width": "837",
+        "Height": "784",
+        "FileSize": "116578",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M46de5fde347066807993638fbd312cd1H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "281",
+          "FileSize": "7432"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=34&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "939203ad-8c78-4719-81d1-cf10ebbb7e9f",
+        "Title": "pet hamster",
+        "MediaUrl": "http://www.petwebsite.com/hamsters/hamsters_images/hamster_000009248846.jpg",
+        "SourceUrl": "http://www.petwebsite.com/hamsters/default.asp",
+        "DisplayUrl": "www.petwebsite.com/hamsters/default.asp",
+        "Width": "300",
+        "Height": "247",
+        "FileSize": "22177",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M7d6f20fc5cee4b042b924659b4e8bca8o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "247",
+          "FileSize": "7213"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=35&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6153db9c-5d92-46b9-bff0-2193f4d1b64f",
+        "Title": "you might also like this photos my pet hamster build a dog house cute ...",
+        "MediaUrl": "http://pet.groovehogs.net/wp-content/uploads/2014/06/Dwarf-Hamsters-As-Pets.jpg",
+        "SourceUrl": "http://pet.groovehogs.net/fun-facts-about-hamster-as-pets/teddy-bear-hamsters/",
+        "DisplayUrl": "pet.groovehogs.net/fun-facts-about-hamster-as-pets/teddy-bear-hamsters",
+        "Width": "1280",
+        "Height": "960",
+        "FileSize": "235614",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mc276abe4fd2756d8a95437cfa7b3df40o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "5974"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=36&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a0ac8ec3-65be-4edb-a4e5-67b2e2ffac4f",
+        "Title": "Coincidences Lead to Cute Animal Website Launch",
+        "MediaUrl": "http://ww1.prweb.com/prfiles/2011/01/31/235628/LightHamster.jpg",
+        "SourceUrl": "http://www.prweb.com/releases/cutespree/animals/prweb5017754.htm",
+        "DisplayUrl": "www.prweb.com/releases/cutespree/animals/prweb5017754.htm",
+        "Width": "693",
+        "Height": "693",
+        "FileSize": "314399",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mdc2c9c4fbf400bf0e2d19a4b6276034fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "4944"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=37&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "53a7a05b-43c9-4646-a551-012689755c48",
+        "Title": "Choosing a pet hamster",
+        "MediaUrl": "http://www.petinfoclub.com/Images/White%20Russian%20hamster%20shutterstock_2737660-1.jpg",
+        "SourceUrl": "http://www.petinfoclub.com/Small_Pets/Know_your_pet/Choosing_a_pet_hamster.aspx",
+        "DisplayUrl": "www.petinfoclub.com/Small_Pets/Know_your_pet/Choosing_a_pet_hamster...",
+        "Width": "951",
+        "Height": "832",
+        "FileSize": "129123",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M3f427f84dd4ad6bab0140917d3d2f742H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "262",
+          "FileSize": "4292"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=38&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4dccecef-c94a-4984-9601-7cfdc7b94041",
+        "Title": "Maintain and Care For Your Pets: Types Of Hamsters",
+        "MediaUrl": "http://1.bp.blogspot.com/_2Odm6_MISoE/THiZgyPbNkI/AAAAAAAAABc/lj-nGiib57M/s1600/hams.jpg",
+        "SourceUrl": "http://isnandaradisukma.blogspot.com/2010/09/types-of-hamsters.html",
+        "DisplayUrl": "isnandaradisukma.blogspot.com/2010/09/types-of-hamsters.html",
+        "Width": "853",
+        "Height": "1000",
+        "FileSize": "118672",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M0e9a34cb505cf2a969d74e987e4115d3H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "255",
+          "Height": "300",
+          "FileSize": "9766"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=39&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e7c7e14c-8012-4686-8d51-6656535eb170",
+        "Title": "Pets.Forster St Pets",
+        "MediaUrl": "http://www.forsterstpets.co.uk/hamsters.jpg",
+        "SourceUrl": "http://www.forsterstpets.co.uk/pets_forsterst.html",
+        "DisplayUrl": "www.forsterstpets.co.uk/pets_forsterst.html",
+        "Width": "768",
+        "Height": "468",
+        "FileSize": "44090",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mce18682859bb414d5b5931c53bb74ef5o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "182",
+          "FileSize": "4791"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=40&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6cf63577-1e5b-4b71-bde2-13560a8124c4",
+        "Title": "Euthanasia Issues for Hamster Owners | Hamsters as Pets",
+        "MediaUrl": "http://hamstersaspets.co.uk/wp-content/uploads/2010/11/Last-Hero.jpg",
+        "SourceUrl": "http://hamstersaspets.co.uk/euthanasia-issues-for-hamster-owners/",
+        "DisplayUrl": "hamstersaspets.co.uk/euthanasia-issues-for-hamster-owners",
+        "Width": "1024",
+        "Height": "702",
+        "FileSize": "320482",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M7991c128d3196b3ae2eedf8272acddbfo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "205",
+          "FileSize": "5483"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=41&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d7b12ada-63bc-442b-99fd-57ba6dd7eccd",
+        "Title": "Keeping Hamsters As Pets pet care trust same sex pairs small naturally ...",
+        "MediaUrl": "http://www.petsworld.co.uk/images/hamster.jpg",
+        "SourceUrl": "http://www.petsworld.co.uk/hamsters.htm",
+        "DisplayUrl": "www.petsworld.co.uk/hamsters.htm",
+        "Width": "361",
+        "Height": "438",
+        "FileSize": "14992",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M9d97643c261b1ffbdaf5dd23b1101297H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "247",
+          "Height": "300",
+          "FileSize": "5737"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=42&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b1ae8b20-b2a5-4f73-8ad6-0fcd3d891859",
+        "Title": "Hamster Pet On White Royalty Free Stock Photo - Image: 33737755",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/hamster-pet-white-closeup-isolated-33737755.jpg",
+        "SourceUrl": "http://dreamstime.com/royalty-free-stock-photo-hamster-pet-white-closeup-isolated-image33737755",
+        "DisplayUrl": "dreamstime.com/royalty-free-stock-photo-hamster-pet-white-closeup...",
+        "Width": "1300",
+        "Height": "1004",
+        "FileSize": "113730",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Ma9546118d9957573ffddbdb0f7b2d180o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "231",
+          "FileSize": "6622"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=43&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "fef90a1f-a185-4314-b2fb-a2a290e356a5",
+        "Title": "Choosing a pet hamster",
+        "MediaUrl": "http://www.petinfoclub.com/Images/Syrian%20hamster%20-%20wild%20backdrop%20shutterstock_58612030.jpg",
+        "SourceUrl": "http://www.petinfoclub.com/Small_Pets/Know_your_pet/Choosing_a_pet_hamster.aspx",
+        "DisplayUrl": "www.petinfoclub.com/Small_Pets/Know_your_pet/Choosing_a_pet_hamster...",
+        "Width": "1000",
+        "Height": "666",
+        "FileSize": "197550",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M7c24a7c52408e16854e9a4cdeee45526H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "9461"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=44&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c2dd6807-470f-4ce1-9372-a15f8ba885d0",
+        "Title": "Nicole`s LPS blog - Littlest Pet Shop: Pets: Hamster",
+        "MediaUrl": "http://3.bp.blogspot.com/-gZHB-v8sJdc/TfxVIpJS73I/AAAAAAAAG_I/UlXhZH-UEyo/s1600/Vorlage+Hamster+02.jpg",
+        "SourceUrl": "http://nicole-mysite.blogspot.com/2009/11/pets-hamster.html",
+        "DisplayUrl": "nicole-mysite.blogspot.com/2009/11/pets-hamster.html",
+        "Width": "1067",
+        "Height": "1600",
+        "FileSize": "146040",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mdba52cd4258f90ed3ec95912e2ad0d4eo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "200",
+          "Height": "300",
+          "FileSize": "11825"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=45&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "cf0961f1-5934-47a8-a61e-063317880492",
+        "Title": "Nicole`s LPS blog - Littlest Pet Shop: Pets: Hamster",
+        "MediaUrl": "http://1.bp.blogspot.com/-6aP5r5qs3MQ/UHQ4AlNPFzI/AAAAAAAAKb8/hyCTCbqOQFw/s1600/Vorlage+Hamster+03.jpg",
+        "SourceUrl": "http://nicole-mysite.blogspot.com.au/2009/11/pets-hamster.html",
+        "DisplayUrl": "nicole-mysite.blogspot.com.au/2009/11/pets-hamster.html",
+        "Width": "1067",
+        "Height": "1600",
+        "FileSize": "116291",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M76138e6a28093270aeab4c4116c8fb0fH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "200",
+          "Height": "300",
+          "FileSize": "7734"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=46&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "13f972e7-ce0f-495a-91be-301bfb0f2c14",
+        "Title": "Exotic Pet Keepers: Robo dwarf hamsters",
+        "MediaUrl": "http://3.bp.blogspot.com/-nLhJMv4hWgI/UD0fvNtwJeI/AAAAAAAAAGI/NgIhF_3tqrA/s1600/canstockphoto3028171.jpg",
+        "SourceUrl": "http://exoticpetkeepers.blogspot.com/2012/08/robo-dwarf-hamsters.html",
+        "DisplayUrl": "exoticpetkeepers.blogspot.com/2012/08/robo-dwarf-hamsters.html",
+        "Width": "1600",
+        "Height": "1600",
+        "FileSize": "217738",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Ma0d14e76f074ea56933b26ef80d0a988H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "4411"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=47&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b1638020-b0de-4841-a26a-b8547d518cec",
+        "Title": "Russian Hamster is the most common type of dwarf hamster kept as a pet ...",
+        "MediaUrl": "http://www.petwebsite.com/hamsters/hamsters_images/campbells-russian-1.jpg",
+        "SourceUrl": "http://www.petwebsite.com/hamsters/dwarf_campbells_russian_hamsters_as_pets.htm",
+        "DisplayUrl": "www.petwebsite.com/hamsters/dwarf_campbells_russian_hamsters_as...",
+        "Width": "300",
+        "Height": "283",
+        "FileSize": "45463",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mdb628b605bfd3b9ec26f7e9cfcc1c01co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "283",
+          "FileSize": "16765"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=48&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "db354df1-d477-4dde-91fd-7f0f0ac3518a",
+        "Title": "Doh ! ...Hamsters are small tiny rodents that scoots off robo-powered ...",
+        "MediaUrl": "http://www.head-fi.org/content/type/61/id/745579/width/500/height/1000/flags/LL",
+        "SourceUrl": "http://head-fi.org/t/621063/the-jvc-ha-s500-appreciation-fan-thread/3855",
+        "DisplayUrl": "head-fi.org/t/621063/the-jvc-ha-s500-appreciation-fan-thread/3855",
+        "Width": "310",
+        "Height": "278",
+        "FileSize": "14655",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mfe35bb41a97f559ea7e29dfca8b83e5eo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "269",
+          "FileSize": "6067"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=49&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d370ac8f-ddc4-4636-a099-afc7012fc34c",
+        "Title": "Hamster Coat Colours | Hamsters as Pets",
+        "MediaUrl": "http://hamstersaspets.co.uk/wp-content/uploads/2010/11/Maarten.jpg",
+        "SourceUrl": "http://hamstersaspets.co.uk/hamster-coat-color-variations/",
+        "DisplayUrl": "hamstersaspets.co.uk/hamster-coat-color-variations",
+        "Width": "1024",
+        "Height": "681",
+        "FileSize": "192672",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mc718a697d2f668060e29a45660208eeco0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "3236"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=50&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "96b1d0dd-9928-439a-8fa5-173e87beae01",
+        "Title": "Robo Dwarf Hamsters Hamster Pets",
+        "MediaUrl": "http://www.thepetlook.com.sg/images/pets-101/hamsters.jpg",
+        "SourceUrl": "http://funny-pictures.picphotos.net/robo-dwarf-hamsters-hamster-pets/2",
+        "DisplayUrl": "funny-pictures.picphotos.net/robo-dwarf-hamsters-hamster-pets/2",
+        "Width": "520",
+        "Height": "347",
+        "FileSize": "28586",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M78b0d8d84d0fa7cf524b92d839a68684H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "6725"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=51&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "699357a4-131e-4dc8-9d44-fff046511ba5",
+        "Title": "Spending Big Bucks On The Zhu Zhu Pet Hamster -- And It's Just A TOY!",
+        "MediaUrl": "http://f00.inventorspot.com/images/Zhu_Zhu_Pets_Hamster.jpg",
+        "SourceUrl": "http://inventorspot.com/articles/zhu_zhu_pet_hamster_you_can_spend_fortune_pet_and_its_not_even_r_33320",
+        "DisplayUrl": "inventorspot.com/articles/zhu_zhu_pet_hamster_you_can_spend_fortune...",
+        "Width": "463",
+        "Height": "457",
+        "FileSize": "48652",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M79a27b303dd09d0ad0ed8d37474840ffo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "296",
+          "FileSize": "11364"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=52&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "df733ad5-e786-4394-ad3b-12d71e1e372b",
+        "Title": "... Hamsters Pic 、Little creatures hamsters wallpapers, Lovely hamsters",
+        "MediaUrl": "http://www.wallcoo.net/animal/mouse/images/%5Bwallcoo_com%5D_lovely_pet_Hamster_Picture_1da033098s.jpg",
+        "SourceUrl": "http://www.wallcoo.net/animal/mouse/html/wallpaper1.html",
+        "DisplayUrl": "www.wallcoo.net/animal/mouse/html/wallpaper1.html",
+        "Width": "700",
+        "Height": "525",
+        "FileSize": "52378",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M8a478cf8f9ae2f23373068f85525a2a3o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "8247"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=53&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5fe04e17-65eb-4276-9894-2e3a00664461",
+        "Title": "How To Take Care Of A Hamster | Pet Hamster Care",
+        "MediaUrl": "http://imagecache2.allposters.com/images/NPLPOD/9028812.jpg",
+        "SourceUrl": "http://www.squidoo.com/AllAboutHamsters",
+        "DisplayUrl": "www.squidoo.com/AllAboutHamsters",
+        "Width": "400",
+        "Height": "300",
+        "FileSize": "20285",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M0429f30b1117239efa9415db64078454H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "3810"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=54&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f98a5e7a-dd63-4dcc-9fde-18ab84f8474d",
+        "Title": "Cute Pets Image of Long-haired Syrian Hamster, WP17232.",
+        "MediaUrl": "http://www.warrenphotographic.co.uk/photography/bigs/17232-Long-haired-Syrian-Hamster-white-background.jpg",
+        "SourceUrl": "http://www.warrenphotographic.co.uk/17232-long-haired-syrian-hamster",
+        "DisplayUrl": "www.warrenphotographic.co.uk/17232-long-haired-syrian-hamster",
+        "Width": "1237",
+        "Height": "1060",
+        "FileSize": "143496",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M795a6fefe49863ba8042b956a53ef294H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "257",
+          "FileSize": "4176"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=55&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "592ff89e-7103-4741-b573-9156d6f1605b",
+        "Title": "Pet Hamster Care, Information, Facts & Pictures",
+        "MediaUrl": "http://pethamstercare.com/wp-content/uploads/2009/10/hamster-h2.jpg",
+        "SourceUrl": "http://pethamstercare.com/",
+        "DisplayUrl": "pethamstercare.com",
+        "Width": "480",
+        "Height": "247",
+        "FileSize": "27152",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M7fa19c866e5f1b5db96dac062ad6504ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "154",
+          "FileSize": "4001"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=56&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "38014562-d06b-40b9-808c-1d5d1a5c1cac",
+        "Title": "russian dwarf hamster | Hamsters as Pets",
+        "MediaUrl": "http://hamstersaspets.co.uk/wp-content/uploads/2010/11/Andrew-Kelsall.jpg",
+        "SourceUrl": "http://hamstersaspets.co.uk/photos/russian-dwarf-hamster/",
+        "DisplayUrl": "hamstersaspets.co.uk/photos/russian-dwarf-hamster",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "120865",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M6e4ded93aad58c219698f10e621762fdo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "6904"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=57&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ed5a282f-5411-4951-bd75-8773a65944fa",
+        "Title": "Pet of the week: The Syrian hamster - Features - Pets - The ...",
+        "MediaUrl": "http://www.independent.co.uk/migration_catalog/article5259210.ece/alternates/w620/5060868.jpeg",
+        "SourceUrl": "http://www.independent.co.uk/property/house-and-home/pets/features/pet-of-the-week-the-syrian-hamster-2124413.html",
+        "DisplayUrl": "www.independent.co.uk/property/house-and-home/pets/features/pet-of...",
+        "Width": "620",
+        "Height": "413",
+        "FileSize": "47530",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Me437fc6b0fcc9b5cf4fcfd7b7033e9cdo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "13920"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=58&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c1ac3275-6cd7-42cc-8398-00522169fb38",
+        "Title": "Micky, the friendly little hamster",
+        "MediaUrl": "http://www.dogbreedinfo.com/images16/HamsterMickyJordens2.jpg",
+        "SourceUrl": "http://www.dogbreedinfo.com/pets/hamster.htm",
+        "DisplayUrl": "www.dogbreedinfo.com/pets/hamster.htm",
+        "Width": "400",
+        "Height": "249",
+        "FileSize": "59299",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mc200cb227a46f77fbf76a66875955066H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "186",
+          "FileSize": "5735"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet Hamsters'&$skip=59&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4720a1a9-cc51-4f27-b8e5-3171dbb920f1",
+        "Title": "Hamsters - All Pet News",
+        "MediaUrl": "http://www.allpetnews.com/wp-content/uploads/2011/05/Hamsters.jpg",
+        "SourceUrl": "http://allpetnews.com/biggest-birthing-batch-of-hamsters-at-toronto-animal-shelter/hamsters",
+        "DisplayUrl": "allpetnews.com/biggest-birthing-batch-of-hamsters-at-toronto-animal...",
+        "Width": "1663",
+        "Height": "1143",
+        "FileSize": "613679",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M2debcc22ff0deb2eef0c17931932495co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "206",
+          "FileSize": "10129"
+        }
+      }
+    ],
+    "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='Pet%20Hamsters'&$skip=60&$top=50"
+  }
+}

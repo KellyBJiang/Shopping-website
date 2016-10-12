@@ -1,0 +1,1257 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=0&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "09f39a35-9b61-4f6a-95c1-6a28b28c3493",
+        "Title": "The preview thread - Page 66 - Civilization Fanatics' Forums",
+        "MediaUrl": "http://images.chinahighlights.com/travelguide1/culture/architecture/ancient-chinese-architecture-history.jpg",
+        "SourceUrl": "http://forums.civfanatics.com/showthread.php?t=372841&page=66",
+        "DisplayUrl": "forums.civfanatics.com/showthread.php?t=372841&page=66",
+        "Width": "800",
+        "Height": "602",
+        "FileSize": "97658",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M0f53a406a5e449bc6a1d412583922224o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "13956"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=1&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "24ab1d95-6ae5-4ef1-8644-876385b39c81",
+        "Title": "Ningbo History Museum, 2003-2008, Ningbo, China by Wang Shu (All ...",
+        "MediaUrl": "http://blog.cpgcorp.com.sg/wp-content/uploads/2013/05/wang-shu-ningbo-history-museum-03.jpg",
+        "SourceUrl": "http://blog.cpgcorp.com.sg/?p=3651",
+        "DisplayUrl": "blog.cpgcorp.com.sg/?p=3651",
+        "Width": "1500",
+        "Height": "971",
+        "FileSize": "211366",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M53bca5da9413bdb46b35564bcd1fa892o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "194",
+          "FileSize": "6464"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=2&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "25c135e1-12c4-4718-a2d8-fbc8c503358b",
+        "Title": "Did Chinese Architecture have triangular thingie? (Look at picture ...",
+        "MediaUrl": "http://images.chinahighlights.com/travelguide1/culture/architecture/features-of-ancient-chinese-architecture.jpg",
+        "SourceUrl": "http://historum.com/asian-history/36747-did-chinese-architecture-have-triangular-thingie-look-picture.html",
+        "DisplayUrl": "historum.com/asian-history/36747-did-chinese-architecture-have...",
+        "Width": "799",
+        "Height": "742",
+        "FileSize": "118284",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mf521479dc8807003c51caf252677a2fcH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "278",
+          "FileSize": "16021"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=3&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8835ba93-3242-404a-a758-64403ef710e2",
+        "Title": "Chinese Architecture",
+        "MediaUrl": "http://static.panoramio.com/photos/original/36083158.jpg",
+        "SourceUrl": "http://historum.com/asian-history/38373-chinese-architecture.html",
+        "DisplayUrl": "historum.com/asian-history/38373-chinese-architecture.html",
+        "Width": "2080",
+        "Height": "1552",
+        "FileSize": "596008",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M4582a2d16757d78dbe46db7b0355f7cco0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "223",
+          "FileSize": "18624"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=4&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d68a6ce5-d16e-43ed-bb27-354a17ec8c20",
+        "Title": "Chinese Architecture History | Architecture | Pinterest",
+        "MediaUrl": "http://media-cache-ak0.pinimg.com/736x/02/32/5d/02325d836c6000fb1a8c293bf647d286.jpg",
+        "SourceUrl": "http://pinterest.com/pin/351280839654494346/",
+        "DisplayUrl": "pinterest.com/pin/351280839654494346",
+        "Width": "440",
+        "Height": "380",
+        "FileSize": "83791",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Me739d274a307d801c5180ecf6a9dbd5bo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "259",
+          "FileSize": "17247"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=5&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6992e273-e72e-4f4d-932b-0b5ee3c76040",
+        "Title": "Chinese+architecture+history",
+        "MediaUrl": "http://www.richardwiborg.com/Ten_Centuries_of_Chinese_Timber_Framing_by_Richard_Wiborg_files/img162.jpg",
+        "SourceUrl": "http://www.tellingtonttouchtraining.nl/chinese-architecture-history",
+        "DisplayUrl": "www.tellingtonttouchtraining.nl/chinese-architecture-history",
+        "Width": "331",
+        "Height": "205",
+        "FileSize": "32448",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M5e9143678e1af148ff78048edf8c1dd0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "185",
+          "FileSize": "9403"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=6&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8fbe3446-415e-4923-a3aa-1dd2d3da8957",
+        "Title": "chinese architecture architecture in beijing first temple of heaven",
+        "MediaUrl": "http://fc02.deviantart.net/fs70/f/2011/057/c/8/temple_of_heaven__1986__f_by_bobswin-d3afgb6.jpg",
+        "SourceUrl": "http://historum.com/asian-history/38373-chinese-architecture.html",
+        "DisplayUrl": "historum.com/asian-history/38373-chinese-architecture.html",
+        "Width": "1128",
+        "Height": "749",
+        "FileSize": "412421",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M60af35d05fc2adaf01e46e3ab3777a13H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "11822"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=7&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "99d87e81-0eaf-45dd-bd89-cea7e610cfc7",
+        "Title": "The Ancient Chinese Traditional Architecture Stock Images - Image ...",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/ancient-chinese-traditional-architecture-building-has-long-history-brilliant-achievements-china-s-architectural-art-32777404.jpg",
+        "SourceUrl": "http://www.dreamstime.com/stock-images-ancient-chinese-traditional-architecture-building-has-long-history-brilliant-achievements-china-s-architectural-art-image32777404",
+        "DisplayUrl": "www.dreamstime.com/stock-images-ancient-chinese-traditional...",
+        "Width": "1300",
+        "Height": "951",
+        "FileSize": "195510",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M59ff3230684d992901f22173b1775484o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "219",
+          "FileSize": "14019"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=8&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c96da000-19a0-4132-8f0d-c79192417bfc",
+        "Title": "... these are Ming and Qing architectures, here is the Tang architecture",
+        "MediaUrl": "http://1.bp.blogspot.com/-SCJTKg2Me68/Tf9Q9pjQgAI/AAAAAAAABpE/ulxRZw_pv0g/s1600/P1050586.JPG",
+        "SourceUrl": "http://historum.com/asian-history/38373-chinese-architecture.html",
+        "DisplayUrl": "historum.com/asian-history/38373-chinese-architecture.html",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "242851",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mc1d22a9d0bdced72eb4bca11b6e92387H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "10570"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=9&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "00964901-e284-42b5-96f5-dcf2e2633bcf",
+        "Title": "Three Stages of China's Architecture History - China culture",
+        "MediaUrl": "http://arts.cultural-china.com/chinaWH/upload/upfiles/2009-05/21/three_stages_of_chinas_architecture_historyf00e217d41d51d3322c5.jpg",
+        "SourceUrl": "http://arts.cultural-china.com/en/83Arts4779.html",
+        "DisplayUrl": "arts.cultural-china.com/en/83Arts4779.html",
+        "Width": "470",
+        "Height": "353",
+        "FileSize": "55274",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M0fbe318563264b9e93e94249f11a3756o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "12973"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=10&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "72810885-8a2c-4a74-94aa-edb3264e7bb7",
+        "Title": "The Ancient Chinese Traditional Architecture Royalty Free Stock Image ...",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/ancient-chinese-traditional-architecture-building-has-long-history-brilliant-achievements-china-s-architectural-art-32777216.jpg",
+        "SourceUrl": "http://www.dreamstime.com/royalty-free-stock-image-ancient-chinese-traditional-architecture-building-has-long-history-brilliant-achievements-china-s-architectural-art-image32777216",
+        "DisplayUrl": "www.dreamstime.com/royalty-free-stock-image-ancient-chinese...",
+        "Width": "1300",
+        "Height": "1242",
+        "FileSize": "254184",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mc1e7869670a7a7bd1d486abf9582e577H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "286",
+          "FileSize": "19305"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=11&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7dcda400-b329-4c70-904f-bdd0a90953ba",
+        "Title": "Ningbo History Museum, Ningbo, China. Click on the image above to view ...",
+        "MediaUrl": "http://archrecord.construction.com/news/2012/02/images/Wang-Shu-Wins-2012-Pritzker-Prize/Wang-Shu-Wins-2012-Pritzker-Prize-main.jpg",
+        "SourceUrl": "http://archrecord.construction.com/news/2012/02/Wang-Shu-Wins-2012-Pritzker-Prize.asp",
+        "DisplayUrl": "archrecord.construction.com/news/2012/02/Wang-Shu-Wins-2012...",
+        "Width": "625",
+        "Height": "385",
+        "FileSize": "169954",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M6efdc96ad86a51f20bce8184e682f3f5H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "184",
+          "FileSize": "7554"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=12&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ee9a00a7-5d93-462e-b875-54224d0dd453",
+        "Title": "... Longshan, built by 18th century Fujianese Chinese settlers in Taiwan",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/d/d5/Mengjia_Longshan_Temple_-_23_October_2009_-_1.jpg",
+        "SourceUrl": "http://historum.com/asian-history/38373-chinese-architecture-7.html",
+        "DisplayUrl": "historum.com/asian-history/38373-chinese-architecture-7.html",
+        "Width": "3897",
+        "Height": "2596",
+        "FileSize": "12365151",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mede8ef51d4aee3fd87cc8d37018a7b5bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "480",
+          "Height": "319",
+          "FileSize": "53393"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=13&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9464875b-c02c-4780-88ab-c1a3bd4fba18",
+        "Title": "ang Dynasty Architecture - Ancient China - Quatr.us",
+        "MediaUrl": "http://www.historyforkids.org/learn/china/architecture/pictures/longmen.jpg",
+        "SourceUrl": "http://historyforkids.org/learn/china/architecture/tangarchitecture.htm",
+        "DisplayUrl": "historyforkids.org/learn/china/architecture/tangarchitecture.htm",
+        "Width": "400",
+        "Height": "293",
+        "FileSize": "44888",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M29a5232b83ab7a067ccbefbd337b27c4o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "219",
+          "FileSize": "15824"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=14&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ef2abf77-3579-49cb-ab3d-62def5e3a0c5",
+        "Title": "Chinese Architecture",
+        "MediaUrl": "http://static.panoramio.com/photos/original/4561199.jpg",
+        "SourceUrl": "http://historum.com/asian-history/38373-chinese-architecture.html",
+        "DisplayUrl": "historum.com/asian-history/38373-chinese-architecture.html",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "417355",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M46b64139fd2adf355e546199fd34eeb5o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "15406"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=15&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "40c6e016-816e-459d-8847-f1c50c95d506",
+        "Title": "Visiting Chinese Gardens - Ancient China Project - Quatr.us",
+        "MediaUrl": "http://quatr.us/china/architecture/doing/pictures/portlandgarden.jpg",
+        "SourceUrl": "http://quatr.us/china/architecture/doing/chinesegarden.htm",
+        "DisplayUrl": "quatr.us/china/architecture/doing/chinesegarden.htm",
+        "Width": "415",
+        "Height": "265",
+        "FileSize": "92818",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M1099ff90a10dbaa4e04dd8ffecbbcd9fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "191",
+          "FileSize": "12797"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=16&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "36d5a9c7-b720-4c78-bd81-8ea316b74d69",
+        "Title": "Chinese architecture has a number of unique features: the elegance of ...",
+        "MediaUrl": "http://www.advantour.com/img/china/architecture/architecture4.jpg",
+        "SourceUrl": "http://www.advantour.com/china/culture/architecture.htm",
+        "DisplayUrl": "www.advantour.com/china/culture/architecture.htm",
+        "Width": "600",
+        "Height": "373",
+        "FileSize": "107035",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Ma460049280247b52ea40ced0279ae172o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "186",
+          "FileSize": "10165"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=17&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "15175ddf-9fb4-492d-a12a-c28c13c877b4",
+        "Title": "chinese pagoda the most famous building in chinese architecture",
+        "MediaUrl": "http://pronko1.wikispaces.com/file/view/the-history-of-ancient-chinese-architecture.jpg/138449775/the-history-of-ancient-chinese-architecture.jpg",
+        "SourceUrl": "http://pronko1.wikispaces.com/Dan",
+        "DisplayUrl": "pronko1.wikispaces.com/Dan",
+        "Width": "275",
+        "Height": "275",
+        "FileSize": "20680",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mf4e75ad0352893d869b48aee8945b452o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "275",
+          "Height": "275",
+          "FileSize": "11106"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=18&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "500ca0d7-8552-4478-8263-f1557df7b04a",
+        "Title": "Three Stages of China's Architecture History - China culture",
+        "MediaUrl": "http://www.cultural-china.com/chinaWH/upload/allImg/2009-05/21/three_stages_of_chinas_architecture_history3bd5dab50e2a5c82f2f6.jpg2.jpg",
+        "SourceUrl": "http://arts.cultural-china.com/en/83Arts4779.html",
+        "DisplayUrl": "arts.cultural-china.com/en/83Arts4779.html",
+        "Width": "930",
+        "Height": "697",
+        "FileSize": "40086",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Me6545d6372181c798c36d22a8f5b21fao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "224",
+          "FileSize": "8653"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=19&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "caba7734-c107-4078-81c5-e6ed47fdb5cc",
+        "Title": "Chinese architecture has a number of unique features: the elegance of ...",
+        "MediaUrl": "http://www.advantour.com/img/china/architecture/architecture8.jpg",
+        "SourceUrl": "http://www.advantour.com/china/culture/architecture.htm",
+        "DisplayUrl": "www.advantour.com/china/culture/architecture.htm",
+        "Width": "550",
+        "Height": "429",
+        "FileSize": "109968",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M13b43c7fa8fdf814dfd7427d6f8a4f03H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "234",
+          "FileSize": "14208"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=20&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4c88c16c-64dd-40a3-b449-cfbdf1385c62",
+        "Title": "... image to see slideshow. Ningbo History Museum | photo: Lu Hengzhong",
+        "MediaUrl": "http://archleague.org/site/wp-content/uploads/2012/09/wang-shu-ningbo-history-museum-01.jpg",
+        "SourceUrl": "http://archleague.org/2013/04/wang-shu/",
+        "DisplayUrl": "archleague.org/2013/04/wang-shu",
+        "Width": "4992",
+        "Height": "3328",
+        "FileSize": "5099039",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Me6f0c748e5e02e7ebff031236c72aac0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "12632"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=21&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f68e7fa3-aab6-4caf-94f6-39f3727f58b4",
+        "Title": "Chinese Architecture - History of Architecture",
+        "MediaUrl": "http://historyofarchitecture.weebly.com/uploads/4/1/8/6/4186116/5251877.jpg?433",
+        "SourceUrl": "http://historyofarchitecture.weebly.com/chinese.html",
+        "DisplayUrl": "historyofarchitecture.weebly.com/chinese.html",
+        "Width": "432",
+        "Height": "287",
+        "FileSize": "42527",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mbe8c61abf492155d80815f3a0295bbe9o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "7274"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=22&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d5d3c206-73e4-414c-a645-5bd6b825488c",
+        "Title": "... -commercial use only] / Ancient China: Connections to Modern Society",
+        "MediaUrl": "http://www.historyforkids.org/learn/china/architecture/pictures/forbiddencity.jpg",
+        "SourceUrl": "http://naturalenvironmentcivilizations.pbworks.com/w/page/63787628/Ancient%20China%3A%20Connections%20to%20Modern%20Society",
+        "DisplayUrl": "naturalenvironmentcivilizations.pbworks.com/w/page/63787628/Ancient...",
+        "Width": "400",
+        "Height": "273",
+        "FileSize": "37752",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mf51a379166962ea274902cb687bb57f4H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "204",
+          "FileSize": "13257"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=23&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "cb70a5f6-40fd-43dd-872d-16d58b3b69bd",
+        "Title": "china historical asian architecture 2272x1704 wallpaper – Historical ...",
+        "MediaUrl": "http://www.wall321.com/thumbnails/detail/20120705/snow%20black%20china%20historical%20asian%20architecture%202272x1704%20wallpaper_www.wall321.com_84.jpg",
+        "SourceUrl": "http://www.wall321.com/Architecture/Historical/snow_black_china_historical_asian_architecture_2272x1704_wallpaper_47858",
+        "DisplayUrl": "www.wall321.com/Architecture/Historical/snow_black_china_historical...",
+        "Width": "800",
+        "Height": "600",
+        "FileSize": "422142",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mde730ba1000d0dafc3b32d0bdf129876o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "11549"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=24&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "31b1e579-4b56-4d73-b314-57b6f2c8d6db",
+        "Title": "... on the east songshan mountain in central china s henan province china",
+        "MediaUrl": "http://news.xinhuanet.com/english2010/culture/2010-03/10/13205296_11n.jpg",
+        "SourceUrl": "http://au.china-embassy.org/eng/ly/t663166.htm",
+        "DisplayUrl": "au.china-embassy.org/eng/ly/t663166.htm",
+        "Width": "500",
+        "Height": "323",
+        "FileSize": "48341",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M3a6d18ad036342772ed3720977d6b04co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "193",
+          "FileSize": "16000"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=25&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "bb3fce14-abd3-44cc-b538-e0b97d24d1a3",
+        "Title": "Wuhan Yellow Crane Tower, Wuhan Huanghe Tower",
+        "MediaUrl": "http://images.chinahighlights.com/attraction/wuhan/yellow-crane-tower/Yellow-Crane-Tower4.jpg",
+        "SourceUrl": "http://www.chinahighlights.com/wuhan/attraction/the-yellow-crane-tower.htm",
+        "DisplayUrl": "www.chinahighlights.com/wuhan/attraction/the-yellow-crane-tower.htm",
+        "Width": "800",
+        "Height": "1067",
+        "FileSize": "129290",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M391bcf0a59be32d4d0d09f2865ff04f2H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "224",
+          "Height": "300",
+          "FileSize": "13509"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=26&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "73a8e08f-cdf7-4b8a-8af5-c710666ab0b3",
+        "Title": "linehouse transforms tiny shanghai shop into little catch fishmonger",
+        "MediaUrl": "http://www.designboom.com/wp-content/uploads/2015/04/perkins-will-shanghai-natural-history-museum-china-designboom-500.jpg",
+        "SourceUrl": "http://designboom.com/tag/chinese-architecture",
+        "DisplayUrl": "designboom.com/tag/chinese-architecture",
+        "Width": "500",
+        "Height": "400",
+        "FileSize": "145010",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Me66795e090b8c05d877f8032bbd7fee0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "240",
+          "FileSize": "24857"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=27&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "43dddc58-b635-47e0-8864-e4255936e77e",
+        "Title": "China historical architecture, south bridge in Dujiangyan. with many ...",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/south-bridge-china-historical-architecture-dujiangyan-many-tourists-44931673.jpg",
+        "SourceUrl": "http://dreamstime.com/editorial-stock-photo-south-bridge-china-historical-architecture-dujiangyan-many-tourists-image44931673",
+        "DisplayUrl": "dreamstime.com/editorial-stock-photo-south-bridge-china-historical...",
+        "Width": "1300",
+        "Height": "953",
+        "FileSize": "237120",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M23a4a4e9b3e850e37b807007436c6d66o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "219",
+          "FileSize": "17606"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=28&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c2c6fbd8-f79c-465b-9c0a-04bbd49928e4",
+        "Title": "Ancient Chinese Architecture and Historical Towns‎ - Page 2 ...",
+        "MediaUrl": "http://i149.photobucket.com/albums/s57/world-2/aiwanpavilion-changsha-hunan.jpg",
+        "SourceUrl": "http://forum.skyscraperpage.com/showthread.php?t=181954&page=2",
+        "DisplayUrl": "forum.skyscraperpage.com/showthread.php?t=181954&page=2",
+        "Width": "1037",
+        "Height": "778",
+        "FileSize": "208423",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M13e7a6e32edb27a7973e88ff0b92ec2ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "22570"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=29&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "14074c43-e20b-4ea5-a96e-b941685d4eaa",
+        "Title": "Ancient china landscape architecture — Stock Photo © lnzyx ...",
+        "MediaUrl": "http://st.depositphotos.com/1048171/1965/i/950/depositphotos_19651493-Ancient-china-landscape-architecture.jpg",
+        "SourceUrl": "http://depositphotos.com/19651493/stock-photo-ancient-china-landscape-architecture.html",
+        "DisplayUrl": "depositphotos.com/19651493/stock-photo-ancient-china-landscape...",
+        "Width": "1023",
+        "Height": "680",
+        "FileSize": "426763",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M68f5f5041f16e5bde99ab09e48ef2f12o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "19886"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=30&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "547e3827-39a0-42de-a979-58952262890b",
+        "Title": "china architecture history chinese-architecture.info",
+        "MediaUrl": "http://media-cache-ec0.pinimg.com/736x/b2/e4/1a/b2e41a87a10e98035e46dbf2c15bcf90.jpg",
+        "SourceUrl": "http://gallery4share.com/c/china-architecture-history.html",
+        "DisplayUrl": "gallery4share.com/c/china-architecture-history.html",
+        "Width": "440",
+        "Height": "220",
+        "FileSize": "32408",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M4e59b7c8123e3ea90fec3a560257328ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "150",
+          "FileSize": "7134"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=31&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "425aa94b-05a2-41f0-b0ac-f3c91b2c9c48",
+        "Title": "In the courtyard of an old Chinese temple in Kunming, China, with the ...",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/ancient-chinese-architecture-22578730.jpg",
+        "SourceUrl": "http://www.dreamstime.com/stock-photo-ancient-chinese-architecture-image22578730",
+        "DisplayUrl": "www.dreamstime.com/stock-photo-ancient-chinese-architecture...",
+        "Width": "1300",
+        "Height": "957",
+        "FileSize": "285851",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M53c8c863d01c7dca64931ec8c36bfc09o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "220",
+          "FileSize": "19050"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=32&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0638e5b9-2a3f-4b20-8f5a-fa3db1218fc2",
+        "Title": "Chinese Architecture - Page 6 - Historum - History Forums",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/2/27/Zhenchenglou_4_rings.JPG",
+        "SourceUrl": "http://historum.com/asian-history/38373-chinese-architecture-6.html",
+        "DisplayUrl": "historum.com/asian-history/38373-chinese-architecture-6.html",
+        "Width": "1200",
+        "Height": "799",
+        "FileSize": "1293805",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M9b4730f33afcee83f40285df27cb96e9o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "17437"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=33&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1474d819-a55f-48e0-b579-06c22f84f512",
+        "Title": "Ancient Chinese Architecture and Historical Towns‎ - Page 3 ...",
+        "MediaUrl": "http://i748.photobucket.com/albums/xx125/TibetMonk-2/shuhe%20town%20china/shuhe.jpg",
+        "SourceUrl": "http://forum.skyscraperpage.com/showthread.php?t=181954&page=3",
+        "DisplayUrl": "forum.skyscraperpage.com/showthread.php?t=181954&page=3",
+        "Width": "1023",
+        "Height": "628",
+        "FileSize": "170607",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M006016b4e094e404512ef54c6dfad456o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "184",
+          "FileSize": "14203"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=34&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "16e5a502-f3d3-4d1b-b962-cff501e9bf19",
+        "Title": "Ancient Architecture of the World - The History of Architecture - The ...",
+        "MediaUrl": "http://www.arthistoryarchive.com/arthistory/architecture/images/Asian-Architecture.jpg",
+        "SourceUrl": "http://www.arthistoryarchive.com/arthistory/architecture/Ancient-Architecture.html",
+        "DisplayUrl": "www.arthistoryarchive.com/arthistory/architecture/Ancient...",
+        "Width": "443",
+        "Height": "350",
+        "FileSize": "73582",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mbd9b9c589797bebce724ea4474ad58f0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "237",
+          "FileSize": "24477"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=35&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6493d4f2-c3e0-4abd-8d85-dd3f3a31e18b",
+        "Title": "Three Kingdoms Buddhists",
+        "MediaUrl": "http://historyforkids.org/learn/china/architecture/pictures/mogao.jpg",
+        "SourceUrl": "http://snipview.com/q/three kingdoms buddhists",
+        "DisplayUrl": "snipview.com/q/three kingdoms buddhists",
+        "Width": "260",
+        "Height": "350",
+        "FileSize": "30302",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M4630b3cab4f8b9f240dae42ff539c145o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "222",
+          "Height": "300",
+          "FileSize": "12724"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=36&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f8665580-7727-4f67-af01-eada3cdefce1",
+        "Title": "Chinese Architecture History | Architecture | Pinterest",
+        "MediaUrl": "http://media-cache-ak0.pinimg.com/736x/8f/98/32/8f983273beffa10b6abe5ffbb248064c.jpg",
+        "SourceUrl": "http://pinterest.com/pin/351280839654494347/",
+        "DisplayUrl": "pinterest.com/pin/351280839654494347",
+        "Width": "440",
+        "Height": "346",
+        "FileSize": "51965",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mb3b3dd5fb42c37039fce923692c2abdbo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "235",
+          "FileSize": "10264"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=37&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8a6c7ea0-1685-44a7-b4ed-f98c80f6a8f7",
+        "Title": "Published October 29, 2010 in Between the Good Fight Fi’Sabeel ...",
+        "MediaUrl": "http://hotterthanapileofcurry.files.wordpress.com/2010/10/great-mosque-xi_an-china.jpg",
+        "SourceUrl": "http://hotterthanapileofcurry.wordpress.com/2010/10/29/between-the-good-fight-fisabeelallah-peace/olympus-digital-camera-2/",
+        "DisplayUrl": "hotterthanapileofcurry.wordpress.com/2010/10/29/between-the-good...",
+        "Width": "1520",
+        "Height": "2288",
+        "FileSize": "687198",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mc050979f5000e515c5c3c876ef85da0do0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "199",
+          "Height": "300",
+          "FileSize": "10865"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=38&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3731648c-16b0-464c-a32f-782e64752622",
+        "Title": "Chinese Architecture History | Architecture/Design | Pinterest",
+        "MediaUrl": "http://media-cache-ec0.pinimg.com/736x/24/33/d3/2433d3771028db2a7eddba9ed4537efc.jpg",
+        "SourceUrl": "http://pinterest.com/pin/19703317093130195/",
+        "DisplayUrl": "pinterest.com/pin/19703317093130195",
+        "Width": "700",
+        "Height": "465",
+        "FileSize": "105343",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Md04bbf3b9fea86dd83c516420ba6837ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "16442"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=39&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8e1e5a00-fb73-444a-82ee-08fe7dfd9234",
+        "Title": "Chinese Architecture on Pinterest | Japanese Architecture, Pavilion ...",
+        "MediaUrl": "https://s-media-cache-ak0.pinimg.com/originals/ee/bd/97/eebd9774c97627744ee270b6c9f37802.jpg",
+        "SourceUrl": "https://www.pinterest.com/explore/chinese-architecture/",
+        "DisplayUrl": "https://www.pinterest.com/explore/chinese-architecture",
+        "Width": "800",
+        "Height": "1064",
+        "FileSize": "229742",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Meebd9774c97627744ee270b6c9f37802o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "225",
+          "Height": "300",
+          "FileSize": "13589"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=40&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d1bb3ae4-e96e-4866-9e7e-aacfbcd3b4b6",
+        "Title": "Chinese architectural art is the exhibition of Chinese ethics ...",
+        "MediaUrl": "http://www.absolutechinatours.com/UploadFiles/ImageBase/untitled(44).bmp",
+        "SourceUrl": "http://www.absolutechinatours.com/china-travel/Architecture.html",
+        "DisplayUrl": "www.absolutechinatours.com/china-travel/Architecture.html",
+        "Width": "544",
+        "Height": "200",
+        "FileSize": "326454",
+        "ContentType": "bmp",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Maa467d72ee80da957bad2bead8899694o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "110",
+          "FileSize": "6906"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=41&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6563c7c8-3c6d-4eb0-8d4e-bf5422550dd5",
+        "Title": "chinese-ancient-architecture-building-structures-china-occupy ...",
+        "MediaUrl": "http://thumbs.dreamstime.com/z/chinese-ancient-architecture-building-structures-china-occupy-important-position-world-building-history-32042471.jpg",
+        "SourceUrl": "http://www.dreamstime.com/stock-image-chinese-ancient-architecture-building-structures-china-occupy-important-position-world-building-history-image32042471",
+        "DisplayUrl": "www.dreamstime.com/stock-image-chinese-ancient-architecture...",
+        "Width": "1300",
+        "Height": "957",
+        "FileSize": "197762",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mf9d25b6cf25ef618642730e1025496d4o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "220",
+          "FileSize": "22368"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=42&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "eff33a82-3b7e-4093-97e2-6bb0fd860087",
+        "Title": "Chinese Architecture Songpan",
+        "MediaUrl": "http://images.travelpod.com/users/subtlebydesign/1.1242808320.chinese-architecture.jpg",
+        "SourceUrl": "http://johnqdewars.blogspot.com/2011/09/history-of-ancient-chinese.html",
+        "DisplayUrl": "johnqdewars.blogspot.com/2011/09/history-of-ancient-chinese.html",
+        "Width": "550",
+        "Height": "413",
+        "FileSize": "91301",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Md47172419b7933777144564c95570405o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "16792"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=43&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "304588cf-fe7d-45b0-8d4b-f4f831c86e0f",
+        "Title": "Chinese Gardens: History and Famous Historic Garden in China",
+        "MediaUrl": "http://images.chinahighlights.com/travelguide1/culture/architecture/09history-of-chinese-garden.jpg",
+        "SourceUrl": "http://www.chinahighlights.com/travelguide/architecture/history-garden.htm",
+        "DisplayUrl": "www.chinahighlights.com/travelguide/architecture/history-garden.htm",
+        "Width": "800",
+        "Height": "602",
+        "FileSize": "154602",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mcbbad49a2d7ddfcca20d5c0feadea151o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "20461"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=44&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a98d5283-036e-4f84-a6e7-e803a57efd55",
+        "Title": "... chinese culture masterpieces of chinese architecture such as the",
+        "MediaUrl": "http://www.advantour.com/img/china/architecture/architecture5.jpg",
+        "SourceUrl": "http://www.advantour.com/china/culture/architecture.htm",
+        "DisplayUrl": "www.advantour.com/china/culture/architecture.htm",
+        "Width": "600",
+        "Height": "399",
+        "FileSize": "120083",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M6f1dd27a0e5cc8c7399fa3258e7a445fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "16663"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=45&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "fad131a5-b99a-4187-bd59-d28e65051c58",
+        "Title": "Ancient Chinese Art, Culture, Religion and Language",
+        "MediaUrl": "http://4.bp.blogspot.com/-mFy6TFgrN3k/T37-3m0ygJI/AAAAAAAAAM0/x-UR27s5YaE/s1600/dian.jpg",
+        "SourceUrl": "http://goldhistorian.blogspot.com/2012/04/ancient-chinese-civilization.html",
+        "DisplayUrl": "goldhistorian.blogspot.com/2012/04/ancient-chinese-civilization.html",
+        "Width": "400",
+        "Height": "285",
+        "FileSize": "52920",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mebbe5449b7c819777512ee05a17f2018o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "213",
+          "FileSize": "18341"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=46&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "eeb1b5f5-57ac-48c2-addd-dfb4a5e1dc64",
+        "Title": "architectural-treasure-ancient-china-old-red-temple-201594",
+        "MediaUrl": "http://mrbelloblog.com/wp-content/uploads/2014/09/architectural-treasure-ancient-china-old-red-temple-201594.jpg",
+        "SourceUrl": "http://mrbelloblog.com/2014/09/13/1-ap-world-history/ancient-china/",
+        "DisplayUrl": "mrbelloblog.com/2014/09/13/1-ap-world-history/ancient-china",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "201594",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M16e58de64df66911da13e1efca9db0dcH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "13220"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=47&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8a120d47-25d2-4bea-b405-7499af112279",
+        "Title": "Chinese Architecture - History of Architecture",
+        "MediaUrl": "http://historyofarchitecture.weebly.com/uploads/4/1/8/6/4186116/3678128.jpg?435",
+        "SourceUrl": "http://historyofarchitecture.weebly.com/chinese.html",
+        "DisplayUrl": "historyofarchitecture.weebly.com/chinese.html",
+        "Width": "433",
+        "Height": "325",
+        "FileSize": "27563",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mbd0af0c9d880556a637b85a4061e0432o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "10230"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=48&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "54879798-d69c-4e3c-8eb3-ed31f4acdd1b",
+        "Title": "Chinese architectural history",
+        "MediaUrl": "http://www.visitourchina.com/FileUpload/Guide/Culture/Picture/20071815011209238.jpg",
+        "SourceUrl": "http://natureillustratedmagazine.com/q/chinese_architectural_history",
+        "DisplayUrl": "natureillustratedmagazine.com/q/chinese_architectural_history",
+        "Width": "450",
+        "Height": "326",
+        "FileSize": "23446",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M5b14c186a954ebdcf5541e17c107643dH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "217",
+          "FileSize": "9235"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china history Architecture Photos'&$skip=49&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a87afd65-ce2c-4d3b-83c4-aed23fa84214",
+        "Title": "Chinese Architecture - Ancient China - Quatr.us",
+        "MediaUrl": "http://www.historyforkids.org/learn/china/architecture/pictures/whitepagoda.jpg",
+        "SourceUrl": "http://www.historyforkids.org/learn/china/architecture/",
+        "DisplayUrl": "www.historyforkids.org/learn/china/architecture",
+        "Width": "276",
+        "Height": "425",
+        "FileSize": "39601",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M216a54bf4ea835d9443a9a6ba3b173e5H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "194",
+          "Height": "300",
+          "FileSize": "6185"
+        }
+      }
+    ],
+    "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='china%20history%20Architecture%20Photos'&$skip=50&$top=50"
+  }
+}

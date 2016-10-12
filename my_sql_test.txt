@@ -1,0 +1,42 @@
+select id_img, id_log from images where id_log in (select id_log date from logs where date between '2013-01-01' and '2013-12-31');
+select id_log date from logs where date between '2013-01-01' and '2013-12-31';
+select id_img from images where ctgy='people';
+
+select id_img, id_phoger, ctgy, rsln_w, rsln_h 
+from images 
+where (ctgy='pets' or ctgy='human')
+and   (rsln_w between 500 and 1090)
+and   (rsln_h between 600 and 900)
+and   (id_phoger in (select id_phoger from phogers where (name='Jason Hodder' or name='Chris Brown')))
+group by rsln_w;
+
+select id_img, rsln_w, rsln_h 
+from images 
+where (rsln_w between 500 and 1090);
+and   (rsln_h between 600 and 900)
+group by rsln_h;
+
+select id_img, rsln_w, rsln_h 
+from images 
+where id_img in 
+(select id_img 
+from images 
+where (rsln_w between 500 and 1090))
+and id_img in 
+(select id_img 
+from images 
+);
+group by rsln_h;
+
+
+select id_img, ctgy, rsln_w, rsln_h, dpi 
+from images
+where (ctgy='pets' or ctgy='human' or ctgy='architecture') and (rsln_w between 300 and 900) and (rsln_h between 200 and 500) and (dpi=20 or dpi=96 or dpi=120); 
+
+select id_log, date
+from logs;
+where (date between '')
+
+select id_phoger 
+from phogers
+where (name='Jason Hodder' or name='Chris Brown');

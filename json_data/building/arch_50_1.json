@@ -1,0 +1,1257 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=0&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "41361a46-5aa9-4b29-b25b-3e7a9f2b738b",
+        "Title": "World Famous Architecture.... : Art, Design",
+        "MediaUrl": "http://img.xcitefun.net/users/2011/09/264636,xcitefun-beautiful-architecture-22.jpg",
+        "SourceUrl": "http://forum.xcitefun.net/world-famous-architecture-t66492.html",
+        "DisplayUrl": "forum.xcitefun.net/world-famous-architecture-t66492.html",
+        "Width": "550",
+        "Height": "550",
+        "FileSize": "163560",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M484983cc3177baf0140037bcee1b7570H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "9967"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=1&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "dcfe0ebd-22e4-412e-8a4d-0ad5365c5d87",
+        "Title": "... _Modern_Architecture_In_Belgrade_Serbia_world_of_architecture_04.jpg",
+        "MediaUrl": "http://1.bp.blogspot.com/-xFN0SSaSGD8/UOtpwynEAkI/AAAAAAAAN4c/RhLi9cXlAB4/s1600/Zaha_Hadid_Architects_Doing_Their_Magic_With_Modern_Architecture_In_Belgrade_Serbia_world_of_architecture_04.jpg",
+        "SourceUrl": "http://www.worldofarchi.com/2013/01/zaha-hadid-architects-doing-their-magic.html",
+        "DisplayUrl": "www.worldofarchi.com/2013/01/zaha-hadid-architects-doing-their...",
+        "Width": "1600",
+        "Height": "1000",
+        "FileSize": "293870",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Maf44e0eed449a4cc28d6bd05a1f0abc5H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "11610"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=2&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d136d600-a1e6-4373-a5be-fdc88f00b0bb",
+        "Title": "famous architecture famous architecture famous architecture famous ...",
+        "MediaUrl": "http://1.bp.blogspot.com/-DsdNmmkm6kI/Tk_Y_5w1KnI/AAAAAAAABBQ/_HlS3AX5GIY/s1600/SF+architecture+6.JPG",
+        "SourceUrl": "http://famiousworld.blogspot.com/2011/08/famous-architecture.html",
+        "DisplayUrl": "famiousworld.blogspot.com/2011/08/famous-architecture.html",
+        "Width": "1200",
+        "Height": "1600",
+        "FileSize": "253627",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M402b7b21ba025bb7265ba5fa36bea6eao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "225",
+          "Height": "300",
+          "FileSize": "12849"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=3&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "546b06ff-c48a-434b-bc0a-d8b99cd5d765",
+        "Title": "World Architecture",
+        "MediaUrl": "http://fotofacade.com/wp-content/uploads/2009/01/ew0006.jpg",
+        "SourceUrl": "http://depleur.blogspot.com/2015/01/best-architecture-building-design-in.html",
+        "DisplayUrl": "depleur.blogspot.com/2015/01/best-architecture-building-design-in.html",
+        "Width": "500",
+        "Height": "332",
+        "FileSize": "114374",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mc2d64d1f26cce1981488dc6cec6c788bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "12780"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=4&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ea2baa3b-c0e7-4998-90cd-e7df5ba039e2",
+        "Title": "Reflections at Keppel Bay, Singapore’s historic Keppel Harbor",
+        "MediaUrl": "http://news.bbcimg.co.uk/media/images/63033000/jpg/_63033844_keppelbay.jpg",
+        "SourceUrl": "http://www.bbc.co.uk/news/in-pictures-19673047",
+        "DisplayUrl": "www.bbc.co.uk/news/in-pictures-19673047",
+        "Width": "976",
+        "Height": "549",
+        "FileSize": "96725",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Maec36deef18dc46cd232e922c7f09447o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "168",
+          "FileSize": "6688"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=5&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e09dddb2-434a-425b-b840-6272d48ace2c",
+        "Title": "These Are The 33 Most Innovative And Stunning Buildings Created This ...",
+        "MediaUrl": "http://i.huffpost.com/gen/2163570/images/o-FREE-facebook.jpg",
+        "SourceUrl": "http://www.huffingtonpost.com/2014/10/14/world-architecture-festival-2014_n_5979190.html",
+        "DisplayUrl": "www.huffingtonpost.com/2014/10/14/world-architecture-festival-2014...",
+        "Width": "2000",
+        "Height": "1000",
+        "FileSize": "298505",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Me50cfa324a631ffa98e6cc65863f1b7do0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "150",
+          "FileSize": "11122"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=6&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ccad11a4-d978-42cb-b96f-eaa50b2db5b1",
+        "Title": "World Architecture Festival’s Winning Designs Photos | Architectural ...",
+        "MediaUrl": "http://media.architecturaldigest.com/photos/563d17f47caa1a6554abc76e/master/pass/world-architecture-festival-01.jpg",
+        "SourceUrl": "http://www.architecturaldigest.com/gallery/world-architecture-festival",
+        "DisplayUrl": "www.architecturaldigest.com/gallery/world-architecture-festival",
+        "Width": "3200",
+        "Height": "2133",
+        "FileSize": "1677855",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M84893d701f645780175a8a851668fb92o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "18469"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=7&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a1ec1a65-493d-4a4a-8c62-49187b20ef3c",
+        "Title": "World Architecture Festival 2012 Awards_10 @ GenCept",
+        "MediaUrl": "http://gencept.com/wp-content/uploads/2012/09/World-Architecture-Festival-2012-Awards_10-@-GenCept.jpg",
+        "SourceUrl": "http://gencept.com/world-architecture-festival-2012-awards",
+        "DisplayUrl": "gencept.com/world-architecture-festival-2012-awards",
+        "Width": "976",
+        "Height": "549",
+        "FileSize": "107442",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M5cceaaa96fa9fa88dbb5ceb35bee00f4o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "168",
+          "FileSize": "9612"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=8&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b3f6d575-9a3e-4109-865a-f94cced8f466",
+        "Title": "Architecture Model Galleries: Famous Architecture Buildings",
+        "MediaUrl": "http://2.bp.blogspot.com/-9H0D7Refdzc/Uh3Bt2hdkoI/AAAAAAAAHKc/o_p1xwJJZ20/s1600/Famous-Architecture-Buildings5.jpg",
+        "SourceUrl": "http://architecturemodelgalleries.blogspot.com/2013/08/famous-architecture-buildings.html",
+        "DisplayUrl": "architecturemodelgalleries.blogspot.com/2013/08/famous-architecture...",
+        "Width": "1323",
+        "Height": "992",
+        "FileSize": "402687",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Md45dfde70175ea375a4d5bded89622d5o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "224",
+          "FileSize": "10064"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=9&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "080744ec-5f9b-4ff4-b94a-8635e08df622",
+        "Title": "World architecture wallpaper | (25619)",
+        "MediaUrl": "http://getwallpapers.net/wallpapers/l/1920x1080/26/world_architecture_1920x1080_25619.jpg",
+        "SourceUrl": "http://getwallpapers.net/world-architecture-wallpaper-25619/",
+        "DisplayUrl": "getwallpapers.net/world-architecture-wallpaper-25619",
+        "Width": "1920",
+        "Height": "1080",
+        "FileSize": "357718",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mb96b95da2901c9c298b7986b9836331co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "168",
+          "FileSize": "13055"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=10&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "25ad96b1-7701-4fc5-b325-d52344ff9579",
+        "Title": "... Daring New Buildings Around the World Photos | Architectural Digest",
+        "MediaUrl": "http://media.architecturaldigest.com/photos/55e76593cd709ad62e8e79bf/master/pass/dam-images-architecture-2015-02-buzzworthy-buildings-new-buzzworthy-buildings-2015-01-de-rotterdam.jpg",
+        "SourceUrl": "http://www.architecturaldigest.com/gallery/buzzworthy-buildings-and-architecture-slideshow",
+        "DisplayUrl": "www.architecturaldigest.com/gallery/buzzworthy-buildings-and...",
+        "Width": "900",
+        "Height": "600",
+        "FileSize": "123465",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mecedc2c37001c3df6f89e1f641ee9aaco0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "8609"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=11&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "380d0629-226c-457b-a561-cac07886455e",
+        "Title": "he New York World Building, the Tribune Building, and the extant New ...",
+        "MediaUrl": "http://www.nyc-architecture.com/GON/world2.jpg",
+        "SourceUrl": "http://www.nyc-architecture.com/GON/GON007.htm",
+        "DisplayUrl": "www.nyc-architecture.com/GON/GON007.htm",
+        "Width": "630",
+        "Height": "442",
+        "FileSize": "148470",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mdaa12c749088ee4ce8f41669a149f79bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "210",
+          "FileSize": "18513"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=12&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d112c4da-51fb-4040-ac33-a5fd1aa17ffa",
+        "Title": "Landscape Architecture Projects of 2014 - The Park at Lakeshore East ...",
+        "MediaUrl": "http://landarchs.com/wp-content/uploads/2014/11/Landscape-Architecture41.jpg",
+        "SourceUrl": "http://landarchs.com/top-10-landscape-architecture-projects-2014/",
+        "DisplayUrl": "landarchs.com/top-10-landscape-architecture-projects-2014",
+        "Width": "600",
+        "Height": "523",
+        "FileSize": "67839",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M518d3d5ea2c63bf9d4ec01326857a7fao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "261",
+          "FileSize": "19083"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=13&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c0ea2a9c-77fa-490c-83eb-c35c31d3f502",
+        "Title": "... singapore architecture, digital cloud skyscraper, modular architecture",
+        "MediaUrl": "http://www.inhabitat.com/wp-content/uploads/cloudarch-ed01.jpg",
+        "SourceUrl": "http://inhabitat.com/singapores-stunning-digital-cloud-skyscraper/",
+        "DisplayUrl": "inhabitat.com/singapores-stunning-digital-cloud-skyscraper",
+        "Width": "537",
+        "Height": "450",
+        "FileSize": "55473",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Me6cee09120da5a8ad53c2fd48075cebdH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "251",
+          "FileSize": "15570"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=14&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "475c6430-c280-4b5e-9956-c06d920520fa",
+        "Title": "World Famous Buildings - Architecture - e-architect",
+        "MediaUrl": "http://www.e-architect.co.uk/images/jpgs/barcelona/sagrada_familia_2.jpg",
+        "SourceUrl": "http://www.e-architect.co.uk/famous-buildings",
+        "DisplayUrl": "www.e-architect.co.uk/famous-buildings",
+        "Width": "700",
+        "Height": "560",
+        "FileSize": "77179",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M3a060cce01a50f275f5fe52600354bccH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "240",
+          "FileSize": "16840"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=15&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "2408328f-448b-4884-9f25-2eeafd9d9dc0",
+        "Title": "Touring the World of Architecture: Week 50",
+        "MediaUrl": "http://www.arcspace.com/CropUp/-/media/782169/week-50-Form4-Architecture-2.jpg",
+        "SourceUrl": "http://www.arcspace.com/articles/touring-the-world-of-architecture-week-50/",
+        "DisplayUrl": "www.arcspace.com/articles/touring-the-world-of-architecture-week-50",
+        "Width": "2000",
+        "Height": "1237",
+        "FileSize": "910778",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mb6c62ff2d86617f960ff41eec80bb919o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "185",
+          "FileSize": "7975"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=16&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "39c41b25-c500-4764-8312-1ed856c5e67e",
+        "Title": "Architecture Design of best house in world wallpaper | HD Wallpapers ...",
+        "MediaUrl": "http://hdwallpapersrocks.com/wp-content/uploads/2013/09/Architecture-Design-of-best-house-in-world-wallpaper.jpg",
+        "SourceUrl": "http://hdwallpapersrocks.com/architecture-interior-design-plan/architecture-design-of-best-house-in-world-wallpaper/",
+        "DisplayUrl": "hdwallpapersrocks.com/architecture-interior-design-plan...",
+        "Width": "1920",
+        "Height": "1200",
+        "FileSize": "857136",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M7a7c67b4e5305108454149ccffd825ceo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "12908"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=17&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "712d0cb7-57f5-44c6-a4f4-39c9720a820a",
+        "Title": "Picture of new retail and office complex in Beijing as seen from the ...",
+        "MediaUrl": "http://2.bp.blogspot.com/-A7BrWT6rBXY/UBAEjxjQo4I/AAAAAAAAGng/SbYxxDDKtqI/s1600/Wangjing_Soho_modern_architecturebuildings_in_new_office_and_retail_complex_for_Beijing_China_worldofarchi_01.jpg",
+        "SourceUrl": "http://www.worldofarchi.com/2012/07/wangjing-soho-office-and-retail-complex.html",
+        "DisplayUrl": "www.worldofarchi.com/2012/07/wangjing-soho-office-and-retail...",
+        "Width": "640",
+        "Height": "512",
+        "FileSize": "206212",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M97a46d97c4e4200d28edadcf66f67940H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "240",
+          "FileSize": "9136"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=18&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "670b7344-8fa6-4d24-b480-b2a5e5571607",
+        "Title": "... DMC Services | Ovation - A Global Destination Management Company",
+        "MediaUrl": "http://ovationdmc.com/wp-content/uploads/2013/01/copenhagen-architecture.jpg",
+        "SourceUrl": "http://ovationdmc.com/country/denmark/",
+        "DisplayUrl": "ovationdmc.com/country/denmark",
+        "Width": "1800",
+        "Height": "1200",
+        "FileSize": "373307",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mfe5f99625687eb41120e8204f9496d06o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "11256"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=19&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "f6c24b2a-0d41-4817-ab9a-21edfabec597",
+        "Title": "Activity 3: AROUND THE WORLD TRIVIA – CAN YOU IDENTIFY THESE FAMOUS ...",
+        "MediaUrl": "http://manmadeenvironments.files.wordpress.com/2012/10/dscn0011.jpg",
+        "SourceUrl": "http://manmadeenvironments.wordpress.com/2012/10/09/around-the-world-trivia-can-you-identify-these-famous-buildings/",
+        "DisplayUrl": "manmadeenvironments.wordpress.com/2012/10/09/around-the-world...",
+        "Width": "1592",
+        "Height": "1600",
+        "FileSize": "252379",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M79686870169680cc45e552c2c2558fc4o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "298",
+          "Height": "300",
+          "FileSize": "13025"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=20&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b033194c-93d9-47be-b1a1-ba4303bcf51b",
+        "Title": "World Architecture Images- Georgian architecture",
+        "MediaUrl": "http://www.essential-architecture.com/STYLE/e02_TheCloseSalisbury.jpg",
+        "SourceUrl": "http://www.essential-architecture.com/STYLE/STY-E02.htm",
+        "DisplayUrl": "www.essential-architecture.com/STYLE/STY-E02.htm",
+        "Width": "521",
+        "Height": "600",
+        "FileSize": "89219",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mc6f06b6e09924cebae8f0a37b34421ffH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "260",
+          "Height": "300",
+          "FileSize": "15864"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=21&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "dff050e8-6ace-4599-a46b-91ce43c35fe7",
+        "Title": "World of Architecture: New Photos Of One World Trade Center, Former ...",
+        "MediaUrl": "http://2.bp.blogspot.com/-QQ71WExBW9M/UCKTVNVWyrI/AAAAAAAAHKs/oLdfrYE1tE4/s1600/One_World_Trade_Center_1WTC_Freedom_Tower_New_York_modern_architecture_world_of_architecture_worldofarchi_04.jpg",
+        "SourceUrl": "http://www.worldofarchi.com/2012/08/new-photos-of-one-world-trade-center.html",
+        "DisplayUrl": "www.worldofarchi.com/2012/08/new-photos-of-one-world-trade-center.html",
+        "Width": "800",
+        "Height": "1200",
+        "FileSize": "916515",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M252ff40567621de6c5086c498d59ddf6H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "200",
+          "Height": "300",
+          "FileSize": "12201"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=22&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9d200a85-37c2-4108-9b6b-0ae24e3225ae",
+        "Title": "dam images architecture 2014 08 university architecture new university ...",
+        "MediaUrl": "http://media.architecturaldigest.com/photos/55e76496302ba71f3016480c/master/pass/dam-images-architecture-2014-08-university-architecture-new-university-architecture-06-krishna-p-singh-center-for-nanotechnology.jpg",
+        "SourceUrl": "http://www.architecturaldigest.com/gallery/best-new-university-architecture-slideshow",
+        "DisplayUrl": "www.architecturaldigest.com/gallery/best-new-university...",
+        "Width": "900",
+        "Height": "600",
+        "FileSize": "95769",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M6885fc276aa1b636f158bd92f384d2a1o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "8582"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=23&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c19c6c72-4f12-40a8-8282-3a7b98728c0f",
+        "Title": "... Is On for World’s Best Architecture | News | Architectural Record",
+        "MediaUrl": "http://archrecord.construction.com/news/images/090521best_architecture.jpg",
+        "SourceUrl": "http://archrecord.construction.com/news/daily/archives/090521best_architecture.asp",
+        "DisplayUrl": "archrecord.construction.com/news/daily/archives/090521best...",
+        "Width": "300",
+        "Height": "194",
+        "FileSize": "19715",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mc9638ace768d2537b55027808811962eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "194",
+          "FileSize": "11235"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=24&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "19dd3806-25d1-4118-ac5c-0fc6ee4a58d1",
+        "Title": "Architecture Professor's Project Published in World Atlas | University ...",
+        "MediaUrl": "http://campusdata.uark.edu/resources/images/articles/Blessings.jpg",
+        "SourceUrl": "https://newswire.uark.edu/articles/8980/architecture-professor-s-project-published-in-world-atlas",
+        "DisplayUrl": "https://newswire.uark.edu/articles/8980/architecture-professor-s...",
+        "Width": "1034",
+        "Height": "800",
+        "FileSize": "295398",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M426d12369dded0f0abcbcf5dc7ae003fH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "232",
+          "FileSize": "6273"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=25&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "494b0469-db79-48b9-ad85-5abebb2efc68",
+        "Title": "... architecture styles. It is considered as one of the most beautiful",
+        "MediaUrl": "http://www.tropicalisland.de/BWN%20Brunei%20Bandar%20Seri%20Begawan%20Omar%20Ali%20Saifuddien%20Mosque%20with%20stone%20boat%20and%20lagoon%20by%20day%20b.jpg",
+        "SourceUrl": "http://www.technology.am/beautiful-mosques-around-the-world-110828.html",
+        "DisplayUrl": "www.technology.am/beautiful-mosques-around-the-world-110828.html",
+        "Width": "1296",
+        "Height": "864",
+        "FileSize": "145122",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M97d499cfae636583354d5362f86a113eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "9461"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=26&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "dc503569-6c51-40d8-9b74-8cb552ef5ca9",
+        "Title": "Last on our list – but by no means the least – is the world's ...",
+        "MediaUrl": "http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2012/10/khalifa.jpg",
+        "SourceUrl": "http://www.creativebloq.com/architecture/famous-buildings-around-world-10121105",
+        "DisplayUrl": "www.creativebloq.com/architecture/famous-buildings-around-world...",
+        "Width": "535",
+        "Height": "803",
+        "FileSize": "97934",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M49d81989849391e95314ed8df20afd4ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "199",
+          "Height": "300",
+          "FileSize": "4269"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=27&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d74db2b6-0c1f-4e59-a38b-41e9f7c21faa",
+        "Title": "out of this world architecture",
+        "MediaUrl": "http://www.designboom.com/tools/WPro/images/11w/nc1.jpg",
+        "SourceUrl": "http://www.designboom.com/architecture/out-of-this-world-architecture/",
+        "DisplayUrl": "www.designboom.com/architecture/out-of-this-world-architecture",
+        "Width": "550",
+        "Height": "335",
+        "FileSize": "48938",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M3f5a939515c3abf8a1deff60bb5dc072o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "182",
+          "FileSize": "10696"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=28&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "30ac0ef3-af91-4877-a2af-8797a2e8ebed",
+        "Title": "File:Colosseum in Rome, Italy - April 2007.jpg - Wikimedia Commons",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+        "SourceUrl": "http://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+        "DisplayUrl": "commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April...",
+        "Width": "4827",
+        "Height": "2833",
+        "FileSize": "3947925",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M20d07b9ec37f4c6b6d60dbb8b0835ebdH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "176",
+          "FileSize": "10735"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=29&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "343d6b92-7bf1-4566-bbcd-6d0ca2ed07d3",
+        "Title": "... The World [PHOTOS] - Architecture - Design News - Photo - Church",
+        "MediaUrl": "http://www.decorreport.com/images/en/365971.jpg",
+        "SourceUrl": "http://www.decorreport.com/a365971-amazing-modern-churches-and-chapels-from-around-the-world-photos",
+        "DisplayUrl": "www.decorreport.com/a365971-amazing-modern-churches-and-chapels...",
+        "Width": "600",
+        "Height": "549",
+        "FileSize": "235385",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M770ae46eb871ba30b64425c40eaa80a4H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "274",
+          "FileSize": "10436"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=30&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "27b1723a-5c74-46d2-80a8-fcdf2f7a52f2",
+        "Title": "... architecture top view architecture top view architecture top view",
+        "MediaUrl": "http://2.bp.blogspot.com/-yezBAb6hhIQ/Tpimu8T5SeI/AAAAAAAACio/wxjMtPaB0yA/s1600/architecture_top_view.jpg",
+        "SourceUrl": "http://wallpapershomesite.blogspot.com/2012/01/tops-wallpapers-around-world-natural.html",
+        "DisplayUrl": "wallpapershomesite.blogspot.com/2012/01/tops-wallpapers-around...",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "1736583",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Ma13de77a36e5c719fa7838a1093da675o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "20188"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=31&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "213d96c2-2a0a-46bb-ba64-1c1e9ca4b1a3",
+        "Title": "dam images architecture 2015 08 beautiful greenhouses most beautiful ...",
+        "MediaUrl": "http://media.architecturaldigest.com/photos/55e7670fcd709ad62e8e89e4/master/pass/dam-images-architecture-2015-08-beautiful-greenhouses-most-beautiful-greenhouses-04.jpg",
+        "SourceUrl": "http://www.architecturaldigest.com/gallery/most-beautiful-greenhouses-slideshow",
+        "DisplayUrl": "www.architecturaldigest.com/gallery/most-beautiful-greenhouses...",
+        "Width": "900",
+        "Height": "600",
+        "FileSize": "195204",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mddd9b58e38646c02b5a53ecea9c96cf7o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "18015"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=32&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b5beb9da-4905-45fb-b477-4a0a894a479d",
+        "Title": "... _by_H_Architecture_world_of_architecture_worldofarchi_01.jpg",
+        "MediaUrl": "http://1.bp.blogspot.com/-MmYmtoDPGeI/UCuTYlB7DnI/AAAAAAAAHi8/jll_O8J8YpM/s1600/Modern_Architecture_In_South_Korea_Hydro_Nuclear_Power_Headquarters_by_H_Architecture_world_of_architecture_worldofarchi_01.jpg",
+        "SourceUrl": "http://moderncab.blogspot.com/2012/08/modern-architecture-in-south-korea.html",
+        "DisplayUrl": "moderncab.blogspot.com/2012/08/modern-architecture-in-south-korea.html",
+        "Width": "1200",
+        "Height": "791",
+        "FileSize": "910940",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Md480843901ee7105e7a50f7981af298eo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "197",
+          "FileSize": "12004"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=33&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "85ca46e7-7d70-4d4d-8ad0-bcaf79d9b6cd",
+        "Title": "World Architecture Festival 2013: The Shortlist Has Arrived (PHOTOS ...",
+        "MediaUrl": "http://ad009cdnb.archdaily.net/wp-content/uploads/2013/07/51d4c40eb3fc4beae10001ef_world-architecture-festival-awards-2013-shortlist-announced_4_-_bvn-528x796.jpg",
+        "SourceUrl": "http://www.huffingtonpost.com/2013/07/08/world-architecture-festival-2013-shortlist_n_3546238.html",
+        "DisplayUrl": "www.huffingtonpost.com/2013/07/08/world-architecture-festival-2013...",
+        "Width": "528",
+        "Height": "796",
+        "FileSize": "85497",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mae3057f2127d218bcde07e39f929b3d1o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "198",
+          "Height": "300",
+          "FileSize": "7869"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=34&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d561749a-07b8-49a9-8243-f51843b7a0ff",
+        "Title": "35+ Strange and Awesome Buildings Architecture - Designmodo",
+        "MediaUrl": "http://designmodo.com/wp-content/uploads/2011/04/Strange-and-Awesome-Buildings-Architecture-36.jpg",
+        "SourceUrl": "http://designmodo.com/35-strange-and-awesome-buildings-architecture/",
+        "DisplayUrl": "designmodo.com/35-strange-and-awesome-buildings-architecture",
+        "Width": "600",
+        "Height": "800",
+        "FileSize": "106910",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mc990b330fdfec520c32d2c87661439b0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "225",
+          "Height": "300",
+          "FileSize": "13125"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=35&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "53743476-1a89-4351-98e0-961c7991a737",
+        "Title": "Modern Cabinet: Beautiful \"House On The Hill\" by James D. LaRue ...",
+        "MediaUrl": "http://2.bp.blogspot.com/-gTeGJHfRPUo/UHCqSI2xYkI/AAAAAAAAJUc/yos3wEn4fSw/s1600/Amazing_Home_Beautiful_modern_House_On_The_Hill_by_James_D._LaRue_Architects_world_of_architecture_worldofarchi_01.jpg",
+        "SourceUrl": "http://moderncab.blogspot.com/2012/10/beautiful-on-hill-by-james-d-larue.html",
+        "DisplayUrl": "moderncab.blogspot.com/2012/10/beautiful-on-hill-by-james-d-larue.html",
+        "Width": "1024",
+        "Height": "696",
+        "FileSize": "488357",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M34ad4273afb9e5a5e682c6b79b9a7701H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "203",
+          "FileSize": "9146"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=36&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b31c4f8c-70ac-4bb8-b529-68642bb3bbc9",
+        "Title": "File:Taj Mahal in March 2004.jpg - Wikipedia, the free encyclopedia",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c8/Taj_Mahal_in_March_2004.jpg",
+        "SourceUrl": "http://en.wikipedia.org/wiki/file:taj_mahal_in_march_2004.jpg",
+        "DisplayUrl": "en.wikipedia.org/wiki/file:taj_mahal_in_march_2004.jpg",
+        "Width": "2040",
+        "Height": "1681",
+        "FileSize": "2454350",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M8f6c95dfee46d9c154d1f1f1cc12949dH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "247",
+          "FileSize": "13813"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=37&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a2864e4d-363e-4f4c-bb55-8902a55107b9",
+        "Title": "World Architecture Festival 2013: The Shortlist Has Arrived (PHOTOS)",
+        "MediaUrl": "http://ad009cdnb.archdaily.net/wp-content/uploads/2013/07/51d4c461b3fc4b5834000211_world-architecture-festival-awards-2013-shortlist-announced_12_-_silvesterfuller-528x351.jpg",
+        "SourceUrl": "http://www.huffingtonpost.com/2013/07/08/world-architecture-festival-2013-shortlist_n_3546238.html",
+        "DisplayUrl": "www.huffingtonpost.com/2013/07/08/world-architecture-festival-2013...",
+        "Width": "528",
+        "Height": "351",
+        "FileSize": "37812",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M16358afd8117dd807b8a8b0063819e93o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "7217"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=38&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3c820f23-06db-412c-b132-2787abdb0013",
+        "Title": "World Architecture Festival 2013: The Shortlist Has Arrived (PHOTOS)",
+        "MediaUrl": "http://ad009cdnb.archdaily.net/wp-content/uploads/2013/07/51d4c4c2b3fc4beae10001f5_world-architecture-festival-awards-2013-shortlist-announced_landscape-528x352.jpg",
+        "SourceUrl": "http://www.huffingtonpost.com/2013/07/08/world-architecture-festival-2013-shortlist_n_3546238.html",
+        "DisplayUrl": "www.huffingtonpost.com/2013/07/08/world-architecture-festival-2013...",
+        "Width": "528",
+        "Height": "352",
+        "FileSize": "74305",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M020153c2fbef33f29dc83f09b07f748bo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "14685"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=39&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4e9e44c0-1fc7-48fe-809d-641c09a26cb6",
+        "Title": "WORLD ARCHITECTURE 1963 | misfits'architecture",
+        "MediaUrl": "http://betterarchitecture.files.wordpress.com/2013/01/world-architecture.jpg",
+        "SourceUrl": "http://misfitsarchitecture.com/2013/01/23/world-architecture-1963/",
+        "DisplayUrl": "misfitsarchitecture.com/2013/01/23/world-architecture-1963",
+        "Width": "1086",
+        "Height": "1307",
+        "FileSize": "917684",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Me41b23c221478358375dcea476851221o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "249",
+          "Height": "300",
+          "FileSize": "15173"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=40&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9b496f95-83f3-4880-acc6-26a29d02c39b",
+        "Title": "Asymptote: Hani Rashid + Lise Anne Couture - PGCC, Malaysia (Copyright ...",
+        "MediaUrl": "http://www.eikongraphia.com/images/Asymptote_PGCC_1s.jpg",
+        "SourceUrl": "http://www.eikongraphia.com/?p=1829",
+        "DisplayUrl": "www.eikongraphia.com/?p=1829",
+        "Width": "1280",
+        "Height": "848",
+        "FileSize": "269094",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M8d0274b2e4dbbe15a1b5bd9818a133d1H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "198",
+          "FileSize": "9629"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=41&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "aa4a18d9-279c-40a9-a778-8fee76372166",
+        "Title": "Famous Hindu Akshardham temple in South Delhi",
+        "MediaUrl": "http://www.crystalinks.com/india_architecture.jpg",
+        "SourceUrl": "http://www.crystalinks.com/indiarchitecture.html",
+        "DisplayUrl": "www.crystalinks.com/indiarchitecture.html",
+        "Width": "699",
+        "Height": "450",
+        "FileSize": "46652",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mcd23a166b76d5c7c886459e106b2ac6bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "193",
+          "FileSize": "13273"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=42&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "bb0037ad-4c8e-4471-8f3d-32d3b31c3d37",
+        "Title": "global architecture + design",
+        "MediaUrl": "http://www.ciee.org/study-abroad/images/programs/0281/headers/desktop/barcelona-spain-architecture-design-dome.jpg",
+        "SourceUrl": "http://www.ciee.org/study-abroad/spain/barcelona/global-architecture/",
+        "DisplayUrl": "www.ciee.org/study-abroad/spain/barcelona/global-architecture",
+        "Width": "765",
+        "Height": "340",
+        "FileSize": "68450",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M88cec3954a5d06346962171bf0abd9cdo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "133",
+          "FileSize": "7772"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=43&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "35c73467-eef8-4920-a97b-2315a26aa370",
+        "Title": "global architecture + design",
+        "MediaUrl": "https://www.ciee.org/study-abroad/images/programs/0279/headers/desktop/prague-czech-republic-architecture-design-1-building.jpg",
+        "SourceUrl": "https://www.ciee.org/study-abroad/czech-republic/prague/architecture-design/",
+        "DisplayUrl": "https://www.ciee.org/study-abroad/czech-republic/prague...",
+        "Width": "765",
+        "Height": "340",
+        "FileSize": "86373",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mf7a0331054aa233ab6f4e82b875b1867o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "133",
+          "FileSize": "13066"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=44&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "62b184b2-6a57-45ca-ac62-4f03dd6b8930",
+        "Title": "Architecture should speak of its time and place, but yearn for ...",
+        "MediaUrl": "https://arianempd.files.wordpress.com/2013/06/mosque-muslim-islamic-architecture-world.jpg",
+        "SourceUrl": "https://arianempd.wordpress.com/2013/06/30/architecture-should-speak-of-its-time-and-place-but-yearn-for-timelessness-says-frank-gehry/",
+        "DisplayUrl": "https://arianempd.wordpress.com/2013/06/30/architecture-should...",
+        "Width": "1920",
+        "Height": "1200",
+        "FileSize": "386797",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M459093a7a600a6391144889bf00bd1f2o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "5785"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=45&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ed66c82d-683f-4c73-9baa-d3dd7e98043a",
+        "Title": "Heron Tower Building",
+        "MediaUrl": "http://www.e-architect.co.uk/images/jpgs/london/heron_tower_m080411_6.jpg",
+        "SourceUrl": "http://www.e-architect.co.uk/",
+        "DisplayUrl": "www.e-architect.co.uk",
+        "Width": "600",
+        "Height": "900",
+        "FileSize": "131739",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M61cfb48092d0b912312e2e8c76772b42H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "200",
+          "Height": "300",
+          "FileSize": "13304"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=46&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5543a83f-5e79-442d-b02b-7ee76619e244",
+        "Title": "windmill world architecture sail wind buildings fence nature ...",
+        "MediaUrl": "http://www.wallpaperup.com/uploads/wallpapers/2012/12/30/26964/1b3f5499d5ae14f3b6c5f675dc8ccf12.jpg",
+        "SourceUrl": "http://www.wallpaperup.com/26964/windmill_world_architecture_sail_wind_buildings_fence_nature_landscapes_sky_clouds_hdr_black_white_monochrome.html",
+        "DisplayUrl": "www.wallpaperup.com/26964/windmill_world_architecture_sail_wind...",
+        "Width": "1920",
+        "Height": "1200",
+        "FileSize": "584594",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M223e1f0cd75b8d60721db58fd3c810d2o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "8865"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=47&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8fbae412-f6ef-4ac1-bb33-d73cb60c9961",
+        "Title": "Knowledge economy: Global best school buildings - BBC News",
+        "MediaUrl": "http://news.bbcimg.co.uk/media/images/55486000/jpg/_55486244_tuamarilanfinland1.jpg",
+        "SourceUrl": "http://www.bbc.co.uk/news/business-14975270",
+        "DisplayUrl": "www.bbc.co.uk/news/business-14975270",
+        "Width": "976",
+        "Height": "549",
+        "FileSize": "121855",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mfab712457acceeb458e508fdb196a728H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "168",
+          "FileSize": "13279"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=48&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "eb2e20b2-7111-48e7-9031-68487918c003",
+        "Title": "World Architecture Festival 2013: The Shortlist Has Arrived (PHOTOS)",
+        "MediaUrl": "http://ad009cdnb.archdaily.net/wp-content/uploads/2013/07/51d4c3e3b3fc4beae10001ed_world-architecture-festival-awards-2013-shortlist-announced_1_-_shl-528x670.jpg",
+        "SourceUrl": "http://www.huffingtonpost.com/2013/07/08/world-architecture-festival-2013-shortlist_n_3546238.html",
+        "DisplayUrl": "www.huffingtonpost.com/2013/07/08/world-architecture-festival-2013...",
+        "Width": "528",
+        "Height": "670",
+        "FileSize": "88727",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mb3501d02e9db1f936627286e8faa532fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "236",
+          "Height": "300",
+          "FileSize": "10735"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide Architecture Photos'&$skip=49&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e60b5ee3-aff4-4eb1-b864-6d3fb6612083",
+        "Title": "Modern Desert House For Luxury Life In The Nature, Scottsdale, Arizona",
+        "MediaUrl": "http://2.bp.blogspot.com/-91TPwCENDrY/UP3TtPJxR9I/AAAAAAAAPI4/dEHrjzXrHZQ/s1600/Modern_Desert_House_For_Luxury_Life_In_The_Nature_Scottsdale_Arizona_world_of_architecture_01.jpg",
+        "SourceUrl": "http://worldofartdesign.blogspot.com/2013/01/modern-desert-house-for-luxury-life-in.html",
+        "DisplayUrl": "worldofartdesign.blogspot.com/2013/01/modern-desert-house-for...",
+        "Width": "1280",
+        "Height": "1010",
+        "FileSize": "1159844",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M914b3d44822abb6fd3fbe3c75134e35eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "236",
+          "FileSize": "12032"
+        }
+      }
+    ],
+    "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='worldwide%20Architecture%20Photos'&$skip=50&$top=50"
+  }
+}

@@ -1,0 +1,1257 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=0&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e0e4d96d-f3d8-44f8-8583-bf2646f10984",
+        "Title": "Cute Dogs Pictures",
+        "MediaUrl": "http://4.bp.blogspot.com/-Me3-M0U9XIU/Tn3Wr7YJDsI/AAAAAAAAAO0/EcrlIFlGEwM/s1600/family+dogs-473268.jpeg",
+        "SourceUrl": "http://goldkingcollections.blogspot.com/2011/09/cute-dogs-pictures.html",
+        "DisplayUrl": "goldkingcollections.blogspot.com/2011/09/cute-dogs-pictures.html",
+        "Width": "1280",
+        "Height": "1024",
+        "FileSize": "140746",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Maef0709c1d0b3db2ba1338ff761b1698H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "240",
+          "FileSize": "13378"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=1&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d9140e44-4f04-4f5d-9515-960397cce020",
+        "Title": "Cute Dogs Wallpapers | HD Wallpapers",
+        "MediaUrl": "http://www.hdwallpapers.in/walls/cute_dogs-normal.jpg",
+        "SourceUrl": "http://www.hdwallpapers.in/cute_dogs-wallpapers.html",
+        "DisplayUrl": "www.hdwallpapers.in/cute_dogs-wallpapers.html",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "287557",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M59e3bd66cbe6c76f6645d328c03b82baH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "11771"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=2&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a41643a2-dd70-4dd1-b5df-f333f7c8e708",
+        "Title": "DOG'ssssss - Dogs Wallpaper (25606625) - Fanpop",
+        "MediaUrl": "http://images5.fanpop.com/image/photos/25600000/DOG-ssssss-dogs-25606625-1024-768.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/25606625/title/dogssssss-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/25606625/title/dogssssss-wallpaper",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "290336",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M9bdb5b45739754e85e0ead381b5bf106H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "9529"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=3&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "327d3b97-6aa1-4434-921f-0ea7e91d5a8c",
+        "Title": "Dogs - Dogs Wallpaper (16761952) - Fanpop",
+        "MediaUrl": "http://images4.fanpop.com/image/photos/16700000/Dogs-dogs-16761952-2560-1600.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/16761952/title/dogs-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/16761952/title/dogs-wallpaper",
+        "Width": "2560",
+        "Height": "1600",
+        "FileSize": "674163",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M4841edd047496c1c72845fb8dcc0cbb1H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "10070"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=4&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4af183c9-57a8-429f-b558-835f796be812",
+        "Title": "Dogs images Dogs wallpaper photos (16762003)",
+        "MediaUrl": "http://images4.fanpop.com/image/photos/16700000/Dogs-dogs-16762003-1024-768.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/16762003/title/dogs-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/16762003/title/dogs-wallpaper",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "137360",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M7711e87e2e2099d95c6a93f7c0f6c251o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "6245"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=5&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "61e2b2b5-ad9b-481d-ab53-544be7e23365",
+        "Title": "Dogs: the best thing ever created (not that I'm biased)",
+        "MediaUrl": "http://diydilettante.files.wordpress.com/2011/05/pictures-of-dogs-golden-retriever.jpg",
+        "SourceUrl": "http://diydilettante.wordpress.com/tag/dogs/",
+        "DisplayUrl": "diydilettante.wordpress.com/tag/dogs",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "235675",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M994964c2f0df5ab7024148c79ce8122bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "6948"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=6&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a00567a7-2a21-41ac-ab94-b6a2a25ba957",
+        "Title": "Dogs, like humans, are more likely to yawn when they see someone ...",
+        "MediaUrl": "http://abcnews.go.com/images/Lifestyle/GTY_yawning_dog_dm_130807.jpg",
+        "SourceUrl": "http://abcnews.go.com/blogs/lifestyle/2013/08/yawns-are-contagious-in-dogs-too/",
+        "DisplayUrl": "abcnews.go.com/blogs/lifestyle/2013/08/yawns-are-contagious-in-dogs...",
+        "Width": "2592",
+        "Height": "1728",
+        "FileSize": "408779",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M36e315e641600125dad02d49f4df8869H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "200",
+          "FileSize": "6295"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=7&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "52a1c31c-d10e-4ae6-81d8-f6b54fb14d17",
+        "Title": "Dogs Wallpaper #50",
+        "MediaUrl": "http://media1.santabanta.com/full1/Animals/Dogs/dogs-49h.jpg",
+        "SourceUrl": "http://www.santabanta.com/photos/dogs/2113049.htm",
+        "DisplayUrl": "www.santabanta.com/photos/dogs/2113049.htm",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "55192",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M493e57c5b8ff4c42a8437e859b55ba3bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "3582"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=8&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e45fab6c-e6cf-4adc-bcdb-eebb85247c86",
+        "Title": "Cute Dog ! - Dogs Wallpaper (13286656) - Fanpop",
+        "MediaUrl": "http://images2.fanpop.com/image/photos/13200000/Cute-Dog-dogs-13286656-1024-768.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/13286656/title/cute-dog-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/13286656/title/cute-dog-wallpaper",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "70015",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M84b055215d090d15c0e04e4edd7a9945H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "5865"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=9&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "26d34044-9dd3-43da-8c5e-a23d2adbd1c2",
+        "Title": "Dog - Dogs Wallpaper (32927742) - Fanpop",
+        "MediaUrl": "http://images6.fanpop.com/image/photos/32900000/Dog-dogs-32927742-1440-900.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/32927742/title/dog-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/32927742/title/dog-wallpaper",
+        "Width": "1440",
+        "Height": "900",
+        "FileSize": "224269",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mfdccc768dfa31aabe1937464ec672ec0H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "7413"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=10&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6afe9435-8246-41be-85da-44c49f5909db",
+        "Title": "Dogs - Dogs Wallpaper (32691642) - Fanpop",
+        "MediaUrl": "http://images6.fanpop.com/image/photos/32600000/Dogs-dogs-32691642-1920-1200.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/32691642/title/dogs-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/32691642/title/dogs-wallpaper",
+        "Width": "1920",
+        "Height": "1200",
+        "FileSize": "398744",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M8c1b5351e115b17a4b07217d8c0637f8H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "5523"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=11&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d23b8f7c-9905-42b6-8626-a759a7ec61f9",
+        "Title": "How to care for a Bernese mountain dog : The Dogs Breeds",
+        "MediaUrl": "http://www.thedogsbreeds.com/gallery/bernese-mountain-dog/bernese_mountain_dog_2.jpg",
+        "SourceUrl": "http://www.thedogsbreeds.com/how-to-care-for-a-bernese-mountain-dog/",
+        "DisplayUrl": "www.thedogsbreeds.com/how-to-care-for-a-bernese-mountain-dog",
+        "Width": "920",
+        "Height": "662",
+        "FileSize": "165387",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mababb309bef550cfac09c1b2319e8b5bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "215",
+          "FileSize": "12018"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=12&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8fd7cb89-01e0-432a-84f9-7d4b2cfb78e9",
+        "Title": "City2Surf Guide Dogs Puppy Challenge",
+        "MediaUrl": "http://1.bp.blogspot.com/-1HbKg8wfP8g/TgQhdXHB0II/AAAAAAAAAHM/wS_Qb23YNWs/s1600/5%2Bin%2Ba%2Brow.jpg",
+        "SourceUrl": "http://dogablog.dogslife.com.au/",
+        "DisplayUrl": "dogablog.dogslife.com.au",
+        "Width": "1600",
+        "Height": "1092",
+        "FileSize": "162398",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M2b642e4bd204a1005a6c998806ca159bH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "204",
+          "FileSize": "9223"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=13&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6b2e6a90-3b16-451a-98c2-19ebe8a82d35",
+        "Title": "Pretty sad beagle dog wallpapers and images - wallpapers, pictures ...",
+        "MediaUrl": "http://www.zastavki.com/pictures/originals/2013/Animals___Dogs_Pretty_sad_beagle_dog_049977_.jpg",
+        "SourceUrl": "http://www.zastavki.com/eng/Animals/Dogs/wallpaper-49977.htm",
+        "DisplayUrl": "www.zastavki.com/eng/Animals/Dogs/wallpaper-49977.htm",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "265617",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M340b5ad82a95db8a261f861c2b902e75o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "13637"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=14&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4b514664-d28f-491b-869e-11f0aa04f3df",
+        "Title": "Animal Planet Dogs 101 « Rosewood Kennels - Kooikers - Kooikerhondje",
+        "MediaUrl": "http://rosewoodkooikers.virginiajournal.org/wp-content/uploads/2010/09/Dogs-101-0081.jpg",
+        "SourceUrl": "http://rosewoodkooikers.com/category/dogs-101/",
+        "DisplayUrl": "rosewoodkooikers.com/category/dogs-101",
+        "Width": "1038",
+        "Height": "778",
+        "FileSize": "490238",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mbd6ea5d3f8c4eb4e59ef71dfae23cf0eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "224",
+          "FileSize": "14939"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=15&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "dc1d3442-5f84-4437-9bc6-ab14901c693b",
+        "Title": "Toy Dog Wallpaper - Dogs Wallpaper (7014457) - Fanpop",
+        "MediaUrl": "http://images2.fanpop.com/images/photos/7000000/Toy-Dog-Wallpaper-dogs-7014457-1024-768.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/7014457/title/toy-dog-wallpaper-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/7014457/title/toy-dog-wallpaper...",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "108636",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Me995c13293aa7ee640839ffe08a96132o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "5583"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=16&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "12df20a4-6dda-4cc2-ad13-c0fc5ff5e603",
+        "Title": "wallpapers dog wallpaper dog wallpapers dogs wallpaper dogs for ...",
+        "MediaUrl": "http://4.bp.blogspot.com/-40vwiETpL3g/UYC7hsDe0DI/AAAAAAAAt2U/2YyL6TambwY/s1600/Dogs+Wallpapers+(5).jpg",
+        "SourceUrl": "http://basiccreationstv.blogspot.com/2013/04/dogs-wallpapers-dog-wallpaper.html",
+        "DisplayUrl": "basiccreationstv.blogspot.com/2013/04/dogs-wallpapers-dog-wallpaper...",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "232318",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M155e806de993a439483a7ddba0bee809H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "7259"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=17&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "df6b1f83-1f39-48c1-bc6f-a6da41465052",
+        "Title": "Dogs Wallpaper #22",
+        "MediaUrl": "http://media1.santabanta.com/full1/Animals/Dogs/dog21d.jpg",
+        "SourceUrl": "http://www.santabanta.com/photos/dogs/2113021.htm",
+        "DisplayUrl": "www.santabanta.com/photos/dogs/2113021.htm",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "211296",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mcdb6878b465ca912f641398a9eb950baH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "13588"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=18&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c9e0baf1-2d28-4aff-b270-104151fcda10",
+        "Title": "27. Pay the cost of taking a dog to obedience class?",
+        "MediaUrl": "http://www.papillonpalsrescue.com/images/a-lot-of-dogs.jpg",
+        "SourceUrl": "http://www.papillonpalsrescue.com/How_You_Can_Help.html",
+        "DisplayUrl": "www.papillonpalsrescue.com/How_You_Can_Help.html",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "102974",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M48dba86fb51376627e1e53b48c377bdcH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "8817"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=19&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c1ae53b8-0b5b-43fd-8a7d-9137de65fcdf",
+        "Title": "| Dogs Kinds | Funny Dogs | Black Dogs | White Dogs | Brown Dogs ...",
+        "MediaUrl": "http://1.bp.blogspot.com/-CMksHHSZuq8/ULJPuRyJ4VI/AAAAAAAALDI/4NuNS2glrIo/s1600/dog+hd+wallpaers+(4).jpg",
+        "SourceUrl": "http://naturetoanimals.blogspot.com/2012/11/dogs-dogs-hd-wallpapers-dogs-photos.html",
+        "DisplayUrl": "naturetoanimals.blogspot.com/2012/11/dogs-dogs-hd-wallpapers-dogs...",
+        "Width": "1000",
+        "Height": "802",
+        "FileSize": "114372",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M9cfbc7bd806f867ffb39dc57210efe21H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "240",
+          "FileSize": "13853"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=20&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9c6ae5b1-f55d-4bb6-99f2-48d44fabc75f",
+        "Title": "Dogs images Dog HD wallpaper and background photos (32927746)",
+        "MediaUrl": "http://images6.fanpop.com/image/photos/32900000/Dog-dogs-32927746-1440-900.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/32927746/title/dog-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/32927746/title/dog-wallpaper",
+        "Width": "1440",
+        "Height": "900",
+        "FileSize": "176241",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M60ed05c985502c53596f99c4e06369f0H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "6213"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=21&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9f1a7a45-67f9-4fae-8f00-527aa2411a48",
+        "Title": "Chasing Dogs Puzzle | Interview Puzzles with answers.",
+        "MediaUrl": "http://1.bp.blogspot.com/-kr19I7WtdKs/TixmaPnkDPI/AAAAAAAAANc/Kp6CNpUrwLU/s1600/4dogs_8578.jpg",
+        "SourceUrl": "http://www.techinterviewpuzzles.com/2011/07/chasing-dogs-puzzle.html",
+        "DisplayUrl": "www.techinterviewpuzzles.com/2011/07/chasing-dogs-puzzle.html",
+        "Width": "900",
+        "Height": "603",
+        "FileSize": "200189",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mb413744708aa9f1d130553756d169bfbH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "201",
+          "FileSize": "7557"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=22&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b31981f1-3a06-4f76-9d30-19bbd7f029e3",
+        "Title": "General Purpose' Police Dogs",
+        "MediaUrl": "http://www.regansdogtraining.co.uk/wp-content/uploads/2012/06/Dogs-Regan-2-010.jpg",
+        "SourceUrl": "http://www.regansdogtraining.co.uk/articles/general-purpose-police-dogs/",
+        "DisplayUrl": "www.regansdogtraining.co.uk/articles/general-purpose-police-dogs",
+        "Width": "1754",
+        "Height": "1403",
+        "FileSize": "2087530",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M4cf8c75a4fb8ef436279d0237afe8e21H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "239",
+          "FileSize": "11594"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=23&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ce71f216-0016-43fd-bdc4-2a0575035573",
+        "Title": "Dogs | Alex Kim's Animals Blog",
+        "MediaUrl": "http://fantasticanimals.files.wordpress.com/2009/12/dogs20in20snow2.jpg",
+        "SourceUrl": "http://fantasticanimals.wordpress.com/on-the-ground",
+        "DisplayUrl": "fantasticanimals.wordpress.com/on-the-ground",
+        "Width": "720",
+        "Height": "540",
+        "FileSize": "138525",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Me5a02e7fbcc4f7cd48def14d72ef82edo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "10863"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=24&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9a26d215-0957-40fe-9deb-3f0ea85d5833",
+        "Title": "Dogs - Dogs Photo (16697078) - Fanpop",
+        "MediaUrl": "http://images4.fanpop.com/image/photos/16600000/Dogs-dogs-16697078-1600-1200.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/16697078/title/dogs-photo",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/16697078/title/dogs-photo",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "365373",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Md12bf9837d518b864b750a0f7b2e3993o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "13814"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=25&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e37b133a-d852-43fa-954f-2020faa48fe3",
+        "Title": "Dogs images Dogs HD wallpaper and background photos (16762058)",
+        "MediaUrl": "http://images4.fanpop.com/image/photos/16700000/Dogs-dogs-16762058-1024-768.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/16762058/title/dogs-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/16762058/title/dogs-wallpaper",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "126692",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M44e9028ce7dd5946ca1f6499c6d1d445H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "5948"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=26&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b41cce2d-7ace-4690-9697-84b13d8d92c5",
+        "Title": "Funny Pictures Gallery: Cute dogs and cats wallpapers, cute puppies ...",
+        "MediaUrl": "http://4.bp.blogspot.com/-LntjuTO8P2I/UALjnSbunSI/AAAAAAAALUo/-8IVkQGAMLI/s1600/cute+dogs+and+cats+wallpapers+(1).jpeg",
+        "SourceUrl": "http://funny-pic24.blogspot.com/2012/07/cute-dogs-and-cats-wallpapers-cute.html",
+        "DisplayUrl": "funny-pic24.blogspot.com/2012/07/cute-dogs-and-cats-wallpapers-cute...",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "70754",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M4d807a17d810c9dd5d6525ba58a8e595H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "6781"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=27&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "64b359db-fc57-4b9a-8dbe-d5c60eb78d88",
+        "Title": "Talk about Dogs!",
+        "MediaUrl": "http://k9trainer.files.wordpress.com/2008/09/cosette-qm5p3044.jpg",
+        "SourceUrl": "http://k9trainer.wordpress.com/category/dog-breeds/",
+        "DisplayUrl": "k9trainer.wordpress.com/category/dog-breeds",
+        "Width": "2100",
+        "Height": "1500",
+        "FileSize": "1445824",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Med2681e6e0f73b68cbf9feebd691fee1H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "214",
+          "FileSize": "4423"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=28&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d2694726-4a23-43fe-8be7-ee2542913ea3",
+        "Title": "All List Of Different Dogs Breeds: Havanese Dog",
+        "MediaUrl": "http://4.bp.blogspot.com/-9D99aDRnDGs/T14ND0zp7BI/AAAAAAAAAGw/1_ftY08eid0/s1600/Havanese+Dog.jpg",
+        "SourceUrl": "http://dogbreedportal.blogspot.com/2012/01/havanese-dogs.html",
+        "DisplayUrl": "dogbreedportal.blogspot.com/2012/01/havanese-dogs.html",
+        "Width": "1600",
+        "Height": "1200",
+        "FileSize": "348738",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M737ab92a88f40faeb68ac37349f3917eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "8484"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=29&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ce6fc055-a1d3-420a-96fb-e824a6924596",
+        "Title": "Pretty Dogs in Garden - Dogs Wallpaper (13905929) - Fanpop",
+        "MediaUrl": "http://images2.fanpop.com/image/photos/13900000/Pretty-Dogs-in-Garden-dogs-13905929-1920-1200.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/13905929/title/pretty-dogs-garden-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/13905929/title/pretty-dogs-garden...",
+        "Width": "1920",
+        "Height": "1200",
+        "FileSize": "413779",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M20eeeb8ffecfd667d23f9f39f1785915H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "16194"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=30&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c151d1b3-d40b-4c98-9111-6ac1c6b4ac6c",
+        "Title": "Dogs soo cute",
+        "MediaUrl": "http://images1.fanpop.com/images/image_uploads/soo-cute-3-dogs-1120747_1280_1024.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/1120747/title/soo-cute-3-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/1120747/title/soo-cute-3-wallpaper",
+        "Width": "1280",
+        "Height": "1024",
+        "FileSize": "859115",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M469e85ca7d74b0397c33ca073878fe7eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "240",
+          "FileSize": "7160"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=31&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "fb51dbc6-c79c-4057-9ade-f90b0edb7cb0",
+        "Title": "Pomeranian Puppies Pictures Photos Pics",
+        "MediaUrl": "http://www.completedogsguide.com/images/dog-breeds/largepic/Pomeranian-Puppy10.jpg",
+        "SourceUrl": "http://www.completedogsguide.com/dog-pictures/Pomeranian-Puppies.html",
+        "DisplayUrl": "www.completedogsguide.com/dog-pictures/Pomeranian-Puppies.html",
+        "Width": "867",
+        "Height": "1334",
+        "FileSize": "803919",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M1569e1fad38d395c93088cee0f7ab7b4H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "194",
+          "Height": "300",
+          "FileSize": "10574"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=32&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8bb45b38-484b-4907-9a16-ed71044a3527",
+        "Title": "dogs1",
+        "MediaUrl": "http://smallworlddoggie.com/wp-content/uploads/2014/04/dogs1.jpg",
+        "SourceUrl": "http://smallworlddoggie.com/",
+        "DisplayUrl": "smallworlddoggie.com",
+        "Width": "2000",
+        "Height": "1333",
+        "FileSize": "401871",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M154390bc432468ffc03ea13d7ed70c22o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "8015"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=33&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d69b1c2b-e208-44c8-bc74-daa2211b51a6",
+        "Title": "Learning from Dogs – Dogs are integrous animals. We have much to ...",
+        "MediaUrl": "http://learningfromdogs.files.wordpress.com/2009/07/pharaoh.jpg",
+        "SourceUrl": "http://learningfromdogs.com/",
+        "DisplayUrl": "learningfromdogs.com",
+        "Width": "1322",
+        "Height": "816",
+        "FileSize": "335654",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M25f4f558c1228c6090d431e2c276010eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "185",
+          "FileSize": "12109"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=34&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "12253ec4-8379-4cf7-8db2-d89e1c41cd29",
+        "Title": "nonsporting dogs",
+        "MediaUrl": "http://bunkblog.net/wp-content/uploads/2013/12/nonsporting-dogs.jpg",
+        "SourceUrl": "http://bunkblog.net/dog-information/dog-breed-characteristics/2",
+        "DisplayUrl": "bunkblog.net/dog-information/dog-breed-characteristics/2",
+        "Width": "1488",
+        "Height": "1318",
+        "FileSize": "196234",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M7dacb7a88a2b296e093f2d2aa1889efbH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "265",
+          "FileSize": "9279"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=35&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "2826cce1-5a28-4233-863d-a6879224bb23",
+        "Title": "Tags: Cute Dogs HD, Cute Dog HD, Cute Baby Dog HD",
+        "MediaUrl": "http://3.bp.blogspot.com/-PLAHcjVcJaU/UOgOdALNa0I/AAAAAAAABMY/yPhWjV3pVNw/s1600/cuties-cute+puppies-dogs+(5).jpg",
+        "SourceUrl": "http://bestpicsstore.blogspot.com/2013/01/cute-dogs.html",
+        "DisplayUrl": "bestpicsstore.blogspot.com/2013/01/cute-dogs.html",
+        "Width": "1152",
+        "Height": "864",
+        "FileSize": "298186",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M1543df6fbe7c9b04f0a43544b7bd47dfo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "16591"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=36&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "401f0d1b-f67e-4bfc-8fc7-bc449ebea434",
+        "Title": "Dogs Wallpaper #60",
+        "MediaUrl": "http://media1.santabanta.com/full1/Animals/Dogs/dogs-59v.jpg",
+        "SourceUrl": "http://www.santabanta.com/photos/dogs/2113059.htm",
+        "DisplayUrl": "www.santabanta.com/photos/dogs/2113059.htm",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "149364",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M8e7a2b74773582fc87bccb6dfc886f3eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "13235"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=37&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "89031e9b-505d-4f5c-97b5-7104036f7543",
+        "Title": "My Dreams...: Cute Pet Dogs Pictures & Images...",
+        "MediaUrl": "http://4.bp.blogspot.com/-qv2WnfjuhpU/UH0-NpOVFjI/AAAAAAAAHMo/pz82OScSkN8/s1600/37Doggy-dogs.jpg",
+        "SourceUrl": "http://nhstella.blogspot.com/2012/10/cute-pet-dogs-pictures-images.html",
+        "DisplayUrl": "nhstella.blogspot.com/2012/10/cute-pet-dogs-pictures-images.html",
+        "Width": "800",
+        "Height": "600",
+        "FileSize": "111803",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M94248025d088eb1fee052d9a70783247H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "6819"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=38&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "2d03b71a-cf95-4a53-9bc9-b0e5e6fe8c8a",
+        "Title": "Cute American Staffordshire Terrier Puppies Wallpaper",
+        "MediaUrl": "http://www.blogoftheworld.com/wp-content/uploads/2015/06/Cute-American-Staffordshire-Terrier-Puppies-Wallpaper.jpg",
+        "SourceUrl": "http://www.blogoftheworld.com/wallpapers/20-cute-dog-wallpapers/",
+        "DisplayUrl": "www.blogoftheworld.com/wallpapers/20-cute-dog-wallpapers",
+        "Width": "1920",
+        "Height": "1200",
+        "FileSize": "254897",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M625742575d6cf4e360b1792c5463b68co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "5354"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=39&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a26fabe9-511d-4e81-9b0e-19e126b4ad48",
+        "Title": "cute puppy - Dogs Photo (33237869) - Fanpop",
+        "MediaUrl": "http://images6.fanpop.com/image/photos/33200000/cute-puppy-dogs-33237869-1024-768.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/33237869/title/cute-puppy-photo",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/33237869/title/cute-puppy-photo",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "128642",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M58a8c5e3386fa66abb4d46a61a1a4643H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "5189"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=40&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "29767498-5218-4f59-a06f-619f779a2850",
+        "Title": "Dog history and some interesting facts",
+        "MediaUrl": "http://animalia-life.com/data_images/dog/dog4.jpg",
+        "SourceUrl": "http://animalia-life.com/dogs.html",
+        "DisplayUrl": "animalia-life.com/dogs.html",
+        "Width": "845",
+        "Height": "450",
+        "FileSize": "49038",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Ma9f659efd070f3e5b121a54edd8b13d0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "159",
+          "FileSize": "6233"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=41&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a664675e-da03-448b-8ff2-6c907aa97e01",
+        "Title": "Dogs - Dogs Wallpaper (16762076) - Fanpop",
+        "MediaUrl": "http://images4.fanpop.com/image/photos/16700000/Dogs-dogs-16762076-1024-768.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/16762076/title/dogs-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/16762076/title/dogs-wallpaper",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "114469",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mea1e21ca8b982a648745f41533c32f23o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "6093"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=42&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0148748c-2e70-428c-8352-0ca59c64bf53",
+        "Title": "dog-how-to-select-your-new-best-friend-thinkstock99062463",
+        "MediaUrl": "http://www.petfinder.com/wp-content/uploads/2012/11/dog-how-to-select-your-new-best-friend-thinkstock99062463.jpg",
+        "SourceUrl": "http://www.petfinder.com/pet-adoption/dog-adoption/type-dog-adoption/",
+        "DisplayUrl": "www.petfinder.com/pet-adoption/dog-adoption/type-dog-adoption",
+        "Width": "2048",
+        "Height": "1536",
+        "FileSize": "1790149",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M35b752b4ad2b2cda2bf15bc3aa7b5a34o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "13063"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=43&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "ad18bf45-8459-4ffd-b68b-30db82b44c57",
+        "Title": "Chien - Dogs Picture",
+        "MediaUrl": "http://stuffpoint.com/dogs/image/73142-dogs-chien.jpg",
+        "SourceUrl": "http://stuffpoint.com/dogs/image/73142/chien-picture/",
+        "DisplayUrl": "stuffpoint.com/dogs/image/73142/chien-picture",
+        "Width": "1546",
+        "Height": "1213",
+        "FileSize": "212953",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mc3e07c33ea969af22fa0dd13f53438e7o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "235",
+          "FileSize": "11880"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=44&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a80b1404-e807-41aa-b328-b71873ab8dde",
+        "Title": "Pets 101: Dogs | Pet Care Blogger",
+        "MediaUrl": "http://petcareblogger.files.wordpress.com/2013/09/dogs.jpg",
+        "SourceUrl": "http://petcareblogger.wordpress.com/2013/09/24/pets-101-dogs/",
+        "DisplayUrl": "petcareblogger.wordpress.com/2013/09/24/pets-101-dogs",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "134793",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M7c106c045957d3dc047257971dd991d7H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "7877"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=45&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d149760f-13d6-48c2-9758-661448ea63ed",
+        "Title": "Cats and Dogs Wallpapers | Fun Animals Wiki, Videos, Pictures, Stories",
+        "MediaUrl": "http://4.bp.blogspot.com/-xgNP999FI2o/T9xPhzLM8TI/AAAAAAAACYU/HhuKyNmG6rk/s1600/Cats+and+Dogs+images.jpg",
+        "SourceUrl": "http://animaltheory.blogspot.com/2012/06/cats-and-dogs-wallpapers_18.html",
+        "DisplayUrl": "animaltheory.blogspot.com/2012/06/cats-and-dogs-wallpapers_18.html",
+        "Width": "1280",
+        "Height": "800",
+        "FileSize": "166985",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M0d0b8953b1031ea72365670f5caca5a1H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "10330"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=46&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "24654ead-44b3-4100-8da6-ad1ffdf84121",
+        "Title": "Cute Dog Wallpaper - Dogs Wallpaper (13936305) - Fanpop",
+        "MediaUrl": "http://images2.fanpop.com/image/photos/13900000/Cute-Dog-Wallpaper-dogs-13936305-1024-768.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/13936305/title/cute-dog-wallpaper-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/13936305/title/cute-dog-wallpaper...",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "101622",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mcb15d0987daa7281898c4bfc33822522o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "9134"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=47&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "43819509-0de4-48d2-ae82-c189075c3175",
+        "Title": "Cute Dog - Dogs Wallpaper (33093080) - Fanpop",
+        "MediaUrl": "http://images6.fanpop.com/image/photos/33000000/Cute-Dog-dogs-33093080-1280-800.jpg",
+        "SourceUrl": "http://www.fanpop.com/clubs/dogs/images/33093080/title/cute-dog-wallpaper",
+        "DisplayUrl": "www.fanpop.com/clubs/dogs/images/33093080/title/cute-dog-wallpaper",
+        "Width": "1280",
+        "Height": "800",
+        "FileSize": "1114616",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mff34aee05f4fb56ebccde74f25babc47H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "8013"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=48&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1e07242c-6275-47b0-aa5b-8d5b7a71d9a7",
+        "Title": "10 Dogs That are Just Okay",
+        "MediaUrl": "http://stanfordflipside.com/images/3.jpg",
+        "SourceUrl": "http://stanfordflipside.com/2015/04/10-dogs-that-are-just-okay-2/",
+        "DisplayUrl": "stanfordflipside.com/2015/04/10-dogs-that-are-just-okay-2",
+        "Width": "2197",
+        "Height": "1463",
+        "FileSize": "172470",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M01c9a8250f74a2d41059d001ae926c07o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "5396"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=49&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "131cb65c-74d7-41aa-92f7-b1f4bf823efd",
+        "Title": "Dogs 044",
+        "MediaUrl": "http://spottedhorsechick.files.wordpress.com/2010/01/dogs-044.jpg",
+        "SourceUrl": "http://spottedhorsechick.wordpress.com/2010/01/10/gracie-a-scattergun-dog/",
+        "DisplayUrl": "spottedhorsechick.wordpress.com/2010/01/10/gracie-a-scattergun-dog",
+        "Width": "2432",
+        "Height": "2032",
+        "FileSize": "1443707",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mfc042921753042ee5f66494520ded8e6H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "250",
+          "FileSize": "8019"
+        }
+      }
+    ],
+    "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='dogs'&$skip=50&$top=50"
+  }
+}

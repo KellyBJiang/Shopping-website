@@ -1,0 +1,1257 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=0&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "609c0cc5-05cb-49fd-a130-18d6a1d7ed43",
+        "Title": "Posted inbyDavid|February 15th, 2008|Leave a Reply|",
+        "MediaUrl": "http://farm1.static.flickr.com/57/174075262_a38e889b83_o.jpg",
+        "SourceUrl": "http://www.ridelust.com/corvettes/history/",
+        "DisplayUrl": "www.ridelust.com/corvettes/history",
+        "Width": "1280",
+        "Height": "821",
+        "FileSize": "775155",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Ma1b42de3ea36396e05816d408b573224H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "192",
+          "FileSize": "21740"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=1&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0b91b22e-cd05-4410-94fa-791acb612d3e",
+        "Title": "History of the Automobile | AutoRepair.net",
+        "MediaUrl": "http://www.autorepair.net/Portals/14/ContentImages/history-of-the-automobile.jpg",
+        "SourceUrl": "http://www.autorepair.net/auto-repair-resources/the-history-of-the-automobile-10295/",
+        "DisplayUrl": "www.autorepair.net/auto-repair-resources/the-history-of-the...",
+        "Width": "640",
+        "Height": "343",
+        "FileSize": "78462",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Md17af7f430a4809b90a576084e5b2229o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "160",
+          "FileSize": "14043"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=2&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c601ccde-1017-44e5-866b-7fdb548510bd",
+        "Title": "An early American World Bantamweight Champ (he was 5 feet tall)",
+        "MediaUrl": "http://www.diyforums.org/BantamDAC/history/BantamRoadster.jpg",
+        "SourceUrl": "http://www.diyforums.org/BantamDAC/BantamDACbantam.php",
+        "DisplayUrl": "www.diyforums.org/BantamDAC/BantamDACbantam.php",
+        "Width": "800",
+        "Height": "450",
+        "FileSize": "35275",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M0790f28c69a10f2ead7ce29e032abce2H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "168",
+          "FileSize": "15009"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=3&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "b5c75ec4-be99-472a-b75d-42832fb110e2",
+        "Title": "Mileposts in Indiana automotive history | Cruise-IN.com",
+        "MediaUrl": "http://cruise-in.com/wp-content/uploads/2015/01/1907-American-Underslung.jpg",
+        "SourceUrl": "http://cruise-in.com/mileposts-in-indiana-automotive-history-2/",
+        "DisplayUrl": "cruise-in.com/mileposts-in-indiana-automotive-history-2",
+        "Width": "1881",
+        "Height": "870",
+        "FileSize": "94133",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M0f76db6421b96f84219918b774ea2f69o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "138",
+          "FileSize": "7132"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=4&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "3fdccf08-dffd-424c-b7f3-fe4498e67141",
+        "Title": "... - Patents and the History of Technology: First American Electric Car",
+        "MediaUrl": "http://patentpending.blogs.com/photos/uncategorized/capture4172006122740_am.jpg",
+        "SourceUrl": "http://patentpending.blogs.com/patent_pending_blog/2006/04/the_first_ameri.html",
+        "DisplayUrl": "patentpending.blogs.com/patent_pending_blog/2006/04/the_first_ameri...",
+        "Width": "425",
+        "Height": "344",
+        "FileSize": "52526",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M3d3a0676c7d86014270ffbd27bf6f367o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "242",
+          "FileSize": "13230"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=5&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e39946f2-71a2-4ca8-ace7-39f32188c4fe",
+        "Title": "... and Portholes | Chevys, Buicks and other antique automobiles | Page 2",
+        "MediaUrl": "https://bowtiesandportholes.files.wordpress.com/2012/02/chevy2.jpg",
+        "SourceUrl": "https://bowtiesandportholes.wordpress.com/page/2",
+        "DisplayUrl": "https://bowtiesandportholes.wordpress.com/page/2",
+        "Width": "877",
+        "Height": "616",
+        "FileSize": "425356",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mceb57a95e6c638c4dc0aadbf7cd13a8eo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "210",
+          "FileSize": "15289"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=6&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "87d7020e-0c2f-402a-b750-9f923532c3b4",
+        "Title": "Cars From the 1920's - Cool Photos - Pictures",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/7/75/1925_Nash_automobile.JPG",
+        "SourceUrl": "http://www.squidoo.com/ars-from-the-1930s",
+        "DisplayUrl": "www.squidoo.com/ars-from-the-1930s",
+        "Width": "1550",
+        "Height": "1000",
+        "FileSize": "876510",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mf84322b1223ad1b5949ab8f77a4bbeb7H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "193",
+          "FileSize": "10516"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=7&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1a085642-2eb0-42ea-9c34-d8bfe782f19c",
+        "Title": "History of Early American Automobiles 1861-1929 Chapter 12",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/a/a6/1910_Overland_Model_38.JPG",
+        "SourceUrl": "http://www.earlyamericanautomobiles.com/americanautomobiles12.htm",
+        "DisplayUrl": "www.earlyamericanautomobiles.com/americanautomobiles12.htm",
+        "Width": "2272",
+        "Height": "1704",
+        "FileSize": "756594",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mbcfed3abc31b0df5cfe8245582be534eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "15526"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=8&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "898603b6-cb5f-4f20-a6ff-0dc8806c86c6",
+        "Title": "Driving Intelligence Defined | drivingintelligence",
+        "MediaUrl": "http://drivingintelligence.files.wordpress.com/2011/04/cars-evolution.jpg",
+        "SourceUrl": "https://drivingintelligence.wordpress.com/driving-intelligence-defined",
+        "DisplayUrl": "https://drivingintelligence.wordpress.com/driving-intelligence-defined",
+        "Width": "800",
+        "Height": "600",
+        "FileSize": "147332",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M17de901a5ef73f8d01a6d1104af541cco0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "9717"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=9&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "462f6de0-39c5-4a0f-aa89-b96a02c076d2",
+        "Title": "Smithsonian’s National Museum of American History",
+        "MediaUrl": "http://newsdesk.si.edu/sites/default/files/imagecache/snapshot_image/ford-model-a.jpg",
+        "SourceUrl": "http://newsdesk.si.edu/snapshot/ford-model-automobile",
+        "DisplayUrl": "newsdesk.si.edu/snapshot/ford-model-automobile",
+        "Width": "665",
+        "Height": "518",
+        "FileSize": "111816",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Mfb863323e259ce240d7470f378c86d0ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "233",
+          "FileSize": "15451"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=10&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4aaa38f8-b1e6-4bfe-9044-9353b2c5480a",
+        "Title": "Encyclopedia Smithsonian: Early Cars: Fact Sheet for Children",
+        "MediaUrl": "http://www.si.edu/Encyclopedia_SI/nmah/images/ford-model-t-roadster.jpg",
+        "SourceUrl": "http://www.si.edu/Encyclopedia_SI/nmah/earlycars.htm",
+        "DisplayUrl": "www.si.edu/Encyclopedia_SI/nmah/earlycars.htm",
+        "Width": "500",
+        "Height": "332",
+        "FileSize": "42398",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M1c6c71fc283718595423167180ae9860o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "8213"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=11&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "2fe46b24-6103-478f-9771-6cc4c9315976",
+        "Title": "File:American (1902 automobile).jpg - Wikimedia Commons",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/7/7e/American_(1902_automobile).jpg",
+        "SourceUrl": "http://commons.wikimedia.org/wiki/file:american_(1902_automobile).jpg",
+        "DisplayUrl": "commons.wikimedia.org/wiki/file:american_(1902_automobile).jpg",
+        "Width": "882",
+        "Height": "745",
+        "FileSize": "150198",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M4a41ae7589061871d8b369f49401fa02o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "253",
+          "FileSize": "12946"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=12&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1b24b780-b5ba-47f8-b07c-6dd253ae3bad",
+        "Title": "History of American Automobile 1861-1929 Chapter 7",
+        "MediaUrl": "http://earlyamericanautomobiles.com/images/autos2114.jpg",
+        "SourceUrl": "http://www.earlyamericanautomobiles.com/americanautomobiles6.htm",
+        "DisplayUrl": "www.earlyamericanautomobiles.com/americanautomobiles6.htm",
+        "Width": "395",
+        "Height": "281",
+        "FileSize": "26955",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Mce0d25ff3b69cdd6fd9b86102cb9bbb6o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "213",
+          "FileSize": "11007"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=13&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "89e73483-27be-4adf-87bf-0153382a6180",
+        "Title": "1905 Buffum Model G Geyhound Roadster with rumble seat",
+        "MediaUrl": "http://www.earlyamericanautomobiles.com/images/autos3444.jpg",
+        "SourceUrl": "http://www.earlyamericanautomobiles.com/americanautomobiles7.htm",
+        "DisplayUrl": "www.earlyamericanautomobiles.com/americanautomobiles7.htm",
+        "Width": "500",
+        "Height": "270",
+        "FileSize": "44291",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M51783c3c027ccf7ab2c2656706a91a2co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "162",
+          "FileSize": "10042"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=14&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "68292fad-47ae-4512-bbb3-fd360a4749f6",
+        "Title": "File:LaSalle 1930.jpg - Wikipedia, the free encyclopedia",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/7/7e/LaSalle_1930.jpg",
+        "SourceUrl": "http://en.wikipedia.org/wiki/file:lasalle_1930.jpg",
+        "DisplayUrl": "en.wikipedia.org/wiki/file:lasalle_1930.jpg",
+        "Width": "1503",
+        "Height": "890",
+        "FileSize": "437265",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mf7c20aa6a6a7cd5c90463d2da6d1bac7H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "177",
+          "FileSize": "15988"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=15&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9ffe402f-a085-46c7-930d-1d7465cf81ed",
+        "Title": "1928 Cadillac Al Capone Town Sedan Images | Pictures and Videos",
+        "MediaUrl": "http://c.images.boldride.com/cadillac/1928/cadillac-al-capone-town-sedan.2000x1333.Dec-15-2011_19.57.24.056909.jpg",
+        "SourceUrl": "http://www.boldride.com/ride/1928/cadillac-al-capone-town-sedan",
+        "DisplayUrl": "www.boldride.com/ride/1928/cadillac-al-capone-town-sedan",
+        "Width": "2000",
+        "Height": "1333",
+        "FileSize": "1229746",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M01d76cc25e38f9b8a3fa908fe1883dd7o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "8450"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=16&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a2c7a865-bba6-43cd-b0e1-7bc56082ad15",
+        "Title": "history ｜最新詳盡直擊!! [文+圖+影] - 生活資訊 ...",
+        "MediaUrl": "http://www.americanautohistory.com/images/Marques/Marque701/data/images/1916_buick.jpg",
+        "SourceUrl": "http://wwwx3.3boys2girls.com/ysearch2013.php?srchtxt=history&mode=2&page=18&sid=eivhz5&mobile=yes",
+        "DisplayUrl": "wwwx3.3boys2girls.com/ysearch2013.php?srchtxt=history&mode=2&page...",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "290660",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M14d7cfa218cbe67c501df8b9040cd50co0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "8154"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=17&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "71f454ec-6b06-4183-a7e3-f05d2fc37f45",
+        "Title": "History of Early American Automobiles 1861-1929 page 8b",
+        "MediaUrl": "http://www.earlyamericanautomobiles.com/images/amer531.jpg",
+        "SourceUrl": "http://www.earlyamericanautomobiles.com/americanautomobiles8b.htm",
+        "DisplayUrl": "www.earlyamericanautomobiles.com/americanautomobiles8b.htm",
+        "Width": "550",
+        "Height": "344",
+        "FileSize": "37654",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M91411648f20635db6b177afa1b42be99o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "8115"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=18&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "700e04d8-39f3-491d-a79c-2911d6310cf1",
+        "Title": "Early American Automobile History 1861-1929 Cycle Cars",
+        "MediaUrl": "http://www.earlyamericanautomobiles.com/images/advert1097.jpg",
+        "SourceUrl": "http://www.earlyamericanautomobiles.com/americanautomobiles11a.htm",
+        "DisplayUrl": "www.earlyamericanautomobiles.com/americanautomobiles11a.htm",
+        "Width": "529",
+        "Height": "335",
+        "FileSize": "27851",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M3dcf628b59626c781925d1daecdcefa7o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "189",
+          "FileSize": "7545"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=19&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "d69727e4-aead-46f5-a41b-070c584e3072",
+        "Title": "File:Bliven Franklin automobile.jpg - Wikipedia, the free encyclopedia",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/8/85/Bliven_Franklin_automobile.jpg",
+        "SourceUrl": "http://en.wikipedia.org/wiki/File:Bliven_Franklin_automobile.jpg",
+        "DisplayUrl": "en.wikipedia.org/wiki/File:Bliven_Franklin_automobile.jpg",
+        "Width": "9436",
+        "Height": "7417",
+        "FileSize": "20971022",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mdba66678c585a30d75df647d848f3910o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "235",
+          "FileSize": "15587"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=20&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "735040bf-04b3-4317-93cb-a59ec049edb5",
+        "Title": "Car Culture History Quiz -- Olympian Cars of the 1930s",
+        "MediaUrl": "http://4.bp.blogspot.com/_9jBbsunLe6U/TN3tvMqAMZI/AAAAAAAACBw/vFb27zULS5s/s1600/1925%2BDuesenberg%2B8.jpg",
+        "SourceUrl": "http://automobileandamericanlife.blogspot.com/2010/11/car-culture-history-quiz-olympian-cars.html",
+        "DisplayUrl": "automobileandamericanlife.blogspot.com/2010/11/car-culture-history...",
+        "Width": "360",
+        "Height": "261",
+        "FileSize": "17779",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mb25877924db1fa566eeca34aa417634do0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "217",
+          "FileSize": "10136"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=21&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "33cdeb7e-6375-4a23-b83b-d3dc6c3f13bf",
+        "Title": "Car History - A Vision Becomes Reality (Part 1: The Automobile ...",
+        "MediaUrl": "http://www.americanautohistory.com/images/Articles/Article001/data/images/cugnot_steam_traction_engine.jpg",
+        "SourceUrl": "http://www.americanautohistory.com/Articles/Article001.htm",
+        "DisplayUrl": "www.americanautohistory.com/Articles/Article001.htm",
+        "Width": "1024",
+        "Height": "430",
+        "FileSize": "230877",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M5e04e2e84201eb1ce40aaa8397db38bao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "125",
+          "FileSize": "6077"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=22&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a339fe1b-ca62-49ed-a241-9a35dc8e3413",
+        "Title": "The Automobile and American Life: African American Auto Mechanics ...",
+        "MediaUrl": "http://3.bp.blogspot.com/-VxyaMh6HtHY/UbtaA98iF7I/AAAAAAAAGAg/xC_auxrE6B4/s1600/blackmenservicegaragepennsylvania.JPG",
+        "SourceUrl": "http://automobileandamericanlife.blogspot.com/2013/06/african-american-auto-mechanics-1950s.html",
+        "DisplayUrl": "automobileandamericanlife.blogspot.com/2013/06/african-american...",
+        "Width": "800",
+        "Height": "618",
+        "FileSize": "73290",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M8cd8e8e07f5fb9f452850221a829ef66o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "231",
+          "FileSize": "11782"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=23&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "dc75744c-9b10-40e2-9281-7c8e57e03887",
+        "Title": "Morris & Salom's Of Philadelphia - 1895 Electrobat Electric Automobile",
+        "MediaUrl": "http://www.american-automobiles.com/images2/Electrobat-1895.jpg",
+        "SourceUrl": "http://www.american-automobiles.com/Electric-Cars/Early-American-Electric-Automobiles.html",
+        "DisplayUrl": "www.american-automobiles.com/Electric-Cars/Early-American-Electric...",
+        "Width": "550",
+        "Height": "478",
+        "FileSize": "53500",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M7c5f625987441ff50396645f5d1ec7ffo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "260",
+          "FileSize": "14890"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=24&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "1a12cacf-afe1-4088-a9da-87d852c2f4f2",
+        "Title": "Here’s what the ‘48 looks like:",
+        "MediaUrl": "http://blogs.solidworks.com/tech/wp-content/uploads/sites/4/Tucker-48.jpg",
+        "SourceUrl": "http://blogs.solidworks.com/solidworksblog/2014/08/solidworks-and-the-tucker-torpedo.html",
+        "DisplayUrl": "blogs.solidworks.com/solidworksblog/2014/08/solidworks-and-the...",
+        "Width": "697",
+        "Height": "464",
+        "FileSize": "117501",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M45ec0a7e8257b5abc75e0450c3d2b246o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "199",
+          "FileSize": "11148"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=25&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4666bc58-e182-4e27-b50b-3216bae879e2",
+        "Title": "Black American History: The Patterson-Greenfield Automobile Company ...",
+        "MediaUrl": "http://mrmilitantnegro.files.wordpress.com/2014/09/nma_oas_sep14_img03.jpg?w=468",
+        "SourceUrl": "http://theobamacrat.com/2014/09/27/black-american-history-the-patterson-greenfield-automobile-company-the-only-african-american-automobile-company/",
+        "DisplayUrl": "theobamacrat.com/2014/09/27/black-american-history-the-patterson...",
+        "Width": "296",
+        "Height": "227",
+        "FileSize": "36631",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M807f9f21161a6c77dc3b35163742c61bo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "296",
+          "Height": "227",
+          "FileSize": "13262"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=26&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6ad359e8-0ece-47fd-b2ef-eb8e7c3f758d",
+        "Title": "The American Underslung was an American automobile, the brainchild of ...",
+        "MediaUrl": "http://www.motor-car.co.uk/images/A/usa/under/American-Underslung-phot.jpg",
+        "SourceUrl": "http://www.motor-car.co.uk/usa/item/13609-american-underslung",
+        "DisplayUrl": "www.motor-car.co.uk/usa/item/13609-american-underslung",
+        "Width": "500",
+        "Height": "302",
+        "FileSize": "26704",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M1444dbbe542f30d4716a2a86109e1538o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "181",
+          "FileSize": "9839"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=27&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "8afd2c90-f217-4b4d-aa16-8b37037b307a",
+        "Title": "History of Electric Cars Electric Vehicles News",
+        "MediaUrl": "http://www.electricvehiclesnews.com/History/images/EdisonElectricCar1913.jpg",
+        "SourceUrl": "http://electricvehiclesnews.com/History/historyearly.htm",
+        "DisplayUrl": "electricvehiclesnews.com/History/historyearly.htm",
+        "Width": "441",
+        "Height": "349",
+        "FileSize": "50711",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M59463476d305ee545c26a4e5489f6722o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "237",
+          "FileSize": "15146"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=28&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "26cf50f4-cdd2-43a5-93b8-26be47c5d56e",
+        "Title": "Nash Rambler History",
+        "MediaUrl": "http://www.amcrc.com/feature/nash-rambler-history-800X800.jpg",
+        "SourceUrl": "http://www.amcrc.com/feature/nr.html",
+        "DisplayUrl": "www.amcrc.com/feature/nr.html",
+        "Width": "494",
+        "Height": "302",
+        "FileSize": "69565",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M28c858f3fd6ca8494bc4892683a31408o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "183",
+          "FileSize": "6648"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=29&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "2c4c6b50-81cc-4652-8165-63640690e015",
+        "Title": "File:1923 Duesenberg Model A Rubay Touring p1.JPG - Wikipedia, the ...",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/7/7c/1923_Duesenberg_Model_A_Rubay_Touring_p1.JPG",
+        "SourceUrl": "http://en.wikipedia.org/wiki/File:1923_Duesenberg_Model_A_Rubay_Touring_p1.JPG",
+        "DisplayUrl": "en.wikipedia.org/wiki/File:1923_Duesenberg_Model_A_Rubay_Touring_p1...",
+        "Width": "3309",
+        "Height": "2488",
+        "FileSize": "3093762",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M1344c79892403fb005f110b769d7be67o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "10556"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=30&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "15cf3830-760b-4146-ae23-37075cc7223f",
+        "Title": "Kaiser-Frazer: Capsule history of an American classic",
+        "MediaUrl": "http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/5b/70/5b70317b6fe2926185710183a368e9a4.jpg?itok=IrQTCsvJ",
+        "SourceUrl": "http://www.examiner.com/article/kaiser-frazer-capsule-history-of-an-american-classic",
+        "DisplayUrl": "www.examiner.com/article/kaiser-frazer-capsule-history-of-an...",
+        "Width": "540",
+        "Height": "218",
+        "FileSize": "46925",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M895fa6c0897a3f462839494ab10a5590o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "121",
+          "FileSize": "8768"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=31&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "0ab01e3c-9ec5-4f44-a441-03d3ad977aff",
+        "Title": "History of Early American Automobile Industry 1891-1929",
+        "MediaUrl": "http://earlyamericanautomobiles.com/images/autos2837.jpg",
+        "SourceUrl": "http://www.earlyamericanautomobiles.com/americanautomobiles23.htm",
+        "DisplayUrl": "www.earlyamericanautomobiles.com/americanautomobiles23.htm",
+        "Width": "432",
+        "Height": "276",
+        "FileSize": "38771",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.Ma28d9587b22e741f6d8352c83b9e1b96o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "191",
+          "FileSize": "12882"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=32&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7fdf5264-4fd4-4bd2-bc4d-061f5be570a7",
+        "Title": "Car History - Buick (Part 1: 1900-1915)",
+        "MediaUrl": "http://www.americanautohistory.com/images/Marques/Marque700/data/images/1905_buick_model_c.jpg",
+        "SourceUrl": "http://www.americanautohistory.com/Marques/Marque700.htm",
+        "DisplayUrl": "www.americanautohistory.com/Marques/Marque700.htm",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "441661",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mfb84a1acb52597b4a845343d2ddb1933o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "16454"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=33&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "bbd109c6-709a-4a96-939a-287875f749a0",
+        "Title": "American Auto History 1000 Piece Puzzle | | Calendars.com",
+        "MediaUrl": "http://www.calendars.com/img/p/orig/201200008913.jpg",
+        "SourceUrl": "http://calendars.com/american-auto-history-1000-piece-puzzle/prod201200008913/?categoryid=cat00689",
+        "DisplayUrl": "calendars.com/american-auto-history-1000-piece-puzzle...",
+        "Width": "500",
+        "Height": "500",
+        "FileSize": "171374",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M11254d063d8f54473e2e6c7a7d36d86fo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "300",
+          "FileSize": "39957"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=34&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "6108f90c-e35a-4241-aacd-e327a6b2b765",
+        "Title": "Henry Ford and the History of the Assembly Line | American Auto Move",
+        "MediaUrl": "http://www.americanautomove.com/wp-content/uploads/2013/03/ford_assembly.jpg",
+        "SourceUrl": "http://www.americanautomove.com/henry-ford-and-the-history-of-the-automobile-assembly-line/",
+        "DisplayUrl": "www.americanautomove.com/henry-ford-and-the-history-of-the...",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "255419",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M99951a545c06585a4ee9e16c1b49ed15H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "11846"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=35&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "611bf9c8-bc8f-421b-a6dc-3a45fb72e22d",
+        "Title": "1968 American Motors AMX - Classic Car Price Guide",
+        "MediaUrl": "http://s3.amazonaws.com/images.hagerty.com/vehicle/web/1968%20American%20Motors%20AMX.jpg",
+        "SourceUrl": "http://hagerty.com/price-guide/1968-american_motors-amx",
+        "DisplayUrl": "hagerty.com/price-guide/1968-american_motors-amx",
+        "Width": "800",
+        "Height": "359",
+        "FileSize": "53636",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M82a6d5b9c5792598c078e533337af7f0o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "134",
+          "FileSize": "6400"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=36&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "dbd97e82-781d-414c-a122-086a1f7982e9",
+        "Title": "American Automotive Industry Timeline Infographic",
+        "MediaUrl": "http://thumbnails.visually.netdna-cdn.com/american-automotive-industry-timeline_50291519d9d32.jpg",
+        "SourceUrl": "http://visual.ly/american-automotive-industry-timeline",
+        "DisplayUrl": "visual.ly/american-automotive-industry-timeline",
+        "Width": "1024",
+        "Height": "341",
+        "FileSize": "137455",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M2b278aa2a57690a25ab6f06cee105e94o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "99",
+          "FileSize": "5542"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=37&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5337b9ca-4ec3-4a3a-bf39-5f1663442962",
+        "Title": "comfortable and refined high speed travel - the 18/50 and 20.9",
+        "MediaUrl": "http://www.crossley-motors.org.uk/history/1920/18-50.jpg",
+        "SourceUrl": "http://www.crossley-motors.org.uk/history/1920.html",
+        "DisplayUrl": "www.crossley-motors.org.uk/history/1920.html",
+        "Width": "480",
+        "Height": "300",
+        "FileSize": "15052",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts4.mm.bing.net/th?id=OIP.M51d13c4ca206344529cd1f05ba71b17eH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "187",
+          "FileSize": "15488"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=38&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7f879b78-b367-4820-8ee1-b02411c33b12",
+        "Title": "AMERICAN AUTOMOBILE RACING -1900'S-70'S RACE CAR AUTO RACING PHOTO ...",
+        "MediaUrl": "http://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/4csAAOSwRLZUAtKz/$_35.JPG",
+        "SourceUrl": "http://ebay.co.uk/itm/american-automobile-racing-1900s-70s-race-car-auto-racing-photo-history-book-/121424747684",
+        "DisplayUrl": "ebay.co.uk/itm/american-automobile-racing-1900s-70s-race-car-auto...",
+        "Width": "300",
+        "Height": "225",
+        "FileSize": "18150",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M669250d4152ad0c3aa829507ed0e73c1o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "13551"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=39&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "9b992478-13da-4d40-88b7-b2fe267fecd2",
+        "Title": "articles featured auto makes automobile pioneers about home automobile ...",
+        "MediaUrl": "http://www.americanautohistory.com/images/Pioneers/Pioneer130/data/images/louis_chevrolet.jpg",
+        "SourceUrl": "http://www.americanautohistory.com/Pioneers/Pioneer130.htm",
+        "DisplayUrl": "www.americanautohistory.com/Pioneers/Pioneer130.htm",
+        "Width": "500",
+        "Height": "600",
+        "FileSize": "173729",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Md468dcddf54cb82c1a07600c898dcaaco0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "250",
+          "Height": "300",
+          "FileSize": "11148"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=40&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "5e758b17-d7b5-4f4f-9a19-062b669de441",
+        "Title": "Printing history: the first advert for an automobile appears in ...",
+        "MediaUrl": "http://www.prepressure.com/images/printing-history-first-advert-automobile.jpg",
+        "SourceUrl": "http://www.prepressure.com/printing/history/1800-1899",
+        "DisplayUrl": "www.prepressure.com/printing/history/1800-1899",
+        "Width": "450",
+        "Height": "410",
+        "FileSize": "51108",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.Me578a097e4de973b829f224fdc461b1ao0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "273",
+          "FileSize": "22963"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=41&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "e0881c5a-5932-43f3-b2d4-1ebd590b74aa",
+        "Title": "Ford Mustang history, photos on Better Parts LTD",
+        "MediaUrl": "http://srv2.betterparts.org/images/ford-mustang-10.jpg",
+        "SourceUrl": "http://betterparts.org/ford/ford-mustang.html",
+        "DisplayUrl": "betterparts.org/ford/ford-mustang.html",
+        "Width": "1280",
+        "Height": "782",
+        "FileSize": "82606",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Med8cd33d8d68db6bda930f77a83325eeo0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "183",
+          "FileSize": "10399"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=42&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "c41b2103-6541-4f39-9b08-82e78b359f68",
+        "Title": "This made Pontiac head honchos think about alternative means of ...",
+        "MediaUrl": "http://s1.cdn.autoevolution.com/images/news/muscle-cars-history-the-pontiac-gto-5493_2.jpg",
+        "SourceUrl": "http://www.autoevolution.com/news/muscle-cars-history-the-pontiac-gto-5493.html",
+        "DisplayUrl": "www.autoevolution.com/news/muscle-cars-history-the-pontiac-gto-5493...",
+        "Width": "1024",
+        "Height": "666",
+        "FileSize": "472900",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M68753065ba4d7b15d3f2df7e85584bf4H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "195",
+          "FileSize": "8117"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=43&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "a87587e5-308c-4b4d-a4aa-1e447cbb0f51",
+        "Title": "boom in the car industry came from Ford’s withthe legendary Ford ...",
+        "MediaUrl": "http://www.historylearningsite.co.uk/fileadmin/historyLearningSite/Americ2.jpg",
+        "SourceUrl": "http://www.historylearningsite.co.uk/America_economy_1920s.htm",
+        "DisplayUrl": "www.historylearningsite.co.uk/America_economy_1920s.htm",
+        "Width": "297",
+        "Height": "191",
+        "FileSize": "9527",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mb60564408fe839ef3a59844a7a0f85bdH0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "297",
+          "Height": "191",
+          "FileSize": "11078"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=44&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7943e570-a648-4a1f-8863-019df3bfa0f6",
+        "Title": "... working in the Packard Motor Car Co. in Detroit. (AP Photo/File",
+        "MediaUrl": "http://media.pennlive.com/midstate_impact/photo/packard-motor-co-8e4c23d3f59581af.jpg",
+        "SourceUrl": "http://www.pennlive.com/midstate/index.ssf/2013/07/auto_industry_troubles_racial.html",
+        "DisplayUrl": "www.pennlive.com/midstate/index.ssf/2013/07/auto_industry_troubles...",
+        "Width": "1534",
+        "Height": "1116",
+        "FileSize": "260376",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M2ce90405ae9c0dbb0f5258a8222f2064H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "218",
+          "FileSize": "18118"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=45&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "4cc15cab-f983-475a-8aba-a95c81d2e2a9",
+        "Title": "Early American Automobiles",
+        "MediaUrl": "http://www.earlyamericanautomobiles.com/images/autos2281.jpg",
+        "SourceUrl": "http://www.earlyamericanautomobiles.com/1917.htm",
+        "DisplayUrl": "www.earlyamericanautomobiles.com/1917.htm",
+        "Width": "432",
+        "Height": "278",
+        "FileSize": "42554",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.M209e4a15a95050704ad11808860413bco0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "193",
+          "FileSize": "14878"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=46&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "238574b3-9962-423f-8024-4006757975e7",
+        "Title": "... - Patents and the History of Technology: First American Electric Car",
+        "MediaUrl": "http://patentpending.blogs.com/photos/uncategorized/capture4172006122027_am.jpg",
+        "SourceUrl": "http://patentpending.blogs.com/patent_pending_blog/2006/04/the_first_ameri.html",
+        "DisplayUrl": "patentpending.blogs.com/patent_pending_blog/2006/04/the_first_ameri...",
+        "Width": "640",
+        "Height": "357",
+        "FileSize": "84108",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts3.mm.bing.net/th?id=OIP.M93063a19589911da5cb5349f3a892110o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "167",
+          "FileSize": "8043"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=47&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "7b55ebd8-95dd-45db-a445-9c10c5101a09",
+        "Title": "File:Chaine Citroen typea.jpg - Wikimedia Commons",
+        "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/4/4e/Chaine_Citroen_typea.jpg",
+        "SourceUrl": "http://commons.wikimedia.org/wiki/File:Chaine_Citroen_typea.jpg",
+        "DisplayUrl": "commons.wikimedia.org/wiki/File:Chaine_Citroen_typea.jpg",
+        "Width": "2496",
+        "Height": "1493",
+        "FileSize": "5497841",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mc24dd494f6c097eb627a31c37189e6d4o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "179",
+          "FileSize": "12079"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=48&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "317e99d4-7bd4-42f9-b025-7cb274f33a27",
+        "Title": "Car History - Get a Horse! (Part 1: Early Skepticism)",
+        "MediaUrl": "http://www.americanautohistory.com/images/Articles/Article005/Originals/George%20Selden.jpg",
+        "SourceUrl": "http://www.americanautohistory.com/Articles/Article005.htm",
+        "DisplayUrl": "www.americanautohistory.com/Articles/Article005.htm",
+        "Width": "1024",
+        "Height": "768",
+        "FileSize": "184322",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mab59c98d1f16f6d96bdaccfac6314165o0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "225",
+          "FileSize": "17635"
+        }
+      },
+      {
+        "__metadata": {
+          "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american automobile history car'&$skip=49&$top=1",
+          "type": "ImageResult"
+        },
+        "ID": "aea3b1c5-0cd0-4496-a352-770928b41a10",
+        "Title": "Car - 1933 Essex Terraplane 8 Crimes and Criminals American History ...",
+        "MediaUrl": "https://www.awesomestories.com/images/user/f3c3ac5f74.jpg",
+        "SourceUrl": "https://www.awesomestories.com/asset/view/Dillinger-Car-1933-Essex-Terraplane-8",
+        "DisplayUrl": "https://www.awesomestories.com/asset/view/Dillinger-Car-1933-Essex...",
+        "Width": "600",
+        "Height": "416",
+        "FileSize": "49425",
+        "ContentType": "jpeg",
+        "Thumbnail": {
+          "__metadata": {
+            "type": "Bing.Thumbnail"
+          },
+          "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mf4cc1fe3e9db0724de2d7b7be9a713a5H0&pid=15.1",
+          "ContentType": "jpg",
+          "Width": "300",
+          "Height": "208",
+          "FileSize": "13923"
+        }
+      }
+    ],
+    "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Image?Query='american%20automobile%20history%20car'&$skip=50&$top=50"
+  }
+}
